@@ -26,5 +26,6 @@
   "alwaysUpdateLinks": true,
   "trashOption": "none",
   "newFileLocation": "current",
-  "foldIndent": false
+  "foldIndent": false,
+  "attachmentFolderPath": "Misc./attachments"
 }
