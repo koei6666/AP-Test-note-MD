@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "f508dbce8c83b8c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "43abd77cd5d4ba54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "475b901f07327c3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ソフトウエア/タスクのスケジューリング方式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba803d5a5deb718f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4013b0a22224688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "440ea08583b120be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "772bbd8c7686653f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ドリブン",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5e9104d6004fedc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.50390243530273
+  },
+  "right": {
+    "id": "fa4ce6650fe894ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "586daccbee166f47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51977e5c13e346a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ソフトウエア/タスクのスケジューリング方式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "279afa564989c1d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ソフトウエア/タスクのスケジューリング方式.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f83d9acec0473f45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4dee55171cb593d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ソフトウエア/タスクのスケジューリング方式.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "772bbd8c7686653f",
+  "lastOpenFiles": [
+    "ソフトウエア/タスクの状態遷移.md",
+    "ソフトウエア/タスクのスケジューリング方式.md",
+    "ソフトウエア/ソフトウエア.md",
+    "ソフトウエア/タスク(プロセス)管理.md",
+    "ソフトウエア/タスクの切り替え.md",
+    "システムの構成要素/高信頼性・高性能システム.md",
+    "ハードウェア/割り込み制御.md",
+    "アルゴリズムとプログラミング/構造　スタック.md",
+    "ハードウェア/プロセッサの構成と動作.md",
+    "Misc./過去問.md",
+    "システムの構成要素/キャパシティプランニング.md",
+    "システムの構成要素/サーバ仮想化.md",
+    "Misc./名詞解説・詳細説明.md",
+    "システムの構成要素/システムの構成と信頼性設計.md",
+    "Pasted image 20230725205355.png",
+    "Pasted image 20230725205317.png",
+    "ハードウェア/マルチプロセッサ.md",
+    "Pasted image 20230725205154.png",
+    "Pasted image 20230725205136.png",
+    "システムの構成要素/通信網の構成と信頼性.md",
+    "Pasted image 20230725203340.png",
+    "システムの構成要素/システムの性能指標.md",
+    "システムの構成要素/待ち行列理論.md",
+    "システムの構成要素/集中処理システムと分散処理システム.md",
+    "システムの構成要素/システムの性能特性と評価.md",
+    "システムの構成要素/システムの性能評価の技法.md",
+    "システムの構成要素/システムの信頼性評価指標.md",
+    "Pasted image 20230725201818.png",
+    "ソフトウエア/カーネル.md",
+    "Misc./Knowledge.md",
+    "ソフトウエア/制御プログラム.md",
+    "ソフトウエア/デバイスドライバ.md",
+    "ソフトウエア",
+    "Untitled Diagram 3.svg",
+    "Pasted image 20230723124401.png",
+    "Pasted image 20230723123944.png",
+    "Pasted image 20230723121333.png",
+    "Misc.",
+    "システムの構成要素",
+    "アルゴリズムとプログラミング",
+    "ハードウェア",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "M/M",
+    "M"
+  ]
+}
