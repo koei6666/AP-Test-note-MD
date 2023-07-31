@@ -20,18 +20,43 @@
             }
           },
           {
-            "id": "de10cba3d89e166d",
+            "id": "008d3d5f157a738a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "システムの構成要素/システムの性能評価の技法.md",
+                "file": "ソフトウエア/ページング方式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0efdc013bf170adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc./過去問.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75c67079f3e3ef58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc./名詞解説・詳細説明.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc./過去問.md",
+                "file": "ソフトウエア/ページング方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc./過去問.md",
+                "file": "ソフトウエア/ページング方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc./過去問.md"
+                "file": "ソフトウエア/ページング方式.md"
               }
             }
           }
@@ -158,46 +184,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "475b901f07327c3a",
+  "active": "008d3d5f157a738a",
   "lastOpenFiles": [
+    "Misc./名詞解説・詳細説明.md",
+    "ソフトウエア/ページング方式.md",
+    "Misc./過去問.md",
+    "Misc./attachments/Pasted image 20230731233543.png",
+    "Misc./attachments/Pasted image 20230731232824.png",
+    "ソフトウエア/仮想記憶管理.md",
+    "ソフトウエア/記憶管理.md",
+    "ソフトウエア/実記憶管理.md",
+    "ソフトウエア/オーバレイ方式.md",
+    "システムの構成要素/システムの性能評価の技法.md",
+    "ハードウェア/マルチプロセッサ.md",
+    "システムの構成要素/システムの構成と信頼性設計.md",
+    "システムの構成要素/Webシステムの三層構造.md",
+    "システムの構成要素/高信頼性・高性能システム.md",
+    "Misc./attachments/Pasted image 20230730130611.png",
+    "Misc./attachments/Pasted image 20230730124722.png",
     "Misc./attachments/Pasted image 20230729165034.png",
+    "システムの構成要素/複数システムの稼働率.md",
+    "システムの構成要素/通信網の構成と信頼性.md",
+    "システムの構成要素/ネットワーク評価への適用.md",
+    "ソフトウエア/ソフトウエア.md",
+    "ソフトウエア/可変区画方式.md",
+    "ソフトウエア/固定区画方式.md",
+    "ソフトウエア/プロセスとスレード.md",
     "Misc./attachments/Pasted image 20230729164609.png",
     "Misc./attachments/Pasted image 20230729164512.png",
     "Misc./attachments/Pasted Graphic 1.png",
     "misc./attachments/IMG_2961.jpeg",
     "Misc./attachments/IMG_2962.gif",
-    "Misc./attachments/IMG_2961.jpeg",
     "Misc./attachments",
     "misc./attachments",
-    "Misc./過去問.md",
-    "Misc./attachments/Pasted image 20230729163548.png",
-    "システムの構成要素/システムの性能評価の技法.md",
     "システムの構成要素/キャパシティプランニング.md",
     "ソフトウエア/制御プログラム.md",
-    "ソフトウエア/プロセスとスレード.md",
-    "ソフトウエア/ソフトウエア.md",
     "ソフトウエア/タスク(プロセス)管理.md",
     "ソフトウエア/デッドロック.md",
     "ソフトウエア/タスクのスケジューリング方式.md",
     "ソフトウエア/タスクの状態遷移.md",
-    "ソフトウエア/タスクの切り替え.md",
-    "ソフトウエア/排他制御.md",
-    "ソフトウエア/セマフォ.md",
-    "ソフトウエア/同期制御.md",
-    "システムの構成要素/高信頼性・高性能システム.md",
-    "ハードウェア/割り込み制御.md",
-    "アルゴリズムとプログラミング/構造　スタック.md",
-    "ハードウェア/プロセッサの構成と動作.md",
-    "システムの構成要素/サーバ仮想化.md",
-    "Misc./名詞解説・詳細説明.md",
-    "システムの構成要素/システムの構成と信頼性設計.md",
-    "Misc./attachments/Pasted image 20230725205355.png",
-    "Misc./attachments/Pasted image 20230725205317.png",
-    "ハードウェア/マルチプロセッサ.md",
-    "Misc./attachments/Pasted image 20230725205154.png",
-    "システムの構成要素/通信網の構成と信頼性.md",
-    "システムの構成要素/システムの性能指標.md",
-    "システムの構成要素/待ち行列理論.md",
     "ソフトウエア",
     "Misc.",
     "システムの構成要素",

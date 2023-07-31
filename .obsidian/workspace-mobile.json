@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c9e483e9f3d2c608",
+        "id": "33d9de98e9039c2c",
         "type": "tabs",
         "children": [
           {
-            "id": "704890e232ec245b",
+            "id": "79d24a8c9ceb2286",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "システムの構成要素/稼働率.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "システムの構成要素/稼働率.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "システムの構成要素/稼働率.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "システムの構成要素/稼働率.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,8 +123,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "704890e232ec245b",
+  "active": "79d24a8c9ceb2286",
   "lastOpenFiles": [
+    "ソフトウエア/セマフォ.md",
+    "ソフトウエア/排他制御.md",
+    "ソフトウエア/カーネル.md",
+    "ソフトウエア/同期制御.md",
+    "システムの構成要素/稼働率.md",
+    "ソフトウエア/デバイスドライバ.md",
+    "ソフトウエア/制御プログラム.md",
+    "ソフトウエア/OSの構成と機能.md",
+    "Misc./attachments/Pasted image 20230729164512.png",
+    "ソフトウエア/タスクの切り替え.md",
+    "Misc./attachments/Pasted image 20230729163548.png",
+    "ソフトウエア/デッドロック.md",
+    "ソフトウエア/タスクのスケジューリング方式.md",
+    "Misc./attachments/Pasted image 20230729165034.png",
+    "Misc./attachments/Pasted image 20230729164609.png",
+    "ソフトウエア/タスク(プロセス)管理.md",
+    "ソフトウエア/タスクの状態遷移.md",
+    "ソフトウエア/プロセスとスレード.md",
     "Pasted image 20230723120108.png",
     "Pasted image 20230721211159.png",
     "Pasted image 20230721204603.png",
@@ -141,12 +151,7 @@
     "Pasted image 20230723123944.png",
     "Pasted image 20230723124401.png",
     "システムの構成要素/ネットワーク透過性.md",
-    "Pasted image 20230723105812.png",
-    "Pasted image 20230723105312.png",
     "ソフトウエア/ソフトウエア.md",
-    "Pasted image 20230723104816.png",
-    "Pasted image 20230721205917.png",
-    "Pasted image 20230722115341.png",
     "システムの構成要素/MVCシステム.md",
     "システムの構成要素/複数システムの稼働率.md",
     "システムの構成要素/通信網の構成と信頼性.md",
@@ -156,19 +161,6 @@
     "システムの構成要素/システムの信頼性評価指標.md",
     "システムの構成要素/システムの信頼性特性と評価.md",
     "システムの構成要素/システムの信頼性計算.md",
-    "システムの構成要素/稼働率.md",
-    "システムの構成要素/ケンドール記号と確率分布.md",
-    "システムの構成要素/待ち行列理論.md",
-    "アルゴリズムとプログラミング/スクリプト言語.md",
-    "システムの構成要素/ネットワーク評価への適用.md",
-    "システムの構成要素/待ち行列理論の適用.md",
-    "アルゴリズムとプログラミング/データ構造.md",
-    "アルゴリズムとプログラミング/探索アルゴリズム.md",
-    "システムの構成要素/システムの性能評価の技法.md",
-    "システムの構成要素/SAN接続方式.md",
-    "システムの構成要素/RAID.md",
-    "システムの構成要素/ストレージの接続形態.md",
-    "システムの構成要素/クライアントサーバー関連技術.md",
     "システムの構成要素",
     "アルゴリズムとプログラミング",
     "ハードウェア",
