@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ソフトウエア/リンク.md",
+                "file": "ソフトウエア/仮想記憶管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc./名詞解説・詳細説明.md",
+                "file": "Misc./過去問.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "局所",
+                "query": "スレ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ソフトウエア/リンク.md",
+                "file": "Misc./過去問.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ソフトウエア/リンク.md",
+                "file": "Misc./過去問.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ソフトウエア/リンク.md"
+                "file": "Misc./過去問.md"
               }
             }
           }
@@ -170,19 +172,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "765e43f3fa954a14",
+  "active": "75c67079f3e3ef58",
   "lastOpenFiles": [
-    "ソフトウエア/言語プロセッサ.md",
+    "ソフトウエア/タスクの切り替え.md",
+    "ソフトウエア/タスクの状態遷移.md",
+    "ソフトウエア/タスクのスケジューリング方式.md",
+    "Misc./過去問.md",
+    "アルゴリズムとプログラミング/JAVA,XMLに関連する用語.md",
+    "Misc./名詞解説・詳細説明.md",
+    "ソフトウエア/仮想記憶管理.md",
+    "ソフトウエア/ページング方式.md",
     "ソフトウエア/リンク.md",
+    "ソフトウエア/言語プロセッサ.md",
     "ソフトウエア/コンパイル技法.md",
     "ソフトウエア/ソフトウエア.md",
-    "ソフトウエア/ページング方式.md",
-    "Misc./過去問.md",
-    "ソフトウエア/仮想記憶管理.md",
     "ソフトウエア/記憶管理.md",
     "ハードウェア/記憶階層.md",
     "ハードウェア/キャッシュメモリの割付方式.md",
-    "Misc./名詞解説・詳細説明.md",
     "Misc./attachments/Pasted image 20230731233543.png",
     "Misc./attachments/Pasted image 20230731232824.png",
     "ソフトウエア/実記憶管理.md",
@@ -199,8 +205,6 @@
     "システムの構成要素/通信網の構成と信頼性.md",
     "システムの構成要素/ネットワーク評価への適用.md",
     "ソフトウエア/可変区画方式.md",
-    "ソフトウエア/固定区画方式.md",
-    "ソフトウエア/プロセスとスレード.md",
     "Misc./attachments/Pasted image 20230729164609.png",
     "Misc./attachments/Pasted image 20230729164512.png",
     "Misc./attachments/Pasted Graphic 1.png",
@@ -208,8 +212,6 @@
     "Misc./attachments/IMG_2962.gif",
     "Misc./attachments",
     "misc./attachments",
-    "システムの構成要素/キャパシティプランニング.md",
-    "ソフトウエア/制御プログラム.md",
     "ソフトウエア",
     "Misc.",
     "システムの構成要素",

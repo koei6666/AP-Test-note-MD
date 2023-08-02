@@ -4,15 +4,19 @@
 #Javaサーブレット（Servlet）
 　WEBクライアントの要求に応じて、サーバ上で実行されるJAVAプロクラム、一度ロードされるとサーバに常駐し、スレッドとして実行される。
 #JavaBeans
-　Javaで開発されたプログラムをアプリケーションの部品（Component）として使うための規約
+　プログラムの再利用を目的としてJavaで書かれたソフトウェア部品(コンポーネント)のことです。既存のBeanを組み合わせることで開発効率が向上したり、プログラムの経験がなくてもアプリケーションソフトウェアに構築ができるという利点があります。
 #EJB
-　Enterprise JavaBeansの略、JavaBeansの上に、企業向け（サーバ側の処理）の機能を追加したもの
+　Enterprise JavaBeansの略、JavaBeansをサーバサイドで実現する技術仕様です。
 #J2EE
 　Java 2 Platform, Enterprise Editionの略、WEBベースの大規模企業向けシステムにおける、サーバー側アプリケーション構築の枠組み、あるいはプラットフォーム技術に関連する仕様。
 　構成技術として、Servlet ,JSP ,EJB,JDBCなどがある。
 #AJAX
 　Asynchronous Javascript＋XMLの略。Javascriptの非同期通信を使って、画面繊維が起こらない動的インタフェースを実現する技術。
 　==検索エンジンのキーワード入力中に内容によって候補が表示されたり、キー入力の度にリアルタイムに検索結果を表示する機能にもAjaxが使われています。またAjaxを利用した有名なWebアプリケーションにGmailやGoogleMapがあります。==
+#JDBC
+　Javaでトランザクション管理を行うためのAPIである。
+#JSP
+　Javaを利用して，動的にHTML文書を作成し，クライアントに送信するための技術である。
 #DTD
 　Document Type Definationの略、==XMLの文書構造を定義するスキーマ言語==、またはXMLの文書構造を定義するための記述。
 　[[過去問#^068c63]]
