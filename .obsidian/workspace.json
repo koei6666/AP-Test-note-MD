@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "475b901f07327c3a",
+            "id": "765e43f3fa954a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc./過去問.md",
+                "file": "ソフトウエア/リンク.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "008d3d5f157a738a",
+            "id": "2590b22a7e29e3c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ソフトウエア/ページング方式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0efdc013bf170adb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc./過去問.md",
+                "file": "ハードウェア/記憶階層.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "局所",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ソフトウエア/ページング方式.md",
+                "file": "ソフトウエア/リンク.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ソフトウエア/ページング方式.md",
+                "file": "ソフトウエア/リンク.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ソフトウエア/ページング方式.md"
+                "file": "ソフトウエア/リンク.md"
               }
             }
           }
@@ -184,15 +170,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "008d3d5f157a738a",
+  "active": "765e43f3fa954a14",
   "lastOpenFiles": [
-    "Misc./名詞解説・詳細説明.md",
+    "ソフトウエア/言語プロセッサ.md",
+    "ソフトウエア/リンク.md",
+    "ソフトウエア/コンパイル技法.md",
+    "ソフトウエア/ソフトウエア.md",
     "ソフトウエア/ページング方式.md",
     "Misc./過去問.md",
-    "Misc./attachments/Pasted image 20230731233543.png",
-    "Misc./attachments/Pasted image 20230731232824.png",
     "ソフトウエア/仮想記憶管理.md",
     "ソフトウエア/記憶管理.md",
+    "ハードウェア/記憶階層.md",
+    "ハードウェア/キャッシュメモリの割付方式.md",
+    "Misc./名詞解説・詳細説明.md",
+    "Misc./attachments/Pasted image 20230731233543.png",
+    "Misc./attachments/Pasted image 20230731232824.png",
     "ソフトウエア/実記憶管理.md",
     "ソフトウエア/オーバレイ方式.md",
     "システムの構成要素/システムの性能評価の技法.md",
@@ -206,7 +198,6 @@
     "システムの構成要素/複数システムの稼働率.md",
     "システムの構成要素/通信網の構成と信頼性.md",
     "システムの構成要素/ネットワーク評価への適用.md",
-    "ソフトウエア/ソフトウエア.md",
     "ソフトウエア/可変区画方式.md",
     "ソフトウエア/固定区画方式.md",
     "ソフトウエア/プロセスとスレード.md",
@@ -219,10 +210,6 @@
     "misc./attachments",
     "システムの構成要素/キャパシティプランニング.md",
     "ソフトウエア/制御プログラム.md",
-    "ソフトウエア/タスク(プロセス)管理.md",
-    "ソフトウエア/デッドロック.md",
-    "ソフトウエア/タスクのスケジューリング方式.md",
-    "ソフトウエア/タスクの状態遷移.md",
     "ソフトウエア",
     "Misc.",
     "システムの構成要素",
