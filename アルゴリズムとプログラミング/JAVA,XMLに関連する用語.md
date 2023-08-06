@@ -35,3 +35,19 @@
 　For example, with HTML documents, the DOM represents the structure as follows: The "document" is the root node, "html" is a child node of the document, and "body" and "head" are child nodes of "html", and so on. Each of these nodes can be accessed and manipulated using various programming languages, most commonly JavaScript.
 
 　==The DOM is not a programming language, but without it, JavaScript wouldn't have any model or notion of web pages, HTML documents, XML documents, and their component parts (e.g. elements, attributes, text).== Every element in a document—the document as a whole, the head, tables within the document, table headers, text within the table cells—is part of the document object model for that document, so they can be accessed and manipulated using the DOM and a scripting language like JavaScript. ^814e5f
+
+#EAI （Enterprise Application Integration）  
+    EAI(Enterprise Application Integration)は、企業内における多種多様なコンピュータシステム群を連携させ、データやビジネスプロセスを効率的に統合する機能やそれらを行うミドルウェア・アプリケーションのことです。
+
+#ERP （Enterprise Resource Planning）  
+    ERP(Enterprise Resource Planning)は、企業全体の経営資源を有効かつ総合的に計画・管理し、経営の効率化を図るための手法です。
+
+#UML （Unified Modeling Language）  
+    UML(Unified Modeling Language)は、オブジェクト指向開発で用いられる標準表記法群で、オブジェクト間の関連や動作・構成を表現する13種の図表から構成されています。
+    [[過去問#^cf5267]]
+
+#WildFly
+　JavaEE仕様に準拠したアプリケーションサーバ
+
+#PostgreSQL
+　機能の豊富さが特徴のRDBMS
