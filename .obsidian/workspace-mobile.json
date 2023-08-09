@@ -11,8 +11,12 @@
             "id": "79d24a8c9ceb2286",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Misc./過去問.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Misc./過去問.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Misc./過去問.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Misc./過去問.md"
+          }
         }
       }
     ],
@@ -125,42 +133,43 @@
   },
   "active": "79d24a8c9ceb2286",
   "lastOpenFiles": [
-    "ソフトウエア/セマフォ.md",
-    "ソフトウエア/排他制御.md",
-    "ソフトウエア/カーネル.md",
-    "ソフトウエア/同期制御.md",
-    "システムの構成要素/稼働率.md",
+    "システムの構成要素/システムの構成と信頼性設計.md",
     "ソフトウエア/デバイスドライバ.md",
     "ソフトウエア/制御プログラム.md",
+    "ソフトウエア/カーネル.md",
     "ソフトウエア/OSの構成と機能.md",
-    "Misc./attachments/Pasted image 20230729164512.png",
-    "ソフトウエア/タスクの切り替え.md",
-    "Misc./attachments/Pasted image 20230729163548.png",
-    "ソフトウエア/デッドロック.md",
-    "ソフトウエア/タスクのスケジューリング方式.md",
-    "Misc./attachments/Pasted image 20230729165034.png",
-    "Misc./attachments/Pasted image 20230729164609.png",
-    "ソフトウエア/タスク(プロセス)管理.md",
-    "ソフトウエア/タスクの状態遷移.md",
-    "ソフトウエア/プロセスとスレード.md",
-    "Pasted image 20230723120108.png",
-    "Pasted image 20230721211159.png",
-    "Pasted image 20230721204603.png",
-    "Pasted image 20230723121333.png",
-    "ハードウェア/マルチプロセッサ.md",
-    "Pasted image 20230723123944.png",
-    "Pasted image 20230723124401.png",
-    "システムの構成要素/ネットワーク透過性.md",
     "ソフトウエア/ソフトウエア.md",
-    "システムの構成要素/MVCシステム.md",
-    "システムの構成要素/複数システムの稼働率.md",
-    "システムの構成要素/通信網の構成と信頼性.md",
-    "システムの構成要素/システムの構成要素.md",
-    "システムの構成要素/故障率.md",
-    "システムの構成要素/確率分布.md",
-    "システムの構成要素/システムの信頼性評価指標.md",
-    "システムの構成要素/システムの信頼性特性と評価.md",
-    "システムの構成要素/システムの信頼性計算.md",
+    "Misc./attachments/Pasted image 20230807210836.png",
+    "Misc./attachments/Pasted image 20230807214121.png",
+    "Misc./attachments/Pasted image 20230807213556.png",
+    "Misc./attachments/Pasted image 20230807213459.png",
+    "ソフトウエア/UNIX系OSの基本用語.md",
+    "ソフトウエア/リンク.md",
+    "ソフトウエア/コンピュータグラフィックスの基本技術.md",
+    "ソフトウエア/仮想記憶管理.md",
+    "ソフトウエア/開発を支援するツール.md",
+    "ソフトウエア/プログラミング・テスト支援.md",
+    "ソフトウエア/OSS-Open Source Software.md",
+    "ソフトウエア/コンパイル技法.md",
+    "データベース/データベース.md",
+    "ソフトウエア/ソフトウェア.canvas",
+    "ソフトウエア/ファイルシステムの構造とファイル.md",
+    "Misc./attachments/Pasted image 20230805121042.png",
+    "ソフトウエア/ページング方式.md",
+    "ソフトウエア/言語プロセッサ.md",
+    "ソフトウエア/バージョン管理ツール.md",
+    "ソフトウエア/UNIX系OS.md",
+    "Practice Knowledge/Faker.md",
+    "ソフトウエア/開発ツール.md",
+    "Misc./attachments/Pasted image 20230806130629.png",
+    "Misc./attachments/Pasted image 20230806123907.png",
+    "Misc./attachments/Pasted image 20230806115558.png",
+    "Misc./attachments/Pasted image 20230806130158.png",
+    "Misc./attachments/Pasted image 20230806130126.png",
+    "ソフトウエア/オーバレイ方式.md",
+    "ソフトウエア/固定区画方式.md",
+    "ソフトウエア/可変区画方式.md",
+    "ソフトウエア/記憶管理.md",
     "システムの構成要素",
     "アルゴリズムとプログラミング",
     "ハードウェア",

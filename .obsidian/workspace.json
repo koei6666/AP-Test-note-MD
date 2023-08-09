@@ -20,60 +20,12 @@
             }
           },
           {
-            "id": "2b64a61cddaa95eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "アルゴリズムとプログラミング/JAVA,XMLに関連する用語.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b51f560bcc1ca9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ソフトウエア/OSS-Open Source Software.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bbebfd6c32fc70d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ソフトウエア/プログラミング・テスト支援.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb97fb06a73e816d",
+            "id": "8b1138854c709e63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ソフトウエア/ファイルシステムの構造とファイル.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0670887d992404d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "システムの構成要素/システムの性能指標.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Apache",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,41 +162,42 @@
   },
   "active": "8ad9541dc83b68a5",
   "lastOpenFiles": [
-    "アルゴリズムとプログラミング/JAVA,XMLに関連する用語.md",
-    "ソフトウエア/OSS-Open Source Software.md",
+    "ソフトウエア/記憶管理.md",
     "Misc./過去問.md",
-    "システムの構成要素/ストレージの接続形態.md",
-    "Misc./attachments/Pasted image 20230806132159.png",
-    "Misc./attachments/Pasted image 20230806131857.png",
-    "Misc./attachments/Pasted image 20230806130646.png",
-    "Misc./attachments/Pasted image 20230806130629.png",
-    "Misc./attachments/Pasted image 20230806130158.png",
-    "Misc./attachments/Pasted image 20230806130126.png",
-    "Misc./attachments/Pasted image 20230806123957.png",
-    "Misc./attachments/Pasted image 20230806123907.png",
-    "ソフトウエア/プログラミング・テスト支援.md",
-    "ソフトウエア/開発ツール.md",
-    "ソフトウエア/開発を支援するツール.md",
     "ソフトウエア/ファイルシステムの構造とファイル.md",
-    "ソフトウエア/UNIX系OS.md",
+    "ソフトウエア/バージョン管理ツール.md",
+    "システムの構成要素/クライアントサーバシステムアーキテクチャ.md",
     "ソフトウエア/コンパイル技法.md",
-    "ソフトウエア/UNIX系OSの基本用語.md",
-    "ソフトウエア/カーネル.md",
-    "Misc./attachments/Pasted image 20230806115558.png",
-    "ソフトウエア/制御プログラム.md",
-    "ソフトウエア/OSの構成と機能.md",
-    "ソフトウエア/排他制御.md",
-    "ソフトウエア/デッドロック.md",
-    "ソフトウエア/タスク(プロセス)管理.md",
-    "システムの構成要素/システムの性能指標.md",
-    "Misc./名詞解説・詳細説明.md",
-    "ソフトウエア/ページング方式.md",
-    "ソフトウエア/タスクのスケジューリング方式.md",
-    "Misc./attachments/Pasted image 20230806112918.png",
-    "ソフトウエア/仮想記憶管理.md",
     "ソフトウエア/タスクの状態遷移.md",
-    "ソフトウエア/プロセスとスレード.md",
-    "ハードウェア/プロセッサの高速化技術.md",
+    "ソフトウエア/プログラミング・テスト支援.md",
+    "ソフトウエア/オーバレイ方式.md",
+    "Misc./attachments/Pasted image 20230809213455.png",
+    "Misc./attachments/Pasted image 20230809213447.png",
+    "ソフトウエア/可変区画方式.md",
+    "ソフトウエア/OSS-Open Source Software.md",
+    "Misc./名詞解説・詳細説明.md",
+    "ソフトウエア/OSS License.md",
+    "ソフトウエア/ページング方式.md",
+    "Misc./attachments/Pasted image 20230809201905.png",
+    "Misc./attachments/Pasted image 20230809201846.png",
+    "Misc./attachments/Pasted image 20230807225935.png",
+    "Misc./attachments/Pasted image 20230807225856.png",
+    "ソフトウエア/仮想記憶管理.md",
+    "Misc./attachments/Pasted image 20230807224633.png",
+    "ソフトウエア/カーネル.md",
+    "Misc./attachments/Pasted image 20230807223009.png",
+    "Misc./attachments/Pasted image 20230807222605.png",
+    "Misc./attachments/Pasted image 20230807222535.png",
+    "ソフトウエア/開発を支援するツール.md",
+    "ハードウェア/主なインターフェス規格・通信規格.md",
+    "アルゴリズムとプログラミング/アルゴリズムとプログラミング.md",
+    "ソフトウエア/タスクの切り替え.md",
+    "アルゴリズムとプログラミング/JAVA,XMLに関連する用語.md",
+    "システムの構成要素/ストレージの接続形態.md",
+    "ソフトウエア/開発ツール.md",
+    "ソフトウエア/UNIX系OS.md",
+    "ソフトウエア/UNIX系OSの基本用語.md",
+    "ソフトウエア/制御プログラム.md",
     "ソフトウエア/ソフトウェア.canvas",
     "データベース",
     "Practice Knowledge",
