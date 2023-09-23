@@ -31,3 +31,12 @@ CPS(Certificate Practice Statement):CA認証業務に関する規定
 デジタル証明書の有効性チェックは以下2つのモデルがある：
 - CRLモデル：CAがCRLを定期的に公開し、利用者がCRLを参照し、デジタル証明書の有効性を確認する
 - OCSPモデル：Online Certificate Status Protocol,利用者（OCSPクライアント)デジタル証明書のシリアルなどを、失効情報を保持しているOCSPサーバに問い合わせして、その応答でリアルタイムにデジタル証明書の有効性を確認する。
+
+### ディジタル証明書
+
+ディジタル証明書の内容はディジタルデータなので様々な媒体に格納することができます。  
+個人認証用のディジタル証明書は電子証明書と呼ばれ、公的認証サービスなどを利用すると電子証明書が記録されたICカードの発行をうけることができます。
+
+ディジタル証明書では、証明書が有効なサーバ(コモンネーム)を記述するのにIPアドレスだけでなくFQDNも使用できます。FQDNで指定した場合にはIPアドレスが変わっても再発行の必要はありません。
+
+A **fully qualified domain name** (**FQDN**), sometimes also referred to as an _absolute domain name_,[[1]](https://en.wikipedia.org/wiki/Fully_qualified_domain_name#cite_note-RFC1035-1) is a [domain name](https://en.wikipedia.org/wiki/Domain_name "Domain name") that specifies its exact location in the tree hierarchy of the [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System "Domain Name System") (DNS). It specifies all domain levels, including the [top-level domain](https://en.wikipedia.org/wiki/Top-level_domain "Top-level domain") and the [root zone](https://en.wikipedia.org/wiki/DNS_root_zone "DNS root zone").[[2]](https://en.wikipedia.org/wiki/Fully_qualified_domain_name#cite_note-2) A fully qualified domain name is distinguished by its lack of ambiguity in terms of DNS zone location in the hierarchy of DNS labels: it can be interpreted only in one way.
