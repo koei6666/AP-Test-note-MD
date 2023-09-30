@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/マルウェア対策.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61b520de4b68b2d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "セキュリティ/SSL TLS.md",
+                "file": "システム開発技術/プロセス中心・データ中心設計技法.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ファイアウォール",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "セキュリティ/ネットワークセキュリティ.md",
+                "file": "システム開発技術/プロセス中心・データ中心設計技法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "セキュリティ/ネットワークセキュリティ.md",
+                "file": "システム開発技術/プロセス中心・データ中心設計技法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "セキュリティ/ネットワークセキュリティ.md"
+                "file": "システム開発技術/プロセス中心・データ中心設計技法.md"
               }
             }
           },
@@ -204,23 +190,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78b7151aac40a152",
+  "active": "c9129d5c5d264a14",
   "lastOpenFiles": [
+    "システム開発技術/システム開発技術.md",
+    "ネットワーク/アプリケーション層のプロトコル.md",
+    "セキュリティ/情報セキュリティ管理.md",
+    "セキュリティ/セキュリティ関連用語.md",
+    "セキュリティ/マルウェア対策.md",
+    "セキュリティ/ネットワークセキュリティ.md",
     "セキュリティ/攻撃手段リスト.md",
     "Misc./名詞解説・詳細説明.md",
     "IaaS,PaaS,Saas.md",
     "セキュリティ/SSL TLS.md",
     "システム開発技術/プロセス中心・データ中心設計技法.md",
-    "システム開発技術/システム開発技術.md",
     "システム開発技術/構造化分析法.md",
     "Misc./attachments/Pasted image 20230929211528.png",
-    "セキュリティ/マルウェア対策.md",
     "セキュリティ/セキュリティ評価の標準化.md",
     "セキュリティ/マルウェアの脅威と対策.md",
-    "セキュリティ/ネットワークセキュリティ.md",
-    "セキュリティ/情報セキュリティ管理.md",
     "セキュリティ/デジタル署名とPKI.md",
-    "セキュリティ/セキュリティ関連用語.md",
     "セキュリティ/セキュリティ.md",
     "セキュリティ/情報セキュリティの脅威と攻撃手法.md",
     "セキュリティ/情報セキュリティ実装技術.md",
@@ -231,7 +218,6 @@
     "システム開発技術/組み込みソフトウェア開発.md",
     "システム開発技術/ソフトウェア開発モデル.md",
     "Misc./attachments/Pasted image 20230924013207.png",
-    "ネットワーク/アプリケーション層のプロトコル.md",
     "セキュリティ/暗号化.md",
     "Misc./attachments/Pasted image 20230924012245.png",
     "セキュリティ/マルウェアの種類.md",
