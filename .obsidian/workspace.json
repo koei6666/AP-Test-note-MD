@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "システム開発技術/プロセス中心・データ中心設計技法.md",
+                "file": "システム開発技術/モジュール分割の評価.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b93dc02925987579",
+            "id": "3bd352ed7631565d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/SSL TLS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78b7151aac40a152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "セキュリティ/ネットワークセキュリティ.md",
+                "file": "Misc./過去問.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "桁別コード",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "システム開発技術/プロセス中心・データ中心設計技法.md",
+                "file": "システム開発技術/モジュール分割の評価.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "システム開発技術/プロセス中心・データ中心設計技法.md",
+                "file": "システム開発技術/モジュール分割の評価.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "システム開発技術/プロセス中心・データ中心設計技法.md"
+                "file": "システム開発技術/モジュール分割の評価.md"
               }
             }
           },
@@ -190,47 +179,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9129d5c5d264a14",
+  "active": "772bbd8c7686653f",
   "lastOpenFiles": [
-    "システム開発技術/システム開発技術.md",
-    "ネットワーク/アプリケーション層のプロトコル.md",
-    "セキュリティ/情報セキュリティ管理.md",
-    "セキュリティ/セキュリティ関連用語.md",
-    "セキュリティ/マルウェア対策.md",
-    "セキュリティ/ネットワークセキュリティ.md",
-    "セキュリティ/攻撃手段リスト.md",
+    "Misc./過去問.md",
+    "システム開発技術/モジュール分割の評価.md",
+    "アルゴリズムとプログラミング/オブジェクト指向言語.md",
     "Misc./名詞解説・詳細説明.md",
-    "IaaS,PaaS,Saas.md",
-    "セキュリティ/SSL TLS.md",
-    "システム開発技術/プロセス中心・データ中心設計技法.md",
-    "システム開発技術/構造化分析法.md",
-    "Misc./attachments/Pasted image 20230929211528.png",
-    "セキュリティ/セキュリティ評価の標準化.md",
-    "セキュリティ/マルウェアの脅威と対策.md",
-    "セキュリティ/デジタル署名とPKI.md",
-    "セキュリティ/セキュリティ.md",
-    "セキュリティ/情報セキュリティの脅威と攻撃手法.md",
-    "セキュリティ/情報セキュリティ実装技術.md",
-    "セキュリティ/認証.md",
-    "システム開発技術/ソフトウェアプロセスの評価.md",
-    "システム開発技術/共通フレームの開発プロセス.md",
-    "システム開発技術/ソフトウェアの再利用.md",
-    "システム開発技術/組み込みソフトウェア開発.md",
-    "システム開発技術/ソフトウェア開発モデル.md",
-    "Misc./attachments/Pasted image 20230924013207.png",
     "セキュリティ/暗号化.md",
-    "Misc./attachments/Pasted image 20230924012245.png",
+    "システム開発技術/システム開発技術.md",
+    "システム開発技術/モジュールの分割技法.md",
+    "システム開発技術/UML.md",
+    "Misc./attachments/Pasted image 20231004212551.png",
+    "Misc./attachments/Pasted image 20231004212522.png",
+    "Misc./attachments/Pasted image 20231004211844.png",
+    "セキュリティ/攻撃手段リスト.md",
+    "セキュリティ/情報セキュリティ管理.md",
+    "セキュリティ/セキュリティ評価の標準化.md",
+    "ネットワーク/VLAN.md",
+    "ネットワーク/Web関連プロトコル.md",
+    "セキュリティ/認証.md",
+    "ネットワーク/アプリケーション層のプロトコル.md",
+    "セキュリティ/SSL TLS.md",
+    "セキュリティ/デジタル署名とPKI.md",
+    "セキュリティ/PKI.md",
+    "セキュリティ/セキュリティ関連用語.md",
+    "セキュリティ/セキュリティ.md",
     "セキュリティ/マルウェアの種類.md",
+    "セキュリティ/マルウェア対策.md",
+    "システム開発技術/オブジェクト指向で使われる概念.md",
+    "システム開発技術/クラス間の関係.md",
+    "システム開発技術/オブジェクト指向の基本概念.md",
+    "システム開発技術/事象応答分析.md",
+    "Misc./attachments/46.gif",
+    "Misc./attachments/Pasted image 20231001103104.png",
+    "Misc./attachments/Pasted image 20230929211528.png",
+    "Misc./attachments/Pasted image 20230924013207.png",
+    "Misc./attachments/Pasted image 20230924012245.png",
     "Misc./attachments/Pasted image 20230924005310.png",
     "システム開発技術",
     "Misc./attachments/Pasted image 20230922214454.png",
-    "Misc./attachments/Pasted image 20230920231746.png",
-    "Misc./attachments/Pasted image 20230920231704.png",
     "SSL",
     "セキュリティ",
-    "Misc./attachments/Pasted image 20230907205903.png",
-    "Misc./attachments/Pasted image 20230906233105.png",
-    "Misc./attachments/Pasted image 20230906232359.png",
     "Untitled.canvas",
     "ネットワーク",
     "ソフトウエア/ソフトウェア.canvas",
