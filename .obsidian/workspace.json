@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "システム開発技術/モジュール分割の評価.md",
+                "file": "システム開発技術/共通フレームの開発プロセス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be7291f16b6750ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "システム開発技術/オブジェクト指向で使われる概念.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "661d7eae9c0cb170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ソフトウエア/コンパイル技法.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "桁別コード",
+                "query": "コンパイラ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "システム開発技術/モジュール分割の評価.md",
+                "file": "システム開発技術/オブジェクト指向で使われる概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "システム開発技術/モジュール分割の評価.md",
+                "file": "システム開発技術/オブジェクト指向で使われる概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "システム開発技術/モジュール分割の評価.md"
+                "file": "システム開発技術/オブジェクト指向で使われる概念.md"
               }
             }
           },
@@ -179,16 +204,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "772bbd8c7686653f",
+  "active": "be7291f16b6750ae",
   "lastOpenFiles": [
+    "ソフトウエア/コンパイル技法.md",
+    "システム開発技術/オブジェクト指向で使われる概念.md",
+    "システム開発技術/UML.md",
+    "システム開発技術/事象応答分析.md",
+    "システム開発技術/システム開発技術.md",
+    "システム開発技術/プロセス中心・データ中心設計技法.md",
+    "システム開発技術/構造化分析法.md",
+    "アルゴリズムとプログラミング/JAVA,XMLに関連する用語.md",
+    "システム開発技術/共通フレームの開発プロセス.md",
     "Misc./過去問.md",
+    "システム開発技術/ソフトウェアプロセスの評価.md",
+    "システム開発技術/レビューの種類と代表的なレビュー手法.md",
+    "システム開発技術/バグ数の推測方法.md",
+    "システム開発技術/バグ管理図.md",
+    "Misc./attachments/Pasted image 20231006212621.png",
+    "システム開発技術/モジュール集積テスト技法.md",
+    "システム開発技術/ホワイトボックステスト.md",
+    "Misc./attachments/Pasted image 20231006095236.png",
+    "Misc./attachments/Pasted image 20231006094850.png",
+    "Misc./名詞解説・詳細説明.md",
+    "システム開発技術/ブラックボックステスト.md",
+    "Misc./attachments/Pasted image 20231006092837.png",
+    "Misc./attachments/Pasted image 20231006090451.png",
+    "Misc./attachments/Pasted image 20231006090421.png",
+    "Misc./attachments/Pasted image 20231006090345.png",
     "システム開発技術/モジュール分割の評価.md",
     "アルゴリズムとプログラミング/オブジェクト指向言語.md",
-    "Misc./名詞解説・詳細説明.md",
     "セキュリティ/暗号化.md",
-    "システム開発技術/システム開発技術.md",
     "システム開発技術/モジュールの分割技法.md",
-    "システム開発技術/UML.md",
     "Misc./attachments/Pasted image 20231004212551.png",
     "Misc./attachments/Pasted image 20231004212522.png",
     "Misc./attachments/Pasted image 20231004211844.png",
@@ -196,28 +242,7 @@
     "セキュリティ/情報セキュリティ管理.md",
     "セキュリティ/セキュリティ評価の標準化.md",
     "ネットワーク/VLAN.md",
-    "ネットワーク/Web関連プロトコル.md",
-    "セキュリティ/認証.md",
-    "ネットワーク/アプリケーション層のプロトコル.md",
-    "セキュリティ/SSL TLS.md",
-    "セキュリティ/デジタル署名とPKI.md",
-    "セキュリティ/PKI.md",
-    "セキュリティ/セキュリティ関連用語.md",
-    "セキュリティ/セキュリティ.md",
-    "セキュリティ/マルウェアの種類.md",
-    "セキュリティ/マルウェア対策.md",
-    "システム開発技術/オブジェクト指向で使われる概念.md",
-    "システム開発技術/クラス間の関係.md",
-    "システム開発技術/オブジェクト指向の基本概念.md",
-    "システム開発技術/事象応答分析.md",
-    "Misc./attachments/46.gif",
-    "Misc./attachments/Pasted image 20231001103104.png",
-    "Misc./attachments/Pasted image 20230929211528.png",
-    "Misc./attachments/Pasted image 20230924013207.png",
-    "Misc./attachments/Pasted image 20230924012245.png",
-    "Misc./attachments/Pasted image 20230924005310.png",
     "システム開発技術",
-    "Misc./attachments/Pasted image 20230922214454.png",
     "SSL",
     "セキュリティ",
     "Untitled.canvas",

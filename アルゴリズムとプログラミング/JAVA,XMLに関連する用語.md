@@ -43,7 +43,7 @@
     ERP(Enterprise Resource Planning)は、企業全体の経営資源を有効かつ総合的に計画・管理し、経営の効率化を図るための手法です。
 
 #UML （Unified Modeling Language）  
-    UML(Unified Modeling Language)は、オブジェクト指向開発で用いられる標準表記法群で、オブジェクト間の関連や動作・構成を表現する13種の図表から構成されています。
+    [[UML|UML]](Unified Modeling Language)は、オブジェクト指向開発で用いられる標準表記法群で、オブジェクト間の関連や動作・構成を表現する13種の図表から構成されています。
     [[過去問#^cf5267]]
 
 #WildFly
