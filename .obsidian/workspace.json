@@ -8,79 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9129d5c5d264a14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "システム開発技術/オブジェクト指向の基本概念.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a623106cdf1faea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "特許とサブライセンス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "533c135f8c51ed86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "システム開発技術/ソフトウェア開発モデル.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ab2800ad2bf2052a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "システム開発技術/SOA Software Oriented Architecture.md",
+                "file": "マネジメント/サービスの設計、構築及び移行.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a591be30646d2f79",
+            "id": "ef90d90cab7b5771",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc./過去問.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "400d02173b2d6133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "マネジメント/プロジェクトマネジメントの活動.md",
+                "file": "マネジメント/ISO IEC 20000(JIS Q 20000).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "内部設計",
+                "query": "一斉移行",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "システム開発技術/SOA Software Oriented Architecture.md",
+                "file": "マネジメント/サービスの設計、構築及び移行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "システム開発技術/SOA Software Oriented Architecture.md",
+                "file": "マネジメント/サービスの設計、構築及び移行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "システム開発技術/SOA Software Oriented Architecture.md"
+                "file": "マネジメント/サービスの設計、構築及び移行.md"
               }
             }
           },
@@ -227,41 +179,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab2800ad2bf2052a",
+  "active": "772bbd8c7686653f",
   "lastOpenFiles": [
+    "マネジメント/ISO IEC 20000(JIS Q 20000).md",
+    "マネジメント/サービスの設計、構築及び移行.md",
+    "マネジメント/サービスマネジメントシステム（SMS)の運用.md",
+    "マネジメント/目次.md",
+    "マネジメント/プロジェクトマネジメントの活動.md",
+    "マネジメント/JIS Q 21500 2018.md",
+    "マネジメント/サービスポートフォリオ.md",
+    "マネジメント/スケジュール作成手法.md",
+    "マネジメント/プロジェクトマネジメントとは.md",
+    "マネジメント/開発規模・工数の見積もり手法.md",
+    "マネジメント/関係および合意.md",
+    "マネジメント/供給および需要.md",
+    "マネジメント/進捗管理手法.md",
+    "システム開発技術/オブジェクト指向の基本概念.md",
+    "特許とサブライセンス.md",
     "システム開発技術/ソフトウェア開発モデル.md",
+    "ISO",
     "システム開発技術/SOA Software Oriented Architecture.md",
     "システム開発技術/プロセス中心・データ中心設計技法.md",
     "システム開発技術/レビューの種類と代表的なレビュー手法.md",
     "システム開発技術/アジャイル型開発.md",
     "システム開発技術/構造化分析法.md",
     "システム開発技術/組み込みソフトウェア開発.md",
-    "特許とサブライセンス.md",
-    "システム開発技術/オブジェクト指向の基本概念.md",
     "システム開発技術/オブジェクト指向で使われる概念.md",
     "Misc./過去問.md",
     "システム開発技術/バグ数の推測方法.md",
     "マネジメント/EVM.md",
-    "マネジメント/目次.md",
-    "マネジメント/開発規模・工数の見積もり手法.md",
-    "マネジメント/プロジェクトマネジメントの活動.md",
-    "ネットワーク/誤り制御.md",
-    "Practice Knowledge/Faker.md",
-    "マネジメント/進捗管理手法.md",
     "Misc./attachments/Pasted image 20231011211212.png",
     "Misc./attachments/Pasted image 20231011205806.png",
-    "マネジメント/スケジュール作成手法.md",
     "Misc./attachments/Pasted image 20231011205102.png",
     "Misc./attachments/Pasted image 20231011201827.png",
-    "システム開発技術/サーバプロビジョンニング.md",
     "Misc./attachments/Pasted image 20231010232229.png",
-    "システム開発技術/テスト手法.md",
-    "マネジメント/JIS Q 21500 2018.md",
-    "マネジメント/プロジェクトマネジメントとは.md",
     "Misc./attachments/Pasted image 20231009100015.png",
     "Misc./attachments/Pasted image 20231009095721.png",
-    "システム開発技術/共通フレームの開発プロセス.md",
-    "システムの構成要素/システムの信頼性計算.md",
     "Misc./attachments/Pasted image 20231007123010.png",
     "マネジメント",
     "Misc./attachments/Pasted image 20231006212621.png",
@@ -276,7 +229,6 @@
     "Practice Knowledge",
     "Misc./attachments",
     "misc./attachments",
-    "ソフトウエア",
     "Untitled 1.canvas"
   ]
 }
