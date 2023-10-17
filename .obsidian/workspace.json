@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "システム開発技術/ソフトウェア開発モデル.md",
+                "file": "マネジメント/プロジェクトマネジメントとは.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "方式設計",
+                "query": "プロジェクト",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "システム開発技術/ソフトウェア開発モデル.md",
+                "file": "マネジメント/プロジェクトマネジメントとは.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "システム開発技術/ソフトウェア開発モデル.md",
+                "file": "マネジメント/プロジェクトマネジメントとは.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "システム開発技術/ソフトウェア開発モデル.md"
+                "file": "マネジメント/プロジェクトマネジメントとは.md"
               }
             }
           },
@@ -178,6 +177,13 @@
   },
   "active": "88284c049fec68e2",
   "lastOpenFiles": [
+    "マネジメント/システム監査の枠組み.md",
+    "マネジメント/システム監査の実施.md",
+    "マネジメント/スケジュール作成手法.md",
+    "マネジメント/サービス保証.md",
+    "マネジメント/ITIL.md",
+    "システム開発技術/ソフトウェア開発モデル.md",
+    "マネジメント/RACI.md",
     "システム開発技術/オブジェクト指向で使われる概念.md",
     "デュアルライセンス.md",
     "システム開発技術/アジャイル型開発.md",
@@ -186,25 +192,18 @@
     "システム開発技術/UML.md",
     "Misc./attachments/Pasted image 20231016224452.png",
     "システム開発技術/レビューの種類と代表的なレビュー手法.md",
-    "システム開発技術/ソフトウェア開発モデル.md",
     "マネジメント/目次.md",
     "システム開発技術/ソフトウェア保守.md",
     "システム開発技術/モジュールの分割技法.md",
     "Misc./過去問.md",
     "マネジメント/情報システムの可監査性.md",
-    "マネジメント/システム監査の実施.md",
     "マネジメント/サービスの設計、構築及び移行.md",
-    "マネジメント/システム監査の枠組み.md",
-    "マネジメント/ITIL.md",
     "マネジメント/ISO IEC 20000(JIS Q 20000).md",
-    "マネジメント/サービス保証.md",
     "マネジメント/解決および実現.md",
     "マネジメント/サービスマネジメントシステム（SMS)の運用.md",
     "マネジメント/JIS Q 21500 2018.md",
     "マネジメント/サービスポートフォリオ.md",
     "システムの構成要素/クライアントサーバー関連技術.md",
-    "マネジメント/プロジェクトマネジメントの活動.md",
-    "マネジメント/スケジュール作成手法.md",
     "ISO",
     "Misc./attachments/Pasted image 20231011211212.png",
     "Misc./attachments/Pasted image 20231011205806.png",

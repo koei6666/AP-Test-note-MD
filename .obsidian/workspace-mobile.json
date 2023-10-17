@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "システム開発技術/アジャイル型開発.md",
+                "file": "マネジメント/システム監査の実施.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc12beb73841cec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "マネジメント/ITIL.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +105,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "リーン",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -132,7 +144,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "9a79077f7f198cb2",
@@ -144,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "システム開発技術/アジャイル型開発.md",
+            "file": "マネジメント/ITIL.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "システム開発技術/アジャイル型開発.md",
+            "file": "マネジメント/ITIL.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -173,7 +185,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "システム開発技術/アジャイル型開発.md"
+            "file": "マネジメント/ITIL.md"
           }
         }
       }
@@ -191,8 +203,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48915f537c8e6939",
+  "active": "fc12beb73841cec3",
   "lastOpenFiles": [
+    "マネジメント/RACI.md",
+    "マネジメント/システム監査の実施.md",
+    "マネジメント/システム監査の枠組み.md",
+    "システム開発技術/アジャイル型開発.md",
     "システム開発技術/UML.md",
     "システム開発技術/テスト手法.md",
     "マネジメント/開発規模・工数の見積もり手法.md",
@@ -211,7 +227,6 @@
     "システム開発技術/オブジェクト指向の基本概念.md",
     "システム開発技術/オブジェクト指向で使われる概念.md",
     "システム開発技術/サーバプロビジョンニング.md",
-    "システム開発技術/アジャイル型開発.md",
     "システム開発技術/システム開発技術.md",
     "システム開発技術/ソフトウェア開発モデル.md",
     "システム開発技術/ソフトウェア保守.md",
@@ -224,10 +239,7 @@
     "ソフトウエア/プログラミング・テスト支援.md",
     "システム開発技術/でまるこ.md",
     "Misc./attachments/Pasted image 20231007123010.png",
-    "ネットワーク/IPv6.md",
     "Misc./attachments/Pasted image 20231004211844.png",
-    "マネジメント/目次.md",
-    "システム開発技術/モジュール分割の評価.md",
     "Misc./attachments/Pasted image 20231006090451.png",
     "ソフトウエア/ソフトウェア.canvas",
     "システムの構成要素",
