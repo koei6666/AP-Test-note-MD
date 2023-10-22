@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "6f97a5b3c8388203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "マネジメント/システム監査の実施.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a35c5c1ea1c6631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "マネジメント/サービス保証.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ac3ced4b807a7db4",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -105,7 +129,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "リスクアセス",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -144,7 +168,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9a79077f7f198cb2",
@@ -156,7 +180,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "マネジメント/ITIL.md",
+            "file": "マネジメント/サービス保証.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +197,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "マネジメント/ITIL.md",
+            "file": "マネジメント/サービス保証.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +209,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "マネジメント/ITIL.md"
+            "file": "マネジメント/サービス保証.md"
           }
         }
       }
@@ -203,10 +227,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc12beb73841cec3",
+  "active": "4a35c5c1ea1c6631",
   "lastOpenFiles": [
-    "マネジメント/RACI.md",
+    "マネジメント/内部統制.md",
     "マネジメント/システム監査の実施.md",
+    "Misc./名詞解説・詳細説明.md",
+    "マネジメント/JIS Q 21500 2018.md",
+    "マネジメント/ISO IEC 20000(JIS Q 20000).md",
+    "マネジメント/ITIL.md",
+    "マネジメント/プロジェクトマネジメントの活動.md",
+    "ストラテジ/全体最適化.md",
+    "ストラテジ/情報システム戦略.md",
+    "ストラテジ/目次.md",
+    "ストラテジ",
+    "マネジメント/サービスポートフォリオ.md",
+    "マネジメント/TCO Total Cost of Ownership.md",
+    "マネジメント/RACI.md",
     "マネジメント/システム監査の枠組み.md",
     "システム開発技術/アジャイル型開発.md",
     "システム開発技術/UML.md",
@@ -225,19 +261,8 @@
     "システム開発技術/プロセス中心・データ中心設計技法.md",
     "システム開発技術/ソフトウェアの再利用.md",
     "システム開発技術/オブジェクト指向の基本概念.md",
-    "システム開発技術/オブジェクト指向で使われる概念.md",
-    "システム開発技術/サーバプロビジョンニング.md",
-    "システム開発技術/システム開発技術.md",
-    "システム開発技術/ソフトウェア開発モデル.md",
-    "システム開発技術/ソフトウェア保守.md",
     "Misc./attachments/Pasted image 20231009100015.png",
     "Misc./attachments/Pasted image 20231009095721.png",
-    "システム開発技術/共通フレームの開発プロセス.md",
-    "システム開発技術/クラス間の関係.md",
-    "システム開発技術/ホワイトボックステスト.md",
-    "マネジメント/プロジェクトマネジメントとは.md",
-    "ソフトウエア/プログラミング・テスト支援.md",
-    "システム開発技術/でまるこ.md",
     "Misc./attachments/Pasted image 20231007123010.png",
     "Misc./attachments/Pasted image 20231004211844.png",
     "Misc./attachments/Pasted image 20231006090451.png",
