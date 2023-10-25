@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "マネジメント/サービス保証.md",
+                "file": "マネジメント/プロジェクトマネジメントの活動.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "リスクアセス",
+            "query": "スコープ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -180,7 +180,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "マネジメント/サービス保証.md",
+            "file": "マネジメント/プロジェクトマネジメントの活動.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "マネジメント/サービス保証.md",
+            "file": "マネジメント/プロジェクトマネジメントの活動.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -209,7 +209,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "マネジメント/サービス保証.md"
+            "file": "マネジメント/プロジェクトマネジメントの活動.md"
           }
         }
       }
@@ -229,13 +229,27 @@
   },
   "active": "4a35c5c1ea1c6631",
   "lastOpenFiles": [
-    "マネジメント/内部統制.md",
+    "マネジメント/情報システムの可監査性.md",
+    "マネジメント/サービスの設計、構築及び移行.md",
+    "マネジメント/ISO IEC 20000(JIS Q 20000).md",
+    "システムの構成要素/高信頼化システムの考え方.md",
+    "システムの構成要素/システムの構成と信頼性設計.md",
+    "マネジメント/プロジェクトマネジメントの活動.md",
     "マネジメント/システム監査の実施.md",
+    "ストラテジ/Untitled Diagram 1.svg",
+    "ストラテジ/経営戦略.md",
+    "ストラテジ/Untitled Diagram.svg",
+    "マネジメント/IT統制.md",
+    "Misc./attachments/Pasted image 20231023233604.png",
+    "Misc./attachments/Pasted image 20231023215636.png",
+    "システム開発技術/SOA Service Oriented Architecture.md",
+    "マネジメント/開発規模・工数の見積もり手法.md",
+    "マネジメント/システム監査の枠組み.md",
+    "マネジメント/サービス保証.md",
+    "マネジメント/内部統制.md",
     "Misc./名詞解説・詳細説明.md",
     "マネジメント/JIS Q 21500 2018.md",
-    "マネジメント/ISO IEC 20000(JIS Q 20000).md",
     "マネジメント/ITIL.md",
-    "マネジメント/プロジェクトマネジメントの活動.md",
     "ストラテジ/全体最適化.md",
     "ストラテジ/情報システム戦略.md",
     "ストラテジ/目次.md",
@@ -243,29 +257,15 @@
     "マネジメント/サービスポートフォリオ.md",
     "マネジメント/TCO Total Cost of Ownership.md",
     "マネジメント/RACI.md",
-    "マネジメント/システム監査の枠組み.md",
     "システム開発技術/アジャイル型開発.md",
     "システム開発技術/UML.md",
     "システム開発技術/テスト手法.md",
-    "マネジメント/開発規模・工数の見積もり手法.md",
-    "マネジメント/進捗管理手法.md",
-    "マネジメント/スケジュール作成手法.md",
     "Misc./attachments/Pasted image 20231011205102.png",
     "Misc./attachments/Pasted image 20231011201827.png",
     "Misc./attachments/Pasted image 20231011211212.png",
     "Misc./attachments/Pasted image 20231011205806.png",
-    "システム開発技術/ブラックボックステスト.md",
     "Misc./attachments/Pasted image 20231010232229.png",
-    "システム開発技術/事象応答分析.md",
-    "システム開発技術/構造化分析法.md",
-    "システム開発技術/プロセス中心・データ中心設計技法.md",
-    "システム開発技術/ソフトウェアの再利用.md",
-    "システム開発技術/オブジェクト指向の基本概念.md",
     "Misc./attachments/Pasted image 20231009100015.png",
-    "Misc./attachments/Pasted image 20231009095721.png",
-    "Misc./attachments/Pasted image 20231007123010.png",
-    "Misc./attachments/Pasted image 20231004211844.png",
-    "Misc./attachments/Pasted image 20231006090451.png",
     "ソフトウエア/ソフトウェア.canvas",
     "システムの構成要素",
     "アルゴリズムとプログラミング",

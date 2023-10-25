@@ -1,7 +1,7 @@
 JIS X 9401:2016では、クラウドコンピューティングのサービスモデル「SaaS」「PaaS」「IaaS」について次のように区分しています。
 
 SaaS（Software as a Service）
-
+アプリケーションを提供する
 サービス利用者が、クラウドサービス提供者の==アプリケーション==を利用することができる形態
 
 > [!NOTE] SaaS Defination
@@ -11,7 +11,7 @@ SaaS（Software as a Service）
 
 
 PaaS（Platform as a Service）
-
+アプリケーションの実行環境を提供する
 サービス利用者が、クラウドサービス提供者によって==サポートされる一つ以上のプログラミング言語と一つ以上の実行環境==とを使って<u>利用者が作った</u>又は利用者が<u>入手した</u>アプリケーションを==配置==し、==管理==し、及び==実行==することができる形態
 
 > [!NOTE] PaaS Defination
@@ -20,7 +20,7 @@ PaaS（Platform as a Service）
 
 
 IaaS（Infrastructure as a Service）
-
+ハードウェアや、ネットワークなどの情報システム基盤を提供する
 サービス利用者が、クラウドサービス提供者の<u>演算リソース、ストレージリソース又はネットワーキングリソースを供給及び利用する</u>ことができる形態
 
 > [!NOTE] IaaS Defination

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ストラテジ/ソリューションサービス.md",
+                "file": "ストラテジ/目次.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "プロジェクト",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ストラテジ/ソリューションサービス.md",
+                "file": "ストラテジ/目次.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ストラテジ/ソリューションサービス.md",
+                "file": "ストラテジ/目次.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ストラテジ/ソリューションサービス.md"
+                "file": "ストラテジ/目次.md"
               }
             }
           },
@@ -175,11 +175,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1f2f6b92244c961",
+  "active": "440ea08583b120be",
   "lastOpenFiles": [
-    "ストラテジ/IaaS,PaaS,Saas.md",
-    "ストラテジ/ソリューションサービス.md",
+    "ストラテジ/経営管理システム.md",
+    "ストラテジ/マーケティング.md",
     "ストラテジ/目次.md",
+    "ストラテジ/ビジネス戦略と目標・評価.md",
+    "Misc./attachments/Pasted image 20231025211427.png",
+    "ストラテジ/経営戦略手法.md",
+    "ストラテジ/経営戦略.md",
+    "マネジメント/システム監査の枠組み.md",
+    "マネジメント/スケジュール作成手法.md",
+    "マネジメント/JIS Q 21500 2018.md",
+    "マネジメント/プロジェクトマネジメントの活動.md",
+    "マネジメント/プロジェクトマネジメントとは.md",
+    "Misc./attachments/Pasted image 20231023233604.png",
+    "マネジメント/関係および合意.md",
+    "マネジメント/IT統制.md",
+    "マネジメント/システム監査の実施.md",
+    "マネジメント/開発規模・工数の見積もり手法.md",
+    "ストラテジ/Untitled Diagram 1.svg",
+    "Misc./attachments/Pasted image 20231023215636.png",
+    "ストラテジ/Untitled Diagram.svg",
+    "ストラテジ/ソリューションサービス.md",
+    "システム開発技術/SOA Service Oriented Architecture.md",
+    "ストラテジ/IaaS,PaaS,Saas.md",
     "ストラテジ/業務プロセスの改善.md",
     "ストラテジ/IT投資とITマネジメント.md",
     "ストラテジ/ITガバナンスと情報システム戦略委員会.md",
@@ -187,35 +207,15 @@
     "ストラテジ/全体最適化.md",
     "マネジメント/内部統制.md",
     "マネジメント/TCO Total Cost of Ownership.md",
-    "マネジメント/プロジェクトマネジメントとは.md",
     "ストラテジ",
-    "マネジメント/システム監査の枠組み.md",
-    "マネジメント/システム監査の実施.md",
-    "マネジメント/スケジュール作成手法.md",
     "マネジメント/サービス保証.md",
-    "マネジメント/ITIL.md",
-    "システム開発技術/ソフトウェア開発モデル.md",
-    "マネジメント/RACI.md",
-    "システム開発技術/オブジェクト指向で使われる概念.md",
-    "デュアルライセンス.md",
-    "システム開発技術/アジャイル型開発.md",
-    "システム開発技術/共通フレームの開発プロセス.md",
-    "システム開発技術/システム開発技術.md",
-    "システム開発技術/UML.md",
     "Misc./attachments/Pasted image 20231016224452.png",
-    "システム開発技術/レビューの種類と代表的なレビュー手法.md",
-    "マネジメント/目次.md",
     "ISO",
     "Misc./attachments/Pasted image 20231011211212.png",
     "Misc./attachments/Pasted image 20231011205806.png",
     "Misc./attachments/Pasted image 20231011205102.png",
     "Misc./attachments/Pasted image 20231011201827.png",
-    "Misc./attachments/Pasted image 20231010232229.png",
-    "Misc./attachments/Pasted image 20231009100015.png",
-    "Misc./attachments/Pasted image 20231009095721.png",
-    "Misc./attachments/Pasted image 20231007123010.png",
     "マネジメント",
-    "Misc./attachments/Pasted image 20231006212621.png",
     "システム開発技術",
     "SSL",
     "セキュリティ",
