@@ -69,3 +69,34 @@ CTSには他のノードに対する送信抑止時間を記載しており、�
 2.4GHz帯を使用するIEEE802.11gでは1～13のチャネル（11bでは1～14）を選択できますが、1つのチャネルの周波数帯域は22MHz、各チャネルは5MHzずつ区切られているので、近接するチャネル同士は周波数帯が一部重なっていて電波干渉が起きます。このため、近くの無線LANネットワークで同じまたは近接するチャネルが使用されていると通信が不安定になってしまうという特性があります。なお、5GHz帯を使用する無線LAN規格では各チャネルの周波数帯は完全に独立しているので、近接するチャネルを設定しても2.4GHz帯のような電波干渉は起きません。
 
 ![[Pasted image 20230906231251.png]]
+
+
+### IEEE 802.15.4 
+IEEE 802.15.4 is a standard which specifies the operation of low-rate wireless personal area networks (LR-WPANs). It's designed to address the need for wireless connectivity among relatively simple devices that consume minimal power and may be located near each other. Here's a breakdown of some key aspects of this standard along with real-world examples:
+
+1. **Frequency Bands and Data Rates:**
+    - IEEE 802.15.4 operates in three unlicensed frequency bands: 2.4 GHz, 915 MHz, and 868 MHz, with data rates of 250 kbps, 40 kbps, and 20 kbps respectively.
+    - For instance, home automation systems might utilize these bands to ensure wireless connectivity among devices like smart thermostats, lights, and locks.
+
+2. **Network Topologies:**
+    - Supports two types of network topologies: star and peer-to-peer.
+    - In a star topology, all devices communicate through a central coordinator, similar to a home automation hub controlling various smart devices.
+    - In a peer-to-peer topology, devices can communicate with each other directly, like in a sensor network where each sensor can relay information to its neighbors.
+
+3. **Addressing:**
+    - Devices within an IEEE 802.15.4 network can be assigned either a short 16-bit address or an extended 64-bit IEEE address.
+    - This flexible addressing allows for both small, simplistic networks and larger, more complex networks.
+
+4. **Low Power:**
+    - The standard is designed for low power consumption, which is critical for battery-operated devices.
+    - An example might be a battery-powered temperature sensor in a home automation system, which needs to operate for long periods without requiring a battery change.
+
+5. **Security:**
+    - Provides fundamental layers of security including AES-128 encryption to protect against eavesdropping, replay attacks, and authentication to ensure data integrity and confidentiality.
+    - In a home security system, these features would help keep communication between sensors and the central hub secure.
+
+6. **Application Layer Interfaces:**
+    - While IEEE 802.15.4 focuses on the physical and MAC (Medium Access Control) layers, it also provides hooks for upper layer protocols like Zigbee, 6LoWPAN, and Thread which are used to create complete networking stacks.
+    - For instance, Zigbee builds on IEEE 802.15.4 to provide a full networking solution for home automation, industrial control, and other low-power, low-data-rate applications.
+
+In sum, IEEE 802.15.4 lays the groundwork for low-rate wireless communication between close-proximity devices, with applications ranging from home automation to industrial control systems. By defining key aspects like frequency bands, network topologies, addressing schemes, and basic security measures, it facilitates the creation of versatile WPANs that meet the needs of various low-power, low-data-rate, and close-proximity wireless communication scenarios.

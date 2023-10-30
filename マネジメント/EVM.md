@@ -9,7 +9,7 @@ Earned Value Management
 
 ### EVMの評価
 - CV(Cost Variance コスト差異)
-  $EV-AC$ , >0の場合はコスト超過
+  $EV-AC$ , <0の場合はコスト超過
 - SV(Schedule Variance スケジュール差異)
   $EV-PV$,<0の場合は進捗より遅れている
 - CPI(Cost Performance Index コスト効率指数)
