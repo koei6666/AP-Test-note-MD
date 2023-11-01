@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "マネジメント/ITIL.md",
+                "file": "マネジメント/サービスポートフォリオ.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "データベース管理者",
+            "query": "サービスポート",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -192,7 +192,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9a79077f7f198cb2",
@@ -204,7 +204,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "マネジメント/ITIL.md",
+            "file": "マネジメント/サービスポートフォリオ.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "マネジメント/ITIL.md",
+            "file": "マネジメント/サービスポートフォリオ.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -233,7 +233,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "マネジメント/ITIL.md"
+            "file": "マネジメント/サービスポートフォリオ.md"
           }
         }
       }
@@ -251,14 +251,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "672cf44989090f43",
+  "active": "fe74841a934f609e",
   "lastOpenFiles": [
+    "Misc./attachments/Pasted image 20231031125052.png",
+    "マネジメント/ITIL.md",
+    "システム開発技術/UML.md",
     "データベース/データベース管理者.md",
     "データベース/データベースのチューニング.md",
     "マネジメント/プロジェクトマネジメントの活動.md",
     "マネジメント/EVM.md",
     "マネジメント/IT統制.md",
-    "システム開発技術/UML.md",
     "マネジメント/開発規模・工数の見積もり手法.md",
     "マネジメント/システム監査の枠組み.md",
     "マネジメント/内部統制.md",
@@ -278,12 +280,10 @@
     "マネジメント/サービス保証.md",
     "Misc./名詞解説・詳細説明.md",
     "マネジメント/JIS Q 21500 2018.md",
-    "マネジメント/ITIL.md",
     "ストラテジ/全体最適化.md",
     "ストラテジ/情報システム戦略.md",
     "ストラテジ/目次.md",
     "ストラテジ",
-    "マネジメント/サービスポートフォリオ.md",
     "Misc./attachments/Pasted image 20231011205102.png",
     "Misc./attachments/Pasted image 20231011201827.png",
     "Misc./attachments/Pasted image 20231011211212.png",
