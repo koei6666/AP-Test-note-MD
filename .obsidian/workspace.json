@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f3cec6d0be70de3d",
+        "id": "a5ed1ecb90085dde",
         "type": "tabs",
         "children": [
           {
-            "id": "a9b4e5cfb0fb6e92",
+            "id": "531475888064d71b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ストラテジ/情報システム・モデル取引・契約書.md",
+                "file": "マネジメント/IT統制.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13b6b8bd4f8f1f73",
+            "id": "dd3e5996a6db09c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc./過去問.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8267812cc5c0c94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ストラテジ/関連法規.md",
+                "file": "セキュリティ/ネットワークセキュリティ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "WAF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,11 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 251.50390243530273
+    "width": 292.50390243530273
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ストラテジ/情報システム・モデル取引・契約書.md",
+                "file": "セキュリティ/ネットワークセキュリティ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ストラテジ/情報システム・モデル取引・契約書.md",
+                "file": "セキュリティ/ネットワークセキュリティ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ストラテジ/情報システム・モデル取引・契約書.md"
+                "file": "セキュリティ/ネットワークセキュリティ.md"
               }
             }
           },
@@ -190,51 +180,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9b4e5cfb0fb6e92",
+  "active": "dd3e5996a6db09c7",
   "lastOpenFiles": [
-    "Misc./過去問.md",
-    "ストラテジ/関連法規.md",
-    "ストラテジ/目次.md",
-    "ストラテジ/情報システム・モデル取引・契約書.md",
-    "ストラテジ/システム開発に関連する規格・ガイドライン.md",
-    "ストラテジ/共通フレーム.md",
-    "Misc./attachments/Pasted image 20231031125052.png",
-    "マネジメント/スケジュール作成手法.md",
-    "ストラテジ/減価償却.md",
-    "ストラテジ/棚卸資産評価.md",
-    "ストラテジ/損益分析.md",
-    "ストラテジ/財務諸表分析.md",
-    "ストラテジ/検査手法.md",
-    "ストラテジ/品質管理手法.md",
-    "マネジメント/プロジェクトマネジメントの活動.md",
-    "マネジメント/開発規模・工数の見積もり手法.md",
-    "Misc./attachments/Pasted image 20231030204145.png",
-    "Misc./attachments/Pasted image 20231030203924.png",
-    "Misc./attachments/Pasted image 20231030203758.png",
-    "Misc./attachments/Pasted image 20231030203557.png",
-    "Misc./attachments/Pasted image 20231030202418.png",
-    "Misc./attachments/Pasted image 20231030202234.png",
-    "Misc./attachments/Pasted image 20231030201218.png",
-    "データベース/データベース管理者.md",
-    "ストラテジ/在庫管理手法.md",
-    "ハードウェア/主なインターフェス規格・通信規格.md",
-    "ストラテジ/意思決定に用いる手法.md",
-    "ストラテジ/IE分析手法.md",
-    "ストラテジ/線型計画法.md",
-    "ネットワーク/無線LAN.md",
-    "Misc./attachments/Pasted image 20231029114841.png",
-    "ストラテジ/Untitled Diagram 3.svg",
+    "Misc./attachments/Pasted image 20231109232217.png",
+    "Misc./attachments/Pasted image 20231110121024.png",
+    "ストラテジ/エンジニアリングシステム.md",
     "ストラテジ/技術開発戦略に関連する基本用語.md",
+    "Misc./attachments/Pasted image 20231109203051.png",
+    "Misc./名詞解説・詳細説明.md",
+    "ストラテジ/e-ビジネス.md",
+    "ストラテジ/経営管理システム.md",
+    "ストラテジ/経営戦略手法.md",
+    "ストラテジ/関連法規.md",
+    "ストラテジ/マーケティング.md",
+    "ストラテジ/意思決定に用いる手法.md",
     "ストラテジ/IoT関連.md",
-    "ネットワーク/Web関連プロトコル.md",
-    "ネットワーク/アプリケーション層のプロトコル.md",
+    "ストラテジ/情報システム・モデル取引・契約書.md",
+    "Misc./attachments/Pasted image 20231108120456.png",
+    "Misc./attachments/Pasted image 20231108121253.png",
+    "ストラテジ/経営戦略.md",
+    "ストラテジ/線型計画法.md",
+    "ストラテジ/目次.md",
+    "ストラテジ/IT投資とITマネジメント.md",
+    "Misc./attachments/Pasted image 20231107204935.png",
+    "ソフトウエア/OSS License.md",
+    "ストラテジ/プロジェクトマネジメントとリーダーシップ.md",
+    "マネジメント/ISO IEC 20000(JIS Q 20000).md",
+    "マネジメント/IT統制.md",
+    "ストラテジ/財務諸表分析.md",
+    "ストラテジ/システム開発に関連する規格・ガイドライン.md",
+    "マネジメント/プロジェクトマネジメントの活動.md",
+    "ストラテジ/業務プロセスの改善.md",
+    "ストラテジ/検査手法.md",
+    "システムの構成要素/分散システムの形態.md",
+    "Misc./attachments/Pasted image 20231106203131.png",
+    "Misc./attachments/Pasted image 20231106121821.png",
+    "Misc./attachments/Pasted image 20231106084234.png",
+    "Misc./attachments/Pasted image 20231106122046.png",
+    "Misc./attachments/Pasted image 20231105115702.png",
+    "ストラテジ/事業分析フレームワーク.canvas",
     "ストラテジ",
     "ISO",
     "マネジメント",
     "システム開発技術",
     "SSL",
     "セキュリティ",
-    "Untitled.canvas",
     "ネットワーク",
     "ソフトウエア/ソフトウェア.canvas",
     "データベース",

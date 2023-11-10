@@ -25,7 +25,11 @@
 #XSLT
 　XML Stylesheet Language Transformationsの略。XMLを別の文書形式を持つXMLや、HTML文書などに変換するための仕様
 #SVG
+　**SVG**(Scalable Vector Graphics)は、ベクター形式の画像やイメージ，テキストなどの2次元CGをXMLで表現するための規格です。  
+　画像ファイルと異なりテキスト形式で記述するため、作成に専用のアプリケーションを必要とすることもありません。またJavascriptなどで記述内容を容易に操作することができるためWebページとの親和性が高く、インラインSVGをサポートするHTML5の普及に伴い今後の活用が期待されます。
 #SMIL
+　**SMIL**(Synchronized Multimedia Integration Language：スマイル)は、WWW上でマルチメディアを表現するためのXMLベースのマークアップ言語です。通常のHTMLと異なり、時間やレイアウトをコントロールすることができる点が特徴で、「○秒経過後に、▲の位置にコンテンツを表示する」といった制御が可能です。  
+　1997年に登場し、W3Cによって1998年6月にSMIL 1.0として仕様勧告、現在のバージョンはSMIL 3.0です。
 #EbXML ^892465
 #DOM 
 　**DOM stands for Document Object Model. It's a programming interface for HTML and XML documents, and it represents the structure of the documents. It allows programs and scripts to dynamically access and update the content, structure, and style of documents.**

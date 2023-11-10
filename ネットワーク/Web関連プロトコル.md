@@ -9,6 +9,19 @@ HTTPには以下のメソッドがよく使われる：
 - DELETE:指定URLのデータを削除する
 - CONNECT:プロキシにトンネリングを要求する
 
+#### HTTP Header
+```
+Request Headers
+GET / HTTP/1.1
+Host: www.ap-siken.com
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1 User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebkit/537.36 (KHTML
+Accept: text/html,application/xhtm1+xm1, application/xml;q=0.9,image/webp, Accept-Encoding: gzip, deflate, sach
+Accept-Language: ja, en-US;q=0.8, en;q=0.6
+Cookie: _utma=82185798.227027948.1358520982.1458747825.1458856749.1162;
+```
+
 #### GETとPOSTメソッド
 GETはURLからデータを取得するメソッドだが、取得するデータを要求する引数を遅れるために、データを送信することもできる。
 GETでデータを送信する場合は、データはクエリストリングに埋め込まれる。
@@ -39,7 +52,23 @@ WebSocketはwebチャットアプリなど、リアルタイム性の高い双�
 
 
 ### Cookie（クッキー）
+**HTTP Cookie** (ウェブ Cookie、ブラウザー Cookie) は、サーバーがユーザーのウェブブラウザーに送信する小さなデータであり、ブラウザーに保存され、その後のリクエストと共に同じサーバーへ返送されます。一般的には、 2 つのリクエストが同じブラウザーから送信されたものであるかを知るために使用されます。例えば、ユーザーのログイン状態を維持することができます。 Cookie は、[ステートレス](https://developer.mozilla.org/ja/docs/Web/HTTP/Overview#http_%E3%81%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%83%88%E3%83%AC%E3%82%B9%E3%81%A7%E3%81%82%E3%82%8B%E3%81%8C%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%AC%E3%82%B9%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84)な HTTP プロトコルのためにステートフルな情報を記憶します。
 
+Cookie は主に、以下の 3 つの用途で使用されます。
+
+- セッション管理
+
+ログイン、ショッピングカート、ゲームのスコア、またはその他のサーバーが覚えておくべきもの
+
+- パーソナライズ
+
+ユーザー設定、テーマ、その他の設定
+
+- トラッキング
+  
+ユーザーの行動の記録および分析
+
+Cookie は、クライアント側の汎用的な記憶領域として使用されたことがあります。これは他にクライアントへデータを保存する手段がなかった頃は合理的でしたが、現在では新しいストレージ API を使用することが推奨されています。 Cookie はすべてのリクエストで送信されるので、（特にモバイルデータ通信で）性能を悪化させる可能性があります。クライアントストレージ向けの新しい API として、[ウェブストレージ API](https://developer.mozilla.org/ja/docs/Web/API/Web_Storage_API) (`localStorage` および `sessionStorage`) と [IndexedDB](https://developer.mozilla.org/ja/docs/Web/API/IndexedDB_API) があります。
 
 #### First-party Cookie & Third-party Cookie
 現在訪問しているWebサイトのドメインから発行されるクッキーがファーストパーティcookie、閲覧しているページ内の広告等の要素の配信とともに別ドメインから発行されるのがサードパーティcookie(第三者配信クッキー)です。  

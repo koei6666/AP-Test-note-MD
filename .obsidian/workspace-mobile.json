@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "マネジメント/サービスポートフォリオ.md",
+                "file": "ストラテジ/ビジネス戦略と目標・評価.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "379c31379ca443c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ハードウェア/プロセッサの高速化技術.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "サービスポート",
+            "query": "パイプライン",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -204,7 +216,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "マネジメント/サービスポートフォリオ.md",
+            "file": "ハードウェア/プロセッサの高速化技術.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "マネジメント/サービスポートフォリオ.md",
+            "file": "ハードウェア/プロセッサの高速化技術.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -233,7 +245,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "マネジメント/サービスポートフォリオ.md"
+            "file": "ハードウェア/プロセッサの高速化技術.md"
           }
         }
       }
@@ -251,45 +263,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe74841a934f609e",
+  "active": "379c31379ca443c7",
   "lastOpenFiles": [
-    "Misc./attachments/Pasted image 20231031125052.png",
-    "マネジメント/ITIL.md",
+    "Misc./attachments/Pasted image 20231110121024.png",
+    "ハードウェア/スーパースカラとVLIWの比較.md",
+    "ネットワーク/IP.md",
+    "アルゴリズムとプログラミング/JAVA,XMLに関連する用語.md",
+    "ネットワーク/転送制御.md",
+    "Misc./attachments/Pasted image 20231109232217.png",
+    "ハードウェア/メモリアーキテクチャ.md",
+    "ハードウェア/関連用語.md",
+    "ストラテジ/品質管理手法.md",
+    "Misc./attachments/Pasted image 20231109203051.png",
+    "ストラテジ/経営管理システム.md",
+    "ストラテジ/IE分析手法.md",
+    "ストラテジ/エンジニアリングシステム.md",
+    "ストラテジ/経営戦略手法.md",
+    "ストラテジ/関連法規.md",
+    "Misc./attachments/Pasted image 20231108121253.png",
+    "Misc./attachments/Pasted image 20231108120456.png",
+    "ストラテジ/IT投資とITマネジメント.md",
+    "ストラテジ/e-ビジネス.md",
+    "ストラテジ/マーケティング.md",
+    "ストラテジ/システム開発に関連する規格・ガイドライン.md",
+    "Misc./attachments/Pasted image 20231106122046.png",
+    "Misc./attachments/Pasted image 20231106121821.png",
+    "ストラテジ/情報システム・モデル取引・契約書.md",
+    "Misc./attachments/Pasted image 20231106084234.png",
+    "ストラテジ/意思決定に用いる手法.md",
     "システム開発技術/UML.md",
-    "データベース/データベース管理者.md",
-    "データベース/データベースのチューニング.md",
-    "マネジメント/プロジェクトマネジメントの活動.md",
-    "マネジメント/EVM.md",
-    "マネジメント/IT統制.md",
-    "マネジメント/開発規模・工数の見積もり手法.md",
-    "マネジメント/システム監査の枠組み.md",
-    "マネジメント/内部統制.md",
-    "マネジメント/Untitled.md",
-    "マネジメント/情報システムの可監査性.md",
-    "マネジメント/サービスの設計、構築及び移行.md",
-    "マネジメント/ISO IEC 20000(JIS Q 20000).md",
-    "システムの構成要素/高信頼化システムの考え方.md",
-    "システムの構成要素/システムの構成と信頼性設計.md",
-    "マネジメント/システム監査の実施.md",
-    "ストラテジ/Untitled Diagram 1.svg",
-    "ストラテジ/経営戦略.md",
-    "ストラテジ/Untitled Diagram.svg",
-    "Misc./attachments/Pasted image 20231023233604.png",
-    "Misc./attachments/Pasted image 20231023215636.png",
-    "システム開発技術/SOA Service Oriented Architecture.md",
-    "マネジメント/サービス保証.md",
+    "マネジメント/TCO Total Cost of Ownership.md",
+    "ストラテジ/検査手法.md",
+    "Misc./attachments/Pasted image 20231104163828.png",
+    "ストラテジ/ITガバナンスと情報システム戦略委員会.md",
     "Misc./名詞解説・詳細説明.md",
-    "マネジメント/JIS Q 21500 2018.md",
-    "ストラテジ/全体最適化.md",
-    "ストラテジ/情報システム戦略.md",
-    "ストラテジ/目次.md",
+    "マネジメント/IT統制.md",
+    "Misc./attachments/Pasted image 20231103185524.png",
+    "ストラテジ/ビジネス戦略と目標・評価.md",
+    "Misc./attachments/Pasted image 20231031125052.png",
     "ストラテジ",
-    "Misc./attachments/Pasted image 20231011205102.png",
-    "Misc./attachments/Pasted image 20231011201827.png",
-    "Misc./attachments/Pasted image 20231011211212.png",
-    "Misc./attachments/Pasted image 20231011205806.png",
-    "Misc./attachments/Pasted image 20231010232229.png",
-    "Misc./attachments/Pasted image 20231009100015.png",
     "ソフトウエア/ソフトウェア.canvas",
     "システムの構成要素",
     "アルゴリズムとプログラミング",

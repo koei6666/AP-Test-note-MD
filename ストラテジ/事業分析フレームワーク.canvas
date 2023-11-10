@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"f583a27748b9e370","type":"text","text":"# 事業分析フレームワーク","x":-240,"y":-30,"width":365,"height":88},
+		{"id":"668e43aca4be7a1f","type":"text","text":"## 自社が置かれている内、外部の状況、環境の視点","x":397,"y":-30,"width":483,"height":88},
+		{"id":"31e265b3efc1f39a","type":"text","text":"![[経営戦略手法#SWOT分析]]","x":686,"y":-500,"width":634,"height":343},
+		{"id":"8210f14a5ef42894","type":"text","text":"![[経営戦略手法#クロスSWOT分析]]","x":1140,"y":-100,"width":860,"height":460},
+		{"id":"794d249b2faa86f7","type":"text","text":"## 外部環境の視点","x":416,"y":307,"width":250,"height":60},
+		{"id":"e072d93dd49cb565","type":"text","text":"## マクロ環境・客観環境","x":840,"y":600,"width":320,"height":80},
+		{"id":"bcedc5de5ab5041e","type":"text","text":"![[経営戦略手法#CSF分析]]","x":1506,"y":-800,"width":574,"height":267},
+		{"id":"6269b58061841c2e","type":"text","text":"![[経営戦略手法#PEST分析]]","x":1314,"y":520,"width":646,"height":218},
+		{"id":"8694200e55750674","type":"text","text":"## マイクロ環境","x":673,"y":803,"width":250,"height":60},
+		{"id":"c6d08e745058abbc","type":"text","text":"![[経営戦略手法#3C分析]]","x":1234,"y":863,"width":646,"height":377},
+		{"id":"1e846307cf7fa14a","type":"text","text":"![[経営戦略手法#ファイブフォース分析]]","x":-280,"y":680,"width":478,"height":372},
+		{"id":"c5911f6c474ecc7a","type":"text","text":"## プロダクトの視点","x":-230,"y":-328,"width":250,"height":60},
+		{"id":"e778f33b41cf6908","type":"text","text":"## 新規・既存の視点\n![[経営戦略手法#アンゾフの成長マトリクス]]","x":-640,"y":-1160,"width":740,"height":515},
+		{"id":"ab7bd77b72fee34e","type":"text","text":"## ポートフォリオの視点\n![[経営戦略手法#PPM Product Portfolio Management]]","x":-1280,"y":-560,"width":571,"height":335},
+		{"id":"b3260b501d74b59a","type":"text","text":"## 総合的な視点","x":0,"y":367,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"abfd128d20c20eeb","fromNode":"f583a27748b9e370","fromSide":"right","toNode":"668e43aca4be7a1f","toSide":"left"},
+		{"id":"993be5df72dbd02e","fromNode":"668e43aca4be7a1f","fromSide":"top","toNode":"31e265b3efc1f39a","toSide":"bottom"},
+		{"id":"fb8ab556a5e7dcb8","fromNode":"668e43aca4be7a1f","fromSide":"right","toNode":"8210f14a5ef42894","toSide":"left"},
+		{"id":"0e00bf708b3dd76e","fromNode":"f583a27748b9e370","fromSide":"right","toNode":"794d249b2faa86f7","toSide":"left"},
+		{"id":"2682b867f6ac50e8","fromNode":"794d249b2faa86f7","fromSide":"right","toNode":"e072d93dd49cb565","toSide":"left"},
+		{"id":"c33b8e4658fcc67d","fromNode":"31e265b3efc1f39a","fromSide":"right","toNode":"bcedc5de5ab5041e","toSide":"left"},
+		{"id":"57107971d6b3f2e4","fromNode":"8210f14a5ef42894","fromSide":"top","toNode":"bcedc5de5ab5041e","toSide":"bottom"},
+		{"id":"66b31b9d3cad7a9e","fromNode":"e072d93dd49cb565","fromSide":"right","toNode":"6269b58061841c2e","toSide":"left"},
+		{"id":"d2a9129f01786d8f","fromNode":"794d249b2faa86f7","fromSide":"right","toNode":"8694200e55750674","toSide":"left"},
+		{"id":"68ba7c89d47a35b7","fromNode":"8694200e55750674","fromSide":"right","toNode":"c6d08e745058abbc","toSide":"left"},
+		{"id":"e049f3dfe8913a39","fromNode":"b3260b501d74b59a","fromSide":"bottom","toNode":"1e846307cf7fa14a","toSide":"top"},
+		{"id":"9e545f06f4978cae","fromNode":"f583a27748b9e370","fromSide":"top","toNode":"c5911f6c474ecc7a","toSide":"bottom"},
+		{"id":"0eb3e403c0d4dfa1","fromNode":"c5911f6c474ecc7a","fromSide":"top","toNode":"e778f33b41cf6908","toSide":"bottom"},
+		{"id":"6ca5e7af816c4021","fromNode":"c5911f6c474ecc7a","fromSide":"top","toNode":"ab7bd77b72fee34e","toSide":"bottom"},
+		{"id":"3f94e0c2d38ab812","fromNode":"f583a27748b9e370","fromSide":"right","toNode":"b3260b501d74b59a","toSide":"top"}
+	]
+}
