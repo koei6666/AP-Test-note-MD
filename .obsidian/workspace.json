@@ -4,28 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "a5ed1ecb90085dde",
+        "id": "8c86b0d485e054d0",
         "type": "tabs",
         "children": [
           {
-            "id": "531475888064d71b",
+            "id": "4bc9ddf3915b56bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "マネジメント/IT統制.md",
+                "file": "基礎理論/離散数学.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd3e5996a6db09c7",
+            "id": "4e26dfccf1117115",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/ネットワークセキュリティ.md",
+                "file": "セキュリティ/PKI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b661bead3069b2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc./名詞解説・詳細説明.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f39bd898def3b2db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ハードウェア/デジタル符号化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3a24ef81f080056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ネットワーク/アプリケーション層のプロトコル.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WAF",
+                "query": "認証局",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "セキュリティ/ネットワークセキュリティ.md",
+                "file": "セキュリティ/PKI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "セキュリティ/ネットワークセキュリティ.md",
+                "file": "セキュリティ/PKI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "セキュリティ/ネットワークセキュリティ.md"
+                "file": "セキュリティ/PKI.md"
               }
             }
           },
@@ -180,44 +216,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd3e5996a6db09c7",
+  "active": "4e26dfccf1117115",
   "lastOpenFiles": [
+    "セキュリティ/SSL TLS.md",
+    "セキュリティ/ネットワークセキュリティ.md",
+    "システムの構成要素/クライアントサーバシステムアーキテクチャ.md",
+    "可逆と非可逆圧縮方式.md",
+    "マルチメディア/有機EL.md",
+    "マルチメディア",
+    "システムの構成要素/クライアントサーバシステム.md",
+    "データベース/問い合わせ処理の効率化.md",
+    "Misc./attachments/Pasted image 20231113231003.png",
+    "ハードウェア/入出力アーキテクチャ.md",
+    "ハードウェア/プロセッサの構成と動作.md",
+    "データベース/データベース設計における参照モデル.md",
+    "ネットワーク/トランスポート層以上の層の接続.md",
+    "セキュリティ/認証.md",
+    "データベース/分散データシステムの更新同期.md",
+    "Misc./attachments/Pasted image 20231113212026.png",
+    "Misc./名詞解説・詳細説明.md",
+    "ネットワーク/アプリケーション層のプロトコル.md",
+    "基礎理論/離散数学.md",
+    "基礎理論/標本化定理.md",
+    "Misc./attachments/Pasted image 20231112122030.png",
+    "ハードウェア/デジタル符号化.md",
+    "Misc./attachments/Pasted image 20231112110712.png",
+    "ハードウェア/コンピュータ制御.md",
+    "ネットワーク/通信プロトコルの標準化.md",
+    "ハードウェア/プロセッサの性能.md",
+    "セキュリティ/セキュリティ評価の標準化.md",
+    "システムの構成要素/システムの信頼性計算.md",
+    "Misc./attachments/Pasted image 20231111232622.png",
+    "システムの構成要素/システムの信頼性評価指標.md",
+    "ネットワーク/誤り制御.md",
+    "ネットワーク/IPv6.md",
+    "基礎理論",
     "Misc./attachments/Pasted image 20231109232217.png",
     "Misc./attachments/Pasted image 20231110121024.png",
-    "ストラテジ/エンジニアリングシステム.md",
-    "ストラテジ/技術開発戦略に関連する基本用語.md",
     "Misc./attachments/Pasted image 20231109203051.png",
-    "Misc./名詞解説・詳細説明.md",
-    "ストラテジ/e-ビジネス.md",
-    "ストラテジ/経営管理システム.md",
-    "ストラテジ/経営戦略手法.md",
-    "ストラテジ/関連法規.md",
-    "ストラテジ/マーケティング.md",
-    "ストラテジ/意思決定に用いる手法.md",
-    "ストラテジ/IoT関連.md",
-    "ストラテジ/情報システム・モデル取引・契約書.md",
     "Misc./attachments/Pasted image 20231108120456.png",
     "Misc./attachments/Pasted image 20231108121253.png",
-    "ストラテジ/経営戦略.md",
-    "ストラテジ/線型計画法.md",
-    "ストラテジ/目次.md",
-    "ストラテジ/IT投資とITマネジメント.md",
-    "Misc./attachments/Pasted image 20231107204935.png",
-    "ソフトウエア/OSS License.md",
-    "ストラテジ/プロジェクトマネジメントとリーダーシップ.md",
-    "マネジメント/ISO IEC 20000(JIS Q 20000).md",
-    "マネジメント/IT統制.md",
-    "ストラテジ/財務諸表分析.md",
-    "ストラテジ/システム開発に関連する規格・ガイドライン.md",
-    "マネジメント/プロジェクトマネジメントの活動.md",
-    "ストラテジ/業務プロセスの改善.md",
-    "ストラテジ/検査手法.md",
-    "システムの構成要素/分散システムの形態.md",
-    "Misc./attachments/Pasted image 20231106203131.png",
-    "Misc./attachments/Pasted image 20231106121821.png",
-    "Misc./attachments/Pasted image 20231106084234.png",
-    "Misc./attachments/Pasted image 20231106122046.png",
-    "Misc./attachments/Pasted image 20231105115702.png",
     "ストラテジ/事業分析フレームワーク.canvas",
     "ストラテジ",
     "ISO",
@@ -228,8 +266,6 @@
     "ネットワーク",
     "ソフトウエア/ソフトウェア.canvas",
     "データベース",
-    "Practice Knowledge",
-    "Misc./attachments",
     "Untitled 1.canvas"
   ]
 }

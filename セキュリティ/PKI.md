@@ -14,6 +14,8 @@ PKIではCAのデジタル署名をつけた証明書を発行し、ある公開
 
 公的証明書が不要で、社内ネットワークなどの場合、社内のサーバー上にプライベートCAを構築することもできる。
 
+認証局に申請する**証明書署名要求**(CSR:Certificate Signing Request)とは、申請した情報(表1の識別名情報)と公開鍵をもとに認証局に対して公開鍵証明書の発行を依頼するメッセージです。要求が成功した場合、申請した情報に認証局のディジタル署名が付された公開鍵証明書が送り返され、証明書として有効状態になります。
+
 ### CP&CPS
 CP(Certificate Policy):証明書の目的や利用用途を定めた規定
 CPS(Certificate Practice Statement):CA認証業務に関する規定
@@ -39,4 +41,10 @@ CPS(Certificate Practice Statement):CA認証業務に関する規定
 
 ディジタル証明書では、証明書が有効なサーバ(コモンネーム)を記述するのにIPアドレスだけでなくFQDNも使用できます。FQDNで指定した場合にはIPアドレスが変わっても再発行の必要はありません。
 
-A **fully qualified domain name** (**FQDN**), sometimes also referred to as an _absolute domain name_, is a domain name that specifies its exact location in the tree hierarchy of the Domain Name System (DNS). It specifies all domain levels, including the top-level domain and the root zone. A fully qualified domain name is distinguished by its lack of ambiguity in terms of DNS zone location in the hierarchy of DNS labels: it can be interpreted only in one way.
+#### **fully qualified domain name** (**FQDN**) 
+sometimes also referred to as an _absolute domain name_, is a domain name that specifies its exact location in the tree hierarchy of the Domain Name System (DNS). It specifies all domain levels, including the top-level domain and the root zone. A fully qualified domain name is distinguished by its lack of ambiguity in terms of DNS zone location in the hierarchy of DNS labels: it can be interpreted only in one way.
+For example, a website which domain is "a.com", and its FQDN should be "\www.a.com", in which, "www" is the host name, and "a.com" is the domain name,FQDN is a combination of both.
+
+#### **コモンネーム**(CN:Common Name)
+サーバ証明書に含まれる登録情報で、証明書が有効なFQDN、またはそのIPアドレスが格納される項目です。クライアント側ではアクセスしたURLのドメイン名と証明書のコモンネームを比較することで証明書の正当性を検証します。また本文中にも「コモンネーム(SSL接続するサイトのFQDN)」と説明が記載されています。  
+SSL/TLS通信の対象URLが "\https://www.a.co.jp/member" の場合、このURLのFQDN(ホスト部＋ドメイン部)にあたる "\www.a.co.jp" がコモンネームになります。

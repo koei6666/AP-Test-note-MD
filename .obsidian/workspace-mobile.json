@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ハードウェア/プロセッサの高速化技術.md",
+                "file": "セキュリティ/攻撃手段リスト.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "パイプライン",
+            "query": "非可逆",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -204,7 +204,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "9a79077f7f198cb2",
@@ -216,7 +216,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ハードウェア/プロセッサの高速化技術.md",
+            "file": "セキュリティ/攻撃手段リスト.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ハードウェア/プロセッサの高速化技術.md",
+            "file": "セキュリティ/攻撃手段リスト.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -245,7 +245,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ハードウェア/プロセッサの高速化技術.md"
+            "file": "セキュリティ/攻撃手段リスト.md"
           }
         }
       }
@@ -263,8 +263,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "379c31379ca443c7",
+  "active": "672cf44989090f43",
   "lastOpenFiles": [
+    "可逆と非可逆圧縮方式.md",
+    "マルチメディア/有機EL.md",
+    "Misc./過去問.md",
+    "マルチメディア",
+    "セキュリティ/セキュリティ関連用語.md",
+    "セキュリティ/攻撃手段リスト.md",
+    "ネットワーク/アドレス管理および名前解決技術.md",
+    "基礎理論/離散数学.md",
+    "ハードウェア/マルチプロセッサ.md",
+    "システム開発技術/UML.md",
+    "ハードウェア/プロセッサの高速化技術.md",
     "Misc./attachments/Pasted image 20231110121024.png",
     "ハードウェア/スーパースカラとVLIWの比較.md",
     "ネットワーク/IP.md",
@@ -288,19 +299,9 @@
     "ストラテジ/システム開発に関連する規格・ガイドライン.md",
     "Misc./attachments/Pasted image 20231106122046.png",
     "Misc./attachments/Pasted image 20231106121821.png",
-    "ストラテジ/情報システム・モデル取引・契約書.md",
     "Misc./attachments/Pasted image 20231106084234.png",
-    "ストラテジ/意思決定に用いる手法.md",
-    "システム開発技術/UML.md",
-    "マネジメント/TCO Total Cost of Ownership.md",
-    "ストラテジ/検査手法.md",
     "Misc./attachments/Pasted image 20231104163828.png",
-    "ストラテジ/ITガバナンスと情報システム戦略委員会.md",
-    "Misc./名詞解説・詳細説明.md",
-    "マネジメント/IT統制.md",
     "Misc./attachments/Pasted image 20231103185524.png",
-    "ストラテジ/ビジネス戦略と目標・評価.md",
-    "Misc./attachments/Pasted image 20231031125052.png",
     "ストラテジ",
     "ソフトウエア/ソフトウェア.canvas",
     "システムの構成要素",
