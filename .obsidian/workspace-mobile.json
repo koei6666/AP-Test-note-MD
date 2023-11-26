@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/攻撃手段リスト.md",
+                "file": "システムの構成要素/システムの信頼性評価指標.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "非可逆",
+            "query": "Mttr",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -204,7 +204,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9a79077f7f198cb2",
@@ -216,7 +216,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "セキュリティ/攻撃手段リスト.md",
+            "file": "システムの構成要素/システムの信頼性評価指標.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "セキュリティ/攻撃手段リスト.md",
+            "file": "システムの構成要素/システムの信頼性評価指標.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -245,7 +245,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "セキュリティ/攻撃手段リスト.md"
+            "file": "システムの構成要素/システムの信頼性評価指標.md"
           }
         }
       }
@@ -263,18 +263,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "672cf44989090f43",
+  "active": "379c31379ca443c7",
   "lastOpenFiles": [
+    "ハードウェア/主記憶の実効アクセス時間.md",
+    "システム開発技術/UML.md",
+    "ハードウェア/キャッシュメモリ.md",
+    "セキュリティ/セキュリティ関連用語.md",
+    "セキュリティ/情報セキュリティ管理.md",
+    "セキュリティ/情報セキュリティ実装技術.md",
+    "セキュリティ/攻撃手段リスト.md",
     "可逆と非可逆圧縮方式.md",
     "マルチメディア/有機EL.md",
     "Misc./過去問.md",
     "マルチメディア",
-    "セキュリティ/セキュリティ関連用語.md",
-    "セキュリティ/攻撃手段リスト.md",
     "ネットワーク/アドレス管理および名前解決技術.md",
     "基礎理論/離散数学.md",
     "ハードウェア/マルチプロセッサ.md",
-    "システム開発技術/UML.md",
     "ハードウェア/プロセッサの高速化技術.md",
     "Misc./attachments/Pasted image 20231110121024.png",
     "ハードウェア/スーパースカラとVLIWの比較.md",
@@ -293,10 +297,6 @@
     "ストラテジ/関連法規.md",
     "Misc./attachments/Pasted image 20231108121253.png",
     "Misc./attachments/Pasted image 20231108120456.png",
-    "ストラテジ/IT投資とITマネジメント.md",
-    "ストラテジ/e-ビジネス.md",
-    "ストラテジ/マーケティング.md",
-    "ストラテジ/システム開発に関連する規格・ガイドライン.md",
     "Misc./attachments/Pasted image 20231106122046.png",
     "Misc./attachments/Pasted image 20231106121821.png",
     "Misc./attachments/Pasted image 20231106084234.png",

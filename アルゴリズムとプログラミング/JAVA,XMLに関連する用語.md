@@ -21,7 +21,7 @@
 　Document Type Definationの略、==XMLの文書構造を定義するスキーマ言語==、またはXMLの文書構造を定義するための記述。
 　[[過去問#^068c63]]
 #CSS
-　Cascading Style Sheetsの略。HTMLやXMLの視覚表現などの情報を扱う仕様。HTMLなどから、文書表現に関する記述を分離し、効率的な文書作成や管理を実現。
+[[CSS]]
 #XSLT
 　XML Stylesheet Language Transformationsの略。XMLを別の文書形式を持つXMLや、HTML文書などに変換するための仕様
 #SVG
