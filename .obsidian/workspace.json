@@ -8,91 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bc9ddf3915b56bc",
+            "id": "e990ed5ed879422e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基礎理論/離散数学.md",
+                "file": "計算問題/NPV.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4e26dfccf1117115",
+            "id": "52eb1888648708cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/攻撃手段リスト.md",
+                "file": "ストラテジ/IT投資とITマネジメント.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f62c9c94d3616754",
+            "id": "ba5b382dc151fea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "マルチメディア/有機EL.md",
+                "file": "ストラテジ/財務諸表分析.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cde3298434aee988",
+            "id": "c8003c2b89227759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/可逆と非可逆圧縮方式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b661bead3069b2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc./名詞解説・詳細説明.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f39bd898def3b2db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ハードウェア/デジタル符号化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3a24ef81f080056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ネットワーク/アプリケーション層のプロトコル.md",
+                "file": "システム開発技術/ホワイトボックステスト.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "クロスサイト",
+                "query": "自己資本",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "セキュリティ/攻撃手段リスト.md",
+                "file": "ストラテジ/財務諸表分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "セキュリティ/攻撃手段リスト.md",
+                "file": "ストラテジ/財務諸表分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "セキュリティ/攻撃手段リスト.md"
+                "file": "ストラテジ/財務諸表分析.md"
               }
             }
           },
@@ -242,53 +206,52 @@
   },
   "active": "772bbd8c7686653f",
   "lastOpenFiles": [
-    "セキュリティ/認証.md",
-    "セキュリティ/PKI.md",
-    "システムの構成要素/複数システムの稼働率.md",
-    "ストラテジ/関連法規.md",
-    "Web/CSS.md",
-    "ストラテジ/システム開発に関連する規格・ガイドライン.md",
-    "Web/可逆と非可逆圧縮方式.md",
-    "マルチメディア/PNG.md",
-    "マルチメディア/有機EL.md",
-    "Web/HTML.md",
-    "アルゴリズムとプログラミング/JAVA,XMLに関連する用語.md",
-    "Web",
-    "セキュリティ/SSL TLS.md",
+    "計算問題/NPV.md",
+    "Misc./attachments/Pasted image 20240107133407.png",
+    "Misc./attachments/Pasted image 20240107133206.png",
+    "ストラテジ/IT投資とITマネジメント.md",
+    "計算問題/磁気ディスクアクセス時間問題.md",
+    "計算問題",
+    "ストラテジ/経営戦略.md",
+    "ストラテジ/財務諸表分析.md",
+    "Misc./attachments/Pasted image 20231224145532.png",
+    "Misc./過去問.md",
+    "ストラテジ/企業価値.md",
+    "ストラテジ/減価償却.md",
+    "ストラテジ/経営戦略手法.md",
+    "セキュリティ/セキュリティ関連用語.md",
     "セキュリティ/ネットワークセキュリティ.md",
-    "システムの構成要素/クライアントサーバシステムアーキテクチャ.md",
-    "マルチメディア",
-    "システムの構成要素/クライアントサーバシステム.md",
-    "データベース/問い合わせ処理の効率化.md",
-    "Misc./attachments/Pasted image 20231113231003.png",
-    "ハードウェア/入出力アーキテクチャ.md",
-    "ハードウェア/プロセッサの構成と動作.md",
-    "データベース/データベース設計における参照モデル.md",
-    "ネットワーク/トランスポート層以上の層の接続.md",
-    "データベース/分散データシステムの更新同期.md",
-    "Misc./attachments/Pasted image 20231113212026.png",
-    "Misc./名詞解説・詳細説明.md",
+    "Misc./attachments/Pasted image 20231212223509.png",
+    "ヒューマンインターフェース/アイコン.md",
+    "ヒューマンインターフェース",
+    "セキュリティ/マルウェアの種類.md",
+    "セキュリティ/情報セキュリティ実装技術.md",
+    "セキュリティ/攻撃手段リスト.md",
+    "セキュリティ/情報セキュリティの脅威と攻撃手法.md",
+    "セキュリティ/攻撃準備.md",
+    "ネットワーク/IPv6.md",
+    "セキュリティ/セキュリティ.md",
+    "セキュリティ/マルウェア対策.md",
+    "ネットワーク/アドレス管理および名前解決技術.md",
+    "ネットワーク/Web関連プロトコル.md",
     "ネットワーク/アプリケーション層のプロトコル.md",
-    "基礎理論/離散数学.md",
-    "基礎理論/標本化定理.md",
-    "Misc./attachments/Pasted image 20231112122030.png",
-    "ハードウェア/デジタル符号化.md",
-    "Misc./attachments/Pasted image 20231112110712.png",
-    "Misc./attachments/Pasted image 20231111232622.png",
+    "セキュリティ/パスワードの不正取得と対策.md",
+    "マネジメント/プロジェクトマネジメントの活動.md",
+    "Misc./attachments/Pasted image 20231205203518.png",
+    "Misc./attachments/Pasted image 20231205203313.png",
+    "Misc./attachments/Pasted image 20231205203258.png",
+    "Misc./attachments/Pasted image 20231202022723.png",
+    "Misc./attachments/Pasted image 20231128212723.png",
+    "Misc./attachments/Pasted image 20231128212543.png",
+    "Web",
+    "マルチメディア",
     "基礎理論",
-    "Misc./attachments/Pasted image 20231109232217.png",
-    "Misc./attachments/Pasted image 20231110121024.png",
-    "Misc./attachments/Pasted image 20231109203051.png",
-    "Misc./attachments/Pasted image 20231108120456.png",
-    "Misc./attachments/Pasted image 20231108121253.png",
     "ストラテジ/事業分析フレームワーク.canvas",
     "ストラテジ",
     "ISO",
     "マネジメント",
     "システム開発技術",
     "SSL",
-    "セキュリティ",
-    "ネットワーク",
     "ソフトウエア/ソフトウェア.canvas",
     "Untitled 1.canvas"
   ]

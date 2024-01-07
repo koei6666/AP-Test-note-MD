@@ -109,7 +109,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "システムの構成要素/システムの信頼性評価指標.md",
+                "file": "基礎理論/AIと機械学習.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35b1879fe72d2228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ネットワーク/Web関連プロトコル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39a48b31ed9f34e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "計算問題解法.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -165,7 +189,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Mttr",
+            "query": "シーク時間",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -204,7 +228,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "9a79077f7f198cb2",
@@ -216,7 +240,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "システムの構成要素/システムの信頼性評価指標.md",
+            "file": "計算問題解法.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -233,7 +257,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "システムの構成要素/システムの信頼性評価指標.md",
+            "file": "計算問題解法.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -245,7 +269,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "システムの構成要素/システムの信頼性評価指標.md"
+            "file": "計算問題解法.md"
           }
         }
       }
@@ -263,45 +287,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "379c31379ca443c7",
+  "active": "39a48b31ed9f34e7",
   "lastOpenFiles": [
-    "ハードウェア/主記憶の実効アクセス時間.md",
-    "システム開発技術/UML.md",
-    "ハードウェア/キャッシュメモリ.md",
-    "セキュリティ/セキュリティ関連用語.md",
-    "セキュリティ/情報セキュリティ管理.md",
-    "セキュリティ/情報セキュリティ実装技術.md",
+    "Misc./名詞解説・詳細説明.md",
+    "計算問題解法.md",
+    "ハードウェア/ハードディスク.md",
+    "ハードウェア/ハードウェア.md",
+    "Untitled",
+    "ネットワーク/Web関連プロトコル.md",
+    "データベース/NoSQL.md",
+    "Misc./attachments/Pasted image 20240106134227.png",
+    "ハードウェア/デジタル符号化.md",
     "セキュリティ/攻撃手段リスト.md",
-    "可逆と非可逆圧縮方式.md",
-    "マルチメディア/有機EL.md",
-    "Misc./過去問.md",
-    "マルチメディア",
-    "ネットワーク/アドレス管理および名前解決技術.md",
-    "基礎理論/離散数学.md",
-    "ハードウェア/マルチプロセッサ.md",
-    "ハードウェア/プロセッサの高速化技術.md",
-    "Misc./attachments/Pasted image 20231110121024.png",
-    "ハードウェア/スーパースカラとVLIWの比較.md",
-    "ネットワーク/IP.md",
-    "アルゴリズムとプログラミング/JAVA,XMLに関連する用語.md",
-    "ネットワーク/転送制御.md",
-    "Misc./attachments/Pasted image 20231109232217.png",
+    "ネットワーク/アプリケーション層のプロトコル.md",
+    "システムの構成要素/クライアントサーバー関連技術.md",
+    "ソフトウエア/オーバレイ方式.md",
+    "ソフトウエア/実記憶管理.md",
+    "ソフトウエア/記憶管理.md",
+    "ソフトウエア/可変区画方式.md",
     "ハードウェア/メモリアーキテクチャ.md",
-    "ハードウェア/関連用語.md",
-    "ストラテジ/品質管理手法.md",
+    "ハードウェア/キャッシュメモリの割付方式.md",
+    "Misc./過去問.md",
+    "ハードウェア/主記憶への書き込み方式.md",
+    "データベース/参照関係を持つ表の更新.md",
+    "データベース/データ定義言語.md",
+    "基礎理論/AIと機械学習.md",
+    "ネットワーク/誤り制御.md",
+    "ストラテジ/e-ビジネス.md",
+    "アルゴリズムとプログラミング/プログラムメモリの割り当て.md",
+    "セキュリティ/認証.md",
+    "ネットワーク/サブネットマスク.md",
+    "Misc./attachments/Pasted image 20231212223509.png",
+    "ヒューマンインターフェース",
+    "Misc./attachments/Pasted image 20231202022723.png",
+    "マルチメディア",
+    "Misc./attachments/Pasted image 20231110121024.png",
+    "Misc./attachments/Pasted image 20231109232217.png",
     "Misc./attachments/Pasted image 20231109203051.png",
-    "ストラテジ/経営管理システム.md",
-    "ストラテジ/IE分析手法.md",
-    "ストラテジ/エンジニアリングシステム.md",
-    "ストラテジ/経営戦略手法.md",
-    "ストラテジ/関連法規.md",
     "Misc./attachments/Pasted image 20231108121253.png",
     "Misc./attachments/Pasted image 20231108120456.png",
     "Misc./attachments/Pasted image 20231106122046.png",
     "Misc./attachments/Pasted image 20231106121821.png",
-    "Misc./attachments/Pasted image 20231106084234.png",
-    "Misc./attachments/Pasted image 20231104163828.png",
-    "Misc./attachments/Pasted image 20231103185524.png",
     "ストラテジ",
     "ソフトウエア/ソフトウェア.canvas",
     "システムの構成要素",
