@@ -1,0 +1,1 @@
+CP（Certificate Policy）は、CA（Certification Authority：認証局）が発行する証明書の種類、用途、申込手続など、証明書に関する事項を規定する文書のことです。

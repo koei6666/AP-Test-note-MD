@@ -133,7 +133,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "計算問題解法.md",
+                "file": "ハードウェア/フラッシュメモリ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c4eb4e37cae325e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "マネジメント/ITIL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f466fcf266a05b23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "セキュリティ/情報セキュリティ管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -189,7 +213,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "シーク時間",
+            "query": "Cve",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -223,12 +247,14 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9a79077f7f198cb2",
@@ -240,7 +266,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "計算問題解法.md",
+            "file": "セキュリティ/情報セキュリティ管理.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -257,7 +283,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "計算問題解法.md",
+            "file": "セキュリティ/情報セキュリティ管理.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -269,7 +295,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "計算問題解法.md"
+            "file": "セキュリティ/情報セキュリティ管理.md"
           }
         }
       }
@@ -287,36 +313,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39a48b31ed9f34e7",
+  "active": "f466fcf266a05b23",
   "lastOpenFiles": [
-    "Misc./名詞解説・詳細説明.md",
-    "計算問題解法.md",
-    "ハードウェア/ハードディスク.md",
-    "ハードウェア/ハードウェア.md",
-    "Untitled",
-    "ネットワーク/Web関連プロトコル.md",
-    "データベース/NoSQL.md",
-    "Misc./attachments/Pasted image 20240106134227.png",
-    "ハードウェア/デジタル符号化.md",
-    "セキュリティ/攻撃手段リスト.md",
-    "ネットワーク/アプリケーション層のプロトコル.md",
-    "システムの構成要素/クライアントサーバー関連技術.md",
-    "ソフトウエア/オーバレイ方式.md",
-    "ソフトウエア/実記憶管理.md",
-    "ソフトウエア/記憶管理.md",
-    "ソフトウエア/可変区画方式.md",
-    "ハードウェア/メモリアーキテクチャ.md",
-    "ハードウェア/キャッシュメモリの割付方式.md",
-    "Misc./過去問.md",
-    "ハードウェア/主記憶への書き込み方式.md",
-    "データベース/参照関係を持つ表の更新.md",
-    "データベース/データ定義言語.md",
-    "基礎理論/AIと機械学習.md",
+    "ネットワーク/物理層の接続.md",
+    "システム開発技術/UML.md",
+    "ネットワーク/ネットワーク接続装置と関連技術.md",
+    "セキュリティ/無線LANの暗号.md",
+    "セキュリティ/PKI.md",
+    "SC/公開鍵基盤/CP Certification Policy.md",
+    "SC/公開鍵基盤/CPS Certification Practice Statement.md",
+    "SC/公開鍵基盤",
+    "データベース/ビューの定義.md",
+    "SC",
+    "ネットワーク/インターネット上の電話サービス.md",
+    "ネットワーク/アドレス管理および名前解決技術.md",
+    "計算問題/損益分岐点.md",
+    "計算問題/磁気ディスクアクセス時間問題.md",
+    "計算問題/指定実行遅れ時間に対してのページフォールト発生率問題.md",
+    "計算問題/NPV.md",
+    "計算問題/片方のみ稼働率問題.md",
+    "計算問題/平均待ち時間.md",
     "ネットワーク/誤り制御.md",
-    "ストラテジ/e-ビジネス.md",
-    "アルゴリズムとプログラミング/プログラムメモリの割り当て.md",
-    "セキュリティ/認証.md",
-    "ネットワーク/サブネットマスク.md",
+    "データベース/基本的なSQL問い合わせ.md",
+    "データベース/関係データベース.md",
+    "データベース/ビッグデータ (Big Data).md",
+    "データベース/データベース管理者.md",
+    "データベース/データベース設計における参照モデル.md",
+    "データベース/データベースの設計.md",
+    "データベース/WITH句とCASE式.md",
+    "データベース/SQL.md",
+    "ハードウェア/RFID.md",
+    "Misc./attachments/Pasted image 20240122213822.png",
+    "Misc./attachments/Pasted image 20240113173605.png",
+    "Misc./attachments/Pasted image 20240106134227.png",
     "Misc./attachments/Pasted image 20231212223509.png",
     "ヒューマンインターフェース",
     "Misc./attachments/Pasted image 20231202022723.png",
@@ -326,8 +355,6 @@
     "Misc./attachments/Pasted image 20231109203051.png",
     "Misc./attachments/Pasted image 20231108121253.png",
     "Misc./attachments/Pasted image 20231108120456.png",
-    "Misc./attachments/Pasted image 20231106122046.png",
-    "Misc./attachments/Pasted image 20231106121821.png",
     "ストラテジ",
     "ソフトウエア/ソフトウェア.canvas",
     "システムの構成要素",

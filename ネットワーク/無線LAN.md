@@ -9,7 +9,17 @@
 | 802.11n    | 600 Mbps     | 2.4 GHz/5 GHz  | MIMO技術を採用、広い範囲と高速な転送速度を提供  |
 | 802.11ac   | 1-6.77 Gbps  | 5 GHz          | MU-MIMO, 高密度の環境での高いパフォーマンス    |
 | 802.11ax   | 10 Gbps      | 2.4 GHz/5 GHz  | OFDMA技術、多くのデバイスでの高パフォーマンス   |
+### Mnemonic Device: "A Beautiful Garden Nourishes Acorns"
 
+1. **A** - IEEE 802.11a: Think of "A" for "Aged," as it's one of the older standards. It operates at 5 GHz and offers up to 54 Mbps.
+    
+2. **B** - IEEE 802.11b: "B" for "Basic." It operates at 2.4 GHz and offers up to 11 Mbps.
+    
+3. **G** - IEEE 802.11g: "G" for "Growth." A growth from 'b', it also operates at 2.4 GHz but offers higher bandwidth up to 54 Mbps.
+    
+4. **N** - IEEE 802.11n: "N" for "Newer." It operates on both 2.4 GHz and 5 GHz frequencies and offers up to 600 Mbps by using multiple wireless signals and antennas (MIMO technology).
+    
+5. **Ac** - IEEE 802.11ac: "Ac" for "Advanced capacity." It operates exclusively on 5 GHz with bandwidths potentially exceeding 1 Gbps, using wider channels, more spatial streams, and higher-density modulation.
 #### 説明と実世界の例
 
 - **802.11a**: この規格は高速な転送速度を提供しますが、2.4 GHz帯を使用する他の規格よりも通信範囲が短い傾向にあります。障害物に強い。
@@ -63,10 +73,18 @@ OFDM(Orthogonal Frequency Division Multiplexing:直交周波数分割多元通�
 RTS/CTSはこの問題を解決する、ノードが送信する前に、アクセスポイントにRTS(Request To Send)を送信、RTSを受信したアクセスポイントがCTS(Clear To Send)を返信することで、データの送信を開始する。
 CTSには他のノードに対する送信抑止時間を記載しており、衝突を抑制する。
 
+1. クライアントは他のクライアントが通信を行っていないことを確認する
+2. クライアントはランダムな待ち時間（バックオフ時間）の後、アクセスポイントにデータフレームを送信する
+3. クライアントからのデータフレームを受け取ったアクセスポイントは、他のクライアントに一定時間通信しないように通知する
+4. アクセスポイントはクライアントにACKフレームを送信する
+5. クライアントはACKフレームを受信して、正しく届いたことを確認する
+
 ### 無線LANチャンネル割り当て
 無線LANネットワークでは、近接するネットワークとの電波干渉を避けるために、使用する周波数帯をネットワークごとに微妙にずらすことが可能になっています。このときに設定する値をチャネル（チャンネル）といいます。  
   
-2.4GHz帯を使用するIEEE802.11gでは1～13のチャネル（11bでは1～14）を選択できますが、1つのチャネルの周波数帯域は22MHz、各チャネルは5MHzずつ区切られているので、近接するチャネル同士は周波数帯が一部重なっていて電波干渉が起きます。このため、近くの無線LANネットワークで同じまたは近接するチャネルが使用されていると通信が不安定になってしまうという特性があります。なお、5GHz帯を使用する無線LAN規格では各チャネルの周波数帯は完全に独立しているので、近接するチャネルを設定しても2.4GHz帯のような電波干渉は起きません。
+2.4GHz帯を使用するIEEE802.11gでは1～13のチャネル（11bでは1～14）を選択できますが、1つのチャネルの周波数帯域は22MHz、各チャネルは5MHzずつ区切られているので、近接するチャネル同士は周波数帯が一部重なっていて電波干渉が起きます。このため、近くの無線LANネットワークで同じまたは近接するチャネルが使用されていると通信が不安定になってしまうという特性があります。なお==、5GHz帯を使用する無線LAN規格では各チャネルの周波数帯は完全に独立しているので、近接するチャネルを設定しても2.4GHz帯のような電波干渉は起きません。==
+
+2.4GHzのチャンネル設定時に注意するのは、各APのチャンネルを2〜3個番号離れたものに設定すべきに対して、5GHzではAPそれぞれ異なる周波数のチャンネルであれば干渉は起きない。
 
 ![[Pasted image 20230906231251.png]]
 
@@ -100,3 +118,9 @@ IEEE 802.15.4 is a standard which specifies the operation of low-rate wireless p
     - For instance, Zigbee builds on IEEE 802.15.4 to provide a full networking solution for home automation, industrial control, and other low-power, low-data-rate applications.
 
 In sum, IEEE 802.15.4 lays the groundwork for low-rate wireless communication between close-proximity devices, with applications ranging from home automation to industrial control systems. By defining key aspects like frequency bands, network topologies, addressing schemes, and basic security measures, it facilitates the creation of versatile WPANs that meet the needs of various low-power, low-data-rate, and close-proximity wireless communication scenarios.
+
+### ハンドオーバー
+**ハンドオーバー**は、無線LAN端末やモバイル端末を使用しながら移動するときに、端末の場所に応じて通信する基地局やアクセスポイントを切り替えることです。
+
+### ローミング
+ローミングは、契約している通信事業者のサービスエリア外でも、他の事業者のサービスによってモバイル端末を使用できるサービスです。

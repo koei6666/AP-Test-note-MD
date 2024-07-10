@@ -11,7 +11,7 @@
 　Java 2 Platform, Enterprise Editionの略、WEBベースの大規模企業向けシステムにおける、サーバー側アプリケーション構築の枠組み、あるいはプラットフォーム技術に関連する仕様。
 　構成技術として、Servlet ,JSP ,EJB,JDBCなどがある。
 #AJAX
-　Asynchronous Javascript＋XMLの略。Javascriptの非同期通信を使って、画面繊維が起こらない動的インタフェースを実現する技術。
+　Asynchronous Javascript＋XMLの略。Javascriptの非同期通信を使って、画面遷移が起こらない動的インタフェースを実現する技術。
 　==検索エンジンのキーワード入力中に内容によって候補が表示されたり、キー入力の度にリアルタイムに検索結果を表示する機能にもAjaxが使われています。またAjaxを利用した有名なWebアプリケーションにGmailやGoogleMapがあります。==
 #JDBC
 　Javaでトランザクション管理を行うためのAPIである。

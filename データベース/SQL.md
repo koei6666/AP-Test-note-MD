@@ -16,8 +16,10 @@ SELECT データの検索
 　SELECT Criteria FROM Table_name [WHERE Condition] [GROUP BY Attribute] [HAVING Group_Condition]
 
 INSERT データの挿入
+  INSERT INTO Table_name (Values1, Values2 ...)
 
 UPDATE データの更新
+  UPDATE Table_name SET Coloumn_name = Value [WHERE Condition]
 
 DELETE データの削除
 ```

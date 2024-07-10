@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"c4600e84f164678c","x":-325,"y":-170,"width":400,"height":400,"type":"file","file":"システムの構成要素/集中処理システムと分散処理システム.md"},
+		{"id":"9f7d94979ee3745d","x":-80,"y":-380,"width":320,"height":160,"type":"text","text":"## 集中処理システム\n情報資源や処理を一箇所に集中させるシステム。１台のホストコンピューターで複数の業務を行うのがその代表。"},
+		{"id":"1c57563a4b33fbf5","x":160,"y":-170,"width":352,"height":162,"type":"text","text":"### オンライントランザクション処理\nホストコンピューターで処理をし、その指示と結果を通信回路通じて端末と交信する処理"},
+		{"id":"e11311ee6ed07776","x":170,"y":83,"width":342,"height":147,"type":"text","text":"## シンクライアント端末\n端末ローカルでは情報保存や処理せずに、ホストコンピューターと通信して動作する端末"},
+		{"id":"6ace79d2f0e82ef4","x":-292,"y":300,"width":334,"height":200,"type":"text","text":"## 分散処理システム\nデータや資源を各コンピューターに分散させ、利用者がネットワークを通してすべてのシステム資源を共有しながら効率よく処理できるように構築されたシステム。"},
+		{"id":"74a0b8c46c8bd55e","x":-780,"y":230,"width":400,"height":400,"type":"file","file":"システムの構成要素/分散システムの形態.md"},
+		{"id":"5caebdf55a95cc8c","x":-939,"y":729,"width":339,"height":151,"type":"text","text":"## 水平負荷分散\n全てのサーバーは**同じタスク**を実行しますが、全体の負荷を軽減するためにそれらのタスクが複数のサーバーに分散されます"},
+		{"id":"adc5e85b7d32a894","x":-580,"y":729,"width":352,"height":200,"type":"text","text":"## 水平機能分散\nシステムの業務が各ノードに均等に分散されます。**各ノードは一つの業務（あるいは機能）を担当します**。これはある業務を特定のノードに割り当て、他の業務を別のノードに割り当てることによって行われます。"},
+		{"id":"b9ffcc733b078709","x":-1240,"y":535,"width":370,"height":190,"type":"text","text":"## 垂直機能分散\n**垂直機能分散**では、特定の業務内の一連の処理を更に細分化し、これらを階層的にノードに割り当てます。この場合、各ノードは特定の機能を担当し、これらの機能は通常、システム全体のワークフローに沿って順番に実行されます"},
+		{"id":"1d43de1199bd4b9d","x":560,"y":-119,"width":600,"height":139,"type":"text","text":"## VDI\nVDI（Virtual Desktop Infrastructure）とは、中央のサーバー上でデスクトップ環境を仮想化し、それをユーザーのエンドポイント（例えば、個々のユーザーのパソコンやモバイルデバイス）に配布するITインフラストラクチャの一形態です。"}
+	],
+	"edges":[
+		{"id":"68650d8eef80ff13","fromNode":"c4600e84f164678c","fromSide":"top","toNode":"9f7d94979ee3745d","toSide":"left"},
+		{"id":"14f0c8fe043d5ec1","fromNode":"9f7d94979ee3745d","fromSide":"right","toNode":"1c57563a4b33fbf5","toSide":"top"},
+		{"id":"692ef4125e94f5fd","fromNode":"1c57563a4b33fbf5","fromSide":"bottom","toNode":"e11311ee6ed07776","toSide":"top"},
+		{"id":"36268a0337c63760","fromNode":"c4600e84f164678c","fromSide":"bottom","toNode":"6ace79d2f0e82ef4","toSide":"top"},
+		{"id":"16f8eb4aabeeac99","fromNode":"6ace79d2f0e82ef4","fromSide":"left","toNode":"74a0b8c46c8bd55e","toSide":"right"},
+		{"id":"56ebc0a58a5e4e20","fromNode":"74a0b8c46c8bd55e","fromSide":"bottom","toNode":"5caebdf55a95cc8c","toSide":"top"},
+		{"id":"9d02a43bbc8358a6","fromNode":"74a0b8c46c8bd55e","fromSide":"bottom","toNode":"adc5e85b7d32a894","toSide":"top"},
+		{"id":"5ab8d812128f4f94","fromNode":"74a0b8c46c8bd55e","fromSide":"bottom","toNode":"b9ffcc733b078709","toSide":"right"},
+		{"id":"e8345780e5b46553","fromNode":"1c57563a4b33fbf5","fromSide":"right","toNode":"1d43de1199bd4b9d","toSide":"left"}
+	]
+}
