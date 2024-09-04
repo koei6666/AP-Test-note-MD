@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/午後問題/2009/2009-午後2-1.md",
+                "file": "SC/午後問題/2009/2009-午後2-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "認証局",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/午後問題/2009/2009-午後2-1.md",
+                "file": "SC/午後問題/2009/2009-午後2-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/午後問題/2009/2009-午後2-1.md",
+                "file": "SC/午後問題/2009/2009-午後2-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/午後問題/2009/2009-午後2-1.md"
+                "file": "SC/午後問題/2009/2009-午後2-2.md"
               }
             }
           },
@@ -169,10 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e00b1016364728f2",
+  "active": "772bbd8c7686653f",
   "lastOpenFiles": [
-    "セキュリティ/認証のパス.md",
+    "セキュリティ/情報セキュリティ委員会.md",
+    "SC/午後問題/2009/2009-午後2-2.md",
+    "セキュリティ/マネジメントレビュー.md",
     "SC/午後問題/2009/2009-午後2-1.md",
+    "セキュリティ/認証のパス.md",
     "セキュリティ/sha1.md",
     "セキュリティ/暗号化.md",
     "SC/午後問題/2009/sha1.md",
@@ -201,9 +204,6 @@
     "ネットワーク/IPv6.md",
     "ネットワーク/データリンク層の主なプロトコル.md",
     "セキュリティ/PKI.md",
-    "セキュリティ/セキュリティ評価の標準化.md",
-    "マネジメント/ISO IEC 20000(JIS Q 20000).md",
-    "ネットワーク/インターネット上の電話サービス.md",
     "SC/公開鍵基盤",
     "SC",
     "計算問題/Untitled",

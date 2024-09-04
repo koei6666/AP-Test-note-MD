@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ストラテジ/ビジネス戦略と目標・評価.md",
+                "file": "SC/午後問題/2009/2009-午後2-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "TCP",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "9a79077f7f198cb2",
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ストラテジ/ビジネス戦略と目標・評価.md",
+            "file": "SC/午後問題/2009/2009-午後2-1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ストラテジ/ビジネス戦略と目標・評価.md",
+            "file": "SC/午後問題/2009/2009-午後2-1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ストラテジ/ビジネス戦略と目標・評価.md"
+            "file": "SC/午後問題/2009/2009-午後2-1.md"
           }
         }
       }
@@ -146,6 +146,7 @@
   },
   "active": "fe74841a934f609e",
   "lastOpenFiles": [
+    "ストラテジ/ビジネス戦略と目標・評価.md",
     "マネジメント/ITIL.md",
     "ネットワーク/トランスポート層のプロトコル.md",
     "セキュリティ/SSL TLS.md",
@@ -173,7 +174,6 @@
     "データベース/関係データベース.md",
     "データベース/ビッグデータ (Big Data).md",
     "データベース/データベース管理者.md",
-    "データベース/データベース設計における参照モデル.md",
     "Misc./attachments/Pasted image 20240122213822.png",
     "Misc./attachments/Pasted image 20240113173605.png",
     "Misc./attachments/Pasted image 20240106134227.png",
