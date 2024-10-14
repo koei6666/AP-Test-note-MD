@@ -10,16 +10,31 @@
           {
             "id": "fe74841a934f609e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/午後問題/2009/2009-午後2-1.md",
+                "file": "ネットワーク/通信プロトコルの標準化.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fedcb85969708999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ストラテジ/IaaS,PaaS,Saas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "SaaS",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9a79077f7f198cb2",
@@ -97,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SC/午後問題/2009/2009-午後2-1.md",
+            "file": "ストラテジ/IaaS,PaaS,Saas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SC/午後問題/2009/2009-午後2-1.md",
+            "file": "ストラテジ/IaaS,PaaS,Saas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SC/午後問題/2009/2009-午後2-1.md"
+            "file": "ストラテジ/IaaS,PaaS,Saas.md"
           }
         }
       }
@@ -144,8 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe74841a934f609e",
+  "active": "fedcb85969708999",
   "lastOpenFiles": [
+    "セキュリティ/ストレッチング.md",
+    "セキュリティ/暗号化.md",
+    "セキュリティ/セキュリティ.md",
+    "ネットワーク/DRM.md",
+    "ネットワーク/アプリケーション層のプロトコル.md",
+    "セキュリティ/Metasploit.md",
+    "セキュリティ/Nmap.md",
+    "セキュリティ/Ghidra.md",
+    "セキュリティ/XVWA.md",
+    "ネットワーク/通信プロトコルの標準化.md",
+    "Misc./attachments/IMG_4043.jpeg",
+    "セキュリティ/ネットワークセキュリティ.md",
+    "ストラテジ/IoT関連.md",
+    "セキュリティ/攻撃手段リスト.md",
+    "システムの構成要素/Webシステムの三層構造.md",
+    "ネットワーク/Web関連プロトコル.md",
+    "SC/午後問題/2009/2009-午後2-1.md",
     "ストラテジ/ビジネス戦略と目標・評価.md",
     "マネジメント/ITIL.md",
     "ネットワーク/トランスポート層のプロトコル.md",
@@ -156,24 +188,8 @@
     "ネットワーク/ネットワーク接続装置と関連技術.md",
     "セキュリティ/無線LANの暗号.md",
     "セキュリティ/PKI.md",
-    "SC/公開鍵基盤/CP Certification Policy.md",
-    "SC/公開鍵基盤/CPS Certification Practice Statement.md",
     "SC/公開鍵基盤",
-    "データベース/ビューの定義.md",
     "SC",
-    "ネットワーク/インターネット上の電話サービス.md",
-    "ネットワーク/アドレス管理および名前解決技術.md",
-    "計算問題/損益分岐点.md",
-    "計算問題/磁気ディスクアクセス時間問題.md",
-    "計算問題/指定実行遅れ時間に対してのページフォールト発生率問題.md",
-    "計算問題/NPV.md",
-    "計算問題/片方のみ稼働率問題.md",
-    "計算問題/平均待ち時間.md",
-    "ネットワーク/誤り制御.md",
-    "データベース/基本的なSQL問い合わせ.md",
-    "データベース/関係データベース.md",
-    "データベース/ビッグデータ (Big Data).md",
-    "データベース/データベース管理者.md",
     "Misc./attachments/Pasted image 20240122213822.png",
     "Misc./attachments/Pasted image 20240113173605.png",
     "Misc./attachments/Pasted image 20240106134227.png",
@@ -185,7 +201,6 @@
     "Misc./attachments/Pasted image 20231109232217.png",
     "Misc./attachments/Pasted image 20231109203051.png",
     "Misc./attachments/Pasted image 20231108121253.png",
-    "Misc./attachments/Pasted image 20231108120456.png",
     "ストラテジ",
     "ソフトウエア/ソフトウェア.canvas",
     "システムの構成要素",

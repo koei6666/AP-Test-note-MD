@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e00b1016364728f2",
+            "id": "935a0f335b08e5dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/午後問題/2009/2009-午後2-2.md",
+                "file": "ネットワーク/JWT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74a93dea39a8c736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "セキュリティ/SNI.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "JWT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/午後問題/2009/2009-午後2-2.md",
+                "file": "ネットワーク/JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/午後問題/2009/2009-午後2-2.md",
+                "file": "ネットワーク/JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/午後問題/2009/2009-午後2-2.md"
+                "file": "ネットワーク/JWT.md"
               }
             }
           },
@@ -169,41 +181,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "772bbd8c7686653f",
+  "active": "935a0f335b08e5dc",
   "lastOpenFiles": [
-    "セキュリティ/情報セキュリティ委員会.md",
-    "SC/午後問題/2009/2009-午後2-2.md",
-    "セキュリティ/マネジメントレビュー.md",
-    "SC/午後問題/2009/2009-午後2-1.md",
-    "セキュリティ/認証のパス.md",
-    "セキュリティ/sha1.md",
-    "セキュリティ/暗号化.md",
-    "SC/午後問題/2009/sha1.md",
+    "セキュリティ/攻撃手段リスト.md",
+    "ネットワーク/JWT.md",
+    "セキュリティ/PKCE.md",
+    "セキュリティ/SSL TLS.md",
+    "セキュリティ/SNI.md",
+    "セキュリティ/TLS Handshake.md",
+    "Misc./attachments/Pasted image 20240923142219.png",
+    "セキュリティ/ドメインフロティング攻撃.md",
+    "セキュリティ/情報セキュリティ実装技術.md",
+    "Web/HTML.md",
+    "セキュリティ/OSコマンドインジェクション.md",
+    "セキュリティ/Linux/Tar.md",
+    "セキュリティ/Linux/Linuxの任意コード実行できるコマンドへの対策.md",
+    "ネットワーク/Web関連プロトコル.md",
+    "セキュリティ/Linux",
+    "セキュリティ/パストラバーサル.md",
+    "セキュリティ/TSA Time Stamp Authority.md",
+    "セキュリティ/SC午後問題/パケット分析.md",
     "ストラテジ/IoT関連.md",
-    "SC/公開鍵基盤/CP Certification Policy.md",
+    "セキュリティ/情報セキュリティ管理.md",
+    "セキュリティ/情報セキュリティポリシー.md",
+    "セキュリティ/脆弱性評価.md",
+    "セキュリティ/PMS.md",
+    "セキュリティ/PCI DSS.md",
+    "セキュリティ/ISMS PDCA.md",
+    "セキュリティ/ISO27001(ISMS).md",
+    "セキュリティ/CVSS.md",
+    "セキュリティ/CVE(共通脆弱性識別子).md",
+    "Misc./attachments/IMG_4043.jpeg",
+    "SC/午後問題/2024",
     "SC/午後問題/2009",
     "SC/午後問題",
-    "SC/公開鍵基盤/CPS Certification Practice Statement.md",
-    "Web/HTML.md",
-    "ネットワーク/Web関連プロトコル.md",
-    "セキュリティ/DoS攻撃.md",
-    "セキュリティ/攻撃手段リスト.md",
-    "セキュリティ/SC午後問題/パケット分析.md",
     "Misc./attachments/Pasted image 20240714154454.png",
     "Misc./attachments/Pasted image 20240714132854.png",
     "Misc./attachments/Pasted image 20240714120749.png",
     "Misc./attachments/Pasted image 20240714120718.png",
     "セキュリティ/SC午後問題",
-    "ネットワーク/IPSec.md",
-    "ネットワーク/トランスポート層以上の層の接続.md",
-    "ネットワーク/SDN.md",
-    "ネットワーク/OpenFlow.md",
-    "セキュリティ/PPTP.md",
-    "セキュリティ/SSL-VPN.md",
-    "セキュリティ/VPN.md",
-    "ネットワーク/IPv6.md",
-    "ネットワーク/データリンク層の主なプロトコル.md",
-    "セキュリティ/PKI.md",
     "SC/公開鍵基盤",
     "SC",
     "計算問題/Untitled",
@@ -212,12 +228,8 @@
     "Misc./attachments/Pasted image 20240223131441.png",
     "Misc./attachments/Pasted image 20240223125955.png",
     "Misc./attachments/Pasted image 20240221231341.png",
-    "Misc./attachments/Pasted image 20240221231311.png",
-    "Misc./attachments/Pasted image 20240122213822.png",
     "午後問題分析",
     "計算問題",
-    "ヒューマンインターフェース",
-    "Web",
     "ストラテジ/事業分析フレームワーク.canvas",
     "ソフトウエア/ソフトウェア.canvas",
     "Untitled 1.canvas"
