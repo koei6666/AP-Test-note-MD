@@ -20,3 +20,7 @@ SAネゴシエーション時に、確立した暗号化通信コネクション
 - 事前共有鍵:予めVPNゲートウェイ同士が共通鍵を交換する
 - 公開鍵暗号:通信を行うVPNゲートウェイの公開鍵でIDを暗号化して送信し認証する
 - デジタル署名:デジタル証明書を利用して認証DNS
+
+[[AH Authentication Header]]
+
+[[ESP Encapsulating Security Payload]]

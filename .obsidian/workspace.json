@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ネットワーク/JWT.md",
+                "file": "ネットワーク/ESP Encapsulating Security Payload.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61be2b57b53329bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ネットワーク/Web関連プロトコル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "982587dc53ff00ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ネットワーク/アプリケーション層のプロトコル.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JWT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ネットワーク/JWT.md",
+                "file": "ネットワーク/アプリケーション層のプロトコル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ネットワーク/JWT.md",
+                "file": "ネットワーク/アプリケーション層のプロトコル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ネットワーク/JWT.md"
+                "file": "ネットワーク/アプリケーション層のプロトコル.md"
               }
             }
           },
@@ -163,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -181,10 +206,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "935a0f335b08e5dc",
+  "active": "982587dc53ff00ad",
   "lastOpenFiles": [
-    "セキュリティ/攻撃手段リスト.md",
+    "ネットワーク/LDAP.md",
+    "ネットワーク/アプリケーション層のプロトコル.md",
+    "ネットワーク/HTTP.md",
+    "ネットワーク/Web関連プロトコル.md",
+    "システムの構成要素/サーバ仮想化.md",
+    "ネットワーク/ESP Encapsulating Security Payload.md",
+    "ネットワーク/AH Authentication Header.md",
+    "ネットワーク/IPSec.md",
     "ネットワーク/JWT.md",
+    "セキュリティ/攻撃手段リスト.md",
     "セキュリティ/PKCE.md",
     "セキュリティ/SSL TLS.md",
     "セキュリティ/SNI.md",
@@ -196,7 +229,6 @@
     "セキュリティ/OSコマンドインジェクション.md",
     "セキュリティ/Linux/Tar.md",
     "セキュリティ/Linux/Linuxの任意コード実行できるコマンドへの対策.md",
-    "ネットワーク/Web関連プロトコル.md",
     "セキュリティ/Linux",
     "セキュリティ/パストラバーサル.md",
     "セキュリティ/TSA Time Stamp Authority.md",
@@ -204,13 +236,6 @@
     "ストラテジ/IoT関連.md",
     "セキュリティ/情報セキュリティ管理.md",
     "セキュリティ/情報セキュリティポリシー.md",
-    "セキュリティ/脆弱性評価.md",
-    "セキュリティ/PMS.md",
-    "セキュリティ/PCI DSS.md",
-    "セキュリティ/ISMS PDCA.md",
-    "セキュリティ/ISO27001(ISMS).md",
-    "セキュリティ/CVSS.md",
-    "セキュリティ/CVE(共通脆弱性識別子).md",
     "Misc./attachments/IMG_4043.jpeg",
     "SC/午後問題/2024",
     "SC/午後問題/2009",

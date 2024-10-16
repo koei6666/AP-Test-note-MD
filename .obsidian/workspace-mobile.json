@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ストラテジ/IaaS,PaaS,Saas.md",
+                "file": "ネットワーク/AH Authentication Header.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "SaaS",
+            "query": "ipsec",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ストラテジ/IaaS,PaaS,Saas.md",
+            "file": "ネットワーク/AH Authentication Header.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ストラテジ/IaaS,PaaS,Saas.md",
+            "file": "ネットワーク/AH Authentication Header.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ストラテジ/IaaS,PaaS,Saas.md"
+            "file": "ネットワーク/AH Authentication Header.md"
           }
         }
       }
@@ -161,6 +161,9 @@
   },
   "active": "fedcb85969708999",
   "lastOpenFiles": [
+    "ネットワーク/IPSec.md",
+    "ネットワーク/AH Authentication Header.md",
+    "ストラテジ/IaaS,PaaS,Saas.md",
     "セキュリティ/ストレッチング.md",
     "セキュリティ/暗号化.md",
     "セキュリティ/セキュリティ.md",
@@ -185,9 +188,6 @@
     "セキュリティ/情報セキュリティ管理.md",
     "ネットワーク/物理層の接続.md",
     "システム開発技術/UML.md",
-    "ネットワーク/ネットワーク接続装置と関連技術.md",
-    "セキュリティ/無線LANの暗号.md",
-    "セキュリティ/PKI.md",
     "SC/公開鍵基盤",
     "SC",
     "Misc./attachments/Pasted image 20240122213822.png",
