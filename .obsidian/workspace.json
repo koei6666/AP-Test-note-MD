@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
+                "file": "セキュリティ/セキュリティ関連用語.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e421ed285b893394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "セキュリティ/DDoSに対策する外部サービス.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LDAP",
+                "query": "DDOS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
+                "file": "セキュリティ/DDoSに対策する外部サービス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
+                "file": "セキュリティ/DDoSに対策する外部サービス.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md"
+                "file": "セキュリティ/DDoSに対策する外部サービス.md"
               }
             }
           },
@@ -169,11 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74a93dea39a8c736",
+  "active": "e421ed285b893394",
   "lastOpenFiles": [
+    "セキュリティ/DoS攻撃.md",
+    "セキュリティ/DDoSに対策する外部サービス.md",
+    "セキュリティ/SPA Single Packet Authorization.md",
+    "セキュリティ/セキュリティ関連用語.md",
+    "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
     "ネットワーク/RMI.md",
     "セキュリティ/PPTP.md",
-    "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
     "ネットワーク/JNDI Lookup.md",
     "セキュリティ/CVSS Case Study",
     "ネットワーク/LDAP.md",
@@ -195,11 +213,7 @@
     "セキュリティ/情報セキュリティ実装技術.md",
     "Web/HTML.md",
     "セキュリティ/OSコマンドインジェクション.md",
-    "セキュリティ/Linux/Tar.md",
-    "セキュリティ/Linux/Linuxの任意コード実行できるコマンドへの対策.md",
     "セキュリティ/Linux",
-    "セキュリティ/パストラバーサル.md",
-    "セキュリティ/TSA Time Stamp Authority.md",
     "Misc./attachments/IMG_4043.jpeg",
     "SC/午後問題/2024",
     "SC/午後問題/2009",
