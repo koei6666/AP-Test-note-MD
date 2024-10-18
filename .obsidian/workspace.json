@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "935a0f335b08e5dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ネットワーク/ESP Encapsulating Security Payload.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61be2b57b53329bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ネットワーク/Web関連プロトコル.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "982587dc53ff00ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ネットワーク/アプリケーション層のプロトコル.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "74a93dea39a8c736",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/SNI.md",
+                "file": "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "LDAP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.50390243530273
+    "width": 292.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ネットワーク/アプリケーション層のプロトコル.md",
+                "file": "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ネットワーク/アプリケーション層のプロトコル.md",
+                "file": "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ネットワーク/アプリケーション層のプロトコル.md"
+                "file": "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md"
               }
             }
           },
@@ -206,21 +169,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "982587dc53ff00ad",
+  "active": "74a93dea39a8c736",
   "lastOpenFiles": [
+    "ネットワーク/RMI.md",
+    "セキュリティ/PPTP.md",
+    "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
+    "ネットワーク/JNDI Lookup.md",
+    "セキュリティ/CVSS Case Study",
     "ネットワーク/LDAP.md",
+    "セキュリティ/SNI.md",
+    "ネットワーク/ESP Encapsulating Security Payload.md",
+    "ネットワーク/Web関連プロトコル.md",
     "ネットワーク/アプリケーション層のプロトコル.md",
     "ネットワーク/HTTP.md",
-    "ネットワーク/Web関連プロトコル.md",
     "システムの構成要素/サーバ仮想化.md",
-    "ネットワーク/ESP Encapsulating Security Payload.md",
     "ネットワーク/AH Authentication Header.md",
     "ネットワーク/IPSec.md",
     "ネットワーク/JWT.md",
     "セキュリティ/攻撃手段リスト.md",
     "セキュリティ/PKCE.md",
     "セキュリティ/SSL TLS.md",
-    "セキュリティ/SNI.md",
     "セキュリティ/TLS Handshake.md",
     "Misc./attachments/Pasted image 20240923142219.png",
     "セキュリティ/ドメインフロティング攻撃.md",
@@ -232,10 +200,6 @@
     "セキュリティ/Linux",
     "セキュリティ/パストラバーサル.md",
     "セキュリティ/TSA Time Stamp Authority.md",
-    "セキュリティ/SC午後問題/パケット分析.md",
-    "ストラテジ/IoT関連.md",
-    "セキュリティ/情報セキュリティ管理.md",
-    "セキュリティ/情報セキュリティポリシー.md",
     "Misc./attachments/IMG_4043.jpeg",
     "SC/午後問題/2024",
     "SC/午後問題/2009",
@@ -254,7 +218,6 @@
     "Misc./attachments/Pasted image 20240223125955.png",
     "Misc./attachments/Pasted image 20240221231341.png",
     "午後問題分析",
-    "計算問題",
     "ストラテジ/事業分析フレームワーク.canvas",
     "ソフトウエア/ソフトウェア.canvas",
     "Untitled 1.canvas"
