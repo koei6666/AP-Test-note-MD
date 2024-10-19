@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/DDoSに対策する外部サービス.md",
+                "file": "セキュリティ/Cookie属性.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DDOS",
+                "query": "samesite",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.50390243530273,
-    "collapsed": true
+    "width": 292.50390243530273
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "セキュリティ/DDoSに対策する外部サービス.md",
+                "file": "セキュリティ/Cookie属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "セキュリティ/DDoSに対策する外部サービス.md",
+                "file": "セキュリティ/Cookie属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "セキュリティ/DDoSに対策する外部サービス.md"
+                "file": "セキュリティ/Cookie属性.md"
               }
             }
           },
@@ -185,10 +184,23 @@
   },
   "active": "e421ed285b893394",
   "lastOpenFiles": [
-    "セキュリティ/DoS攻撃.md",
-    "セキュリティ/DDoSに対策する外部サービス.md",
-    "セキュリティ/SPA Single Packet Authorization.md",
+    "セキュリティ/CSRF.md",
+    "セキュリティ/攻撃手段リスト.md",
+    "ネットワーク/IMDS Instance Metadata Service.md",
+    "ネットワーク/ACL.md",
     "セキュリティ/セキュリティ関連用語.md",
+    "Linux/File System.md",
+    "Linux/Linux Components.md",
+    "セキュリティ/CASB.md",
+    "Linux",
+    "セキュリティ/TLS Handshake.md",
+    "セキュリティ/PKCE.md",
+    "セキュリティ/公開鍵基盤/PKI.md",
+    "セキュリティ/公開鍵基盤/CPS Certification Practice Statement.md",
+    "セキュリティ/公開鍵基盤/CP Certification Policy.md",
+    "セキュリティ/DDoSに対策する外部サービス.md",
+    "セキュリティ/DoS攻撃.md",
+    "セキュリティ/SPA Single Packet Authorization.md",
     "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
     "ネットワーク/RMI.md",
     "セキュリティ/PPTP.md",
@@ -200,19 +212,7 @@
     "ネットワーク/Web関連プロトコル.md",
     "ネットワーク/アプリケーション層のプロトコル.md",
     "ネットワーク/HTTP.md",
-    "システムの構成要素/サーバ仮想化.md",
-    "ネットワーク/AH Authentication Header.md",
-    "ネットワーク/IPSec.md",
-    "ネットワーク/JWT.md",
-    "セキュリティ/攻撃手段リスト.md",
-    "セキュリティ/PKCE.md",
-    "セキュリティ/SSL TLS.md",
-    "セキュリティ/TLS Handshake.md",
     "Misc./attachments/Pasted image 20240923142219.png",
-    "セキュリティ/ドメインフロティング攻撃.md",
-    "セキュリティ/情報セキュリティ実装技術.md",
-    "Web/HTML.md",
-    "セキュリティ/OSコマンドインジェクション.md",
     "セキュリティ/Linux",
     "Misc./attachments/IMG_4043.jpeg",
     "SC/午後問題/2024",
@@ -223,7 +223,7 @@
     "Misc./attachments/Pasted image 20240714120749.png",
     "Misc./attachments/Pasted image 20240714120718.png",
     "セキュリティ/SC午後問題",
-    "SC/公開鍵基盤",
+    "セキュリティ/公開鍵基盤",
     "SC",
     "計算問題/Untitled",
     "Untitled.canvas",
@@ -231,7 +231,6 @@
     "Misc./attachments/Pasted image 20240223131441.png",
     "Misc./attachments/Pasted image 20240223125955.png",
     "Misc./attachments/Pasted image 20240221231341.png",
-    "午後問題分析",
     "ストラテジ/事業分析フレームワーク.canvas",
     "ソフトウエア/ソフトウェア.canvas",
     "Untitled 1.canvas"

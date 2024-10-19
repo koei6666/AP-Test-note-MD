@@ -1,1 +1,0 @@
-CPS（Certification Practices Statement：認証運用規定）は、CA（Certification Authority：認証局）を運用する上での諸手続、セキュリティ基準など、CAの運用を規定する文書のことです。
