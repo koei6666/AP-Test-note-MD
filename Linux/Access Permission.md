@@ -35,3 +35,6 @@ $ stat -c "%a %n" myfile.txt
  `Group`:4+2+1=7
  `Others`:4+0+0=4
  権限は774と表示される。
+
+
+![[IMG_4093.jpeg]]

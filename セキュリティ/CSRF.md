@@ -35,7 +35,7 @@ CSRF Tokenは推測困難の乱数で作成され、通常はHTML中のHidden fi
     - Implement for sensitive actions, though it impacts user experience.
 - One-Time Tokens:
     - Generate single-use tokens for each form or action.
-- Strict Content Security Policy (CSP):
+- Strict [[Content Security Policy]] (CSP):
     - Implement CSP headers to control which sources can load content.
 - Multi-Step Transactions:
     - Break sensitive operations into multiple steps with checks.

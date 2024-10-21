@@ -18,7 +18,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "通信プロトコルの標準化"
             }
           },
           {
@@ -27,10 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ネットワーク/AH Authentication Header.md",
+                "file": "Linux/Access Permission.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Access Permission"
             }
           }
         ],
@@ -50,7 +54,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -59,13 +65,15 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "ipsec",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -76,7 +84,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -84,7 +94,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       },
       {
@@ -96,11 +108,13 @@
             "sortOrder": "frequency",
             "showSearch": false,
             "searchQuery": ""
-          }
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "9a79077f7f198cb2",
@@ -112,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ネットワーク/AH Authentication Header.md",
+            "file": "Linux/Access Permission.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +134,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -129,10 +145,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ネットワーク/AH Authentication Header.md",
+            "file": "Linux/Access Permission.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -141,8 +159,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ネットワーク/AH Authentication Header.md"
-          }
+            "file": "Linux/Access Permission.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -161,8 +181,10 @@
   },
   "active": "fedcb85969708999",
   "lastOpenFiles": [
-    "ネットワーク/IPSec.md",
+    "Misc./attachments/IMG_4093.jpeg",
+    "Linux/File type.md",
     "ネットワーク/AH Authentication Header.md",
+    "ネットワーク/IPSec.md",
     "ストラテジ/IaaS,PaaS,Saas.md",
     "セキュリティ/ストレッチング.md",
     "セキュリティ/暗号化.md",
@@ -186,8 +208,6 @@
     "ネットワーク/トランスポート層のプロトコル.md",
     "セキュリティ/SSL TLS.md",
     "セキュリティ/情報セキュリティ管理.md",
-    "ネットワーク/物理層の接続.md",
-    "システム開発技術/UML.md",
     "SC/公開鍵基盤",
     "SC",
     "Misc./attachments/Pasted image 20240122213822.png",
