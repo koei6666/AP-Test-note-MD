@@ -48,3 +48,5 @@ For example, a website which domain is "a.com", and its FQDN should be "\www.a.c
 #### **コモンネーム**(CN:Common Name)
 サーバ証明書に含まれる登録情報で、証明書が有効なFQDN、またはそのIPアドレスが格納される項目です。クライアント側ではアクセスしたURLのドメイン名と証明書のコモンネームを比較することで証明書の正当性を検証します。また本文中にも「コモンネーム(SSL接続するサイトのFQDN)」と説明が記載されています。  
 SSL/TLS通信の対象URLが "\https://www.a.co.jp/member" の場合、このURLのFQDN(ホスト部＋ドメイン部)にあたる "\www.a.co.jp" がコモンネームになります。
+
+[[Certificate Transparency]]
