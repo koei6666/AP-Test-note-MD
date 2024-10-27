@@ -1,4 +1,4 @@
-Let me explain the `/proc` filesystem in Linux.
+
 
 `/proc` is a special pseudo-filesystem in Linux that provides a window into the running system. It's not a real filesystem on disk - rather, it's a virtual filesystem that exists in memory and provides an interface to kernel data structures. 
 
