@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/SQLインジェクション.md",
+                "file": "セキュリティ/SAML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQLインジェクション"
+              "title": "SAML"
             }
           },
           {
@@ -109,8 +109,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SQLインジェ",
-                "matchingCase": true,
+                "query": "JWT",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -246,8 +246,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00d662e33e20c5ec",
+  "active": "772bbd8c7686653f",
   "lastOpenFiles": [
+    "セキュリティ/認証.md",
+    "セキュリティ/SAML.md",
+    "ネットワーク/SNMP.md",
+    "ネットワーク/FTP.md",
+    "セキュリティ/SNMPv2c コミュニティ名の脆弱性.md",
     "セキュリティ/攻撃手段リスト.md",
     "セキュリティ/SQLインジェクション.md",
     "アルゴリズムとプログラミング/Javaのリソース解放.md",
@@ -269,11 +274,6 @@
     "ネットワーク/Cookie.md",
     "ネットワーク/Preflight Request.md",
     "ネットワーク/SOP Same Origin Policy.md",
-    "ネットワーク/HTTP.md",
-    "Linux/File System.md",
-    "Linux/File type.md",
-    "セキュリティ/CSRF.md",
-    "セキュリティ/Content Security Policy.md",
     "Linux",
     "セキュリティ/CVSS Case Study",
     "Misc./attachments/Pasted image 20240923142219.png",
