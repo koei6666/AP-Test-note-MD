@@ -16,9 +16,20 @@ PKIではCAのデジタル署名をつけた証明書を発行し、ある公開
 
 認証局に申請する**証明書署名要求**(CSR:Certificate Signing Request)とは、申請した情報(表1の識別名情報)と公開鍵をもとに認証局に対して公開鍵証明書の発行を依頼するメッセージです。要求が成功した場合、申請した情報に認証局のディジタル署名が付された公開鍵証明書が送り返され、証明書として有効状態になります。
 
+#### CA役割の細分化
+一般的に、証明書に署名発行するのはCAだが、CA内部の役割を細分化した時には以下の細かい分業がある
+##### IA Issuing Authority
+確認、承認後の証明書にデジタル署名を付与し、発行する業務を担う部署
+
+##### RA Registration Authority
+承認依頼の処理、承認依頼者の身分確認、承認後IAに発行依頼
+
+##### PA Policy Authority 
+CPを規定、PKIの運行を監視、Trust relationshipの策定
+
 ### CP&CPS
-CP(Certificate Policy):証明書の目的や利用用途を定めた規定
-CPS(Certificate Practice Statement):CA認証業務に関する規定
+CP(Certificate Policy):証明書の目的や利用用途を定めた規定(PAによる規定)
+CPS(Certificate Practice Statement):CA認証業務に関する規定(PCAによる規定、実施)
 これらの規定を対外的に公開しており、認証の利用者に対して、信頼性や安全性などを評価できるようにしている。
 
 ### デジタル証明書の失効情報

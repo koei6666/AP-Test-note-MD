@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Access Permission.md",
+                "file": "セキュリティ/公開鍵基盤/PKI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Access Permission"
+              "title": "PKI"
             }
           }
         ],
@@ -65,8 +65,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
-            "matchingCase": false,
+            "query": "PKI",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -114,7 +114,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9a79077f7f198cb2",
@@ -181,6 +181,7 @@
   },
   "active": "fedcb85969708999",
   "lastOpenFiles": [
+    "Linux/Access Permission.md",
     "Misc./attachments/IMG_4093.jpeg",
     "Linux/File type.md",
     "ネットワーク/AH Authentication Header.md",
@@ -220,7 +221,6 @@
     "Misc./attachments/Pasted image 20231110121024.png",
     "Misc./attachments/Pasted image 20231109232217.png",
     "Misc./attachments/Pasted image 20231109203051.png",
-    "Misc./attachments/Pasted image 20231108121253.png",
     "ストラテジ",
     "ソフトウエア/ソフトウェア.canvas",
     "システムの構成要素",
