@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/午後問題/令和5春/1-2-2 DASTとXSS検出.md",
+                "file": "セキュリティ/CVSS Case Study/POODLE CVE-2014-3566.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-2-2 DASTとXSS検出"
+              "title": "POODLE CVE-2014-3566"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "POOD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,13 +190,16 @@
   },
   "active": "ca3646595598c00a",
   "lastOpenFiles": [
+    "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
+    "セキュリティ/CVSS Case Study/POODLE CVE-2014-3566.md",
+    "セキュリティ/DoS攻撃.md",
+    "SC/午後問題/令和5春/1-2-2 DASTとXSS検出.md",
     "Misc./attachments/Pasted image 20241102004514.png",
     "Misc./attachments/Pasted image 20241102004455.png",
     "Misc./attachments/Pasted image 20241102003015.png",
     "Misc./attachments/Pasted image 20241102002948.png",
     "Misc./attachments/Pasted image 20241102002915.png",
     "セキュリティ/SQLインジェクション.md",
-    "SC/午後問題/令和5春/1-2-2 DASTとXSS検出.md",
     "SC/午後問題/令和5春",
     "セキュリティ/セキュリティ関連用語.md",
     "セキュリティ/CASB.md",
@@ -220,8 +223,6 @@
     "セキュリティ/公開鍵基盤/PKI.md",
     "セキュリティ/公開鍵基盤/HPKP HTTP Public Key Pinning.md",
     "セキュリティ/公開鍵基盤/Certificate Transparency.md",
-    "ネットワーク/IP.md",
-    "ネットワーク/Web関連プロトコル.md",
     "Linux",
     "セキュリティ/CVSS Case Study",
     "Misc./attachments/Pasted image 20240923142219.png",
@@ -232,7 +233,6 @@
     "SC/午後問題",
     "Misc./attachments/Pasted image 20240714154454.png",
     "Misc./attachments/Pasted image 20240714132854.png",
-    "Misc./attachments/Pasted image 20240714120749.png",
     "セキュリティ/SC午後問題",
     "セキュリティ/公開鍵基盤",
     "SC",
