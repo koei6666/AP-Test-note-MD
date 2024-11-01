@@ -1,5 +1,6 @@
 Security Assertion Markup Language
-IdP(Identity Provider)とSP(Service Provider)の間に、承認と認可データを交換するためのopen基準。
+IdP(Identity Provider)とSP(Service Provider)の間に、異なるドメイン間の承認と認可データを交換するためのXMLベースのopen基準。
+標準化団体 OASISによって策定される
 
 ## 仕組み
 - ユーザがSPの提供したサービスにアクセス
