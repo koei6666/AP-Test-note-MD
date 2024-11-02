@@ -1,3 +1,7 @@
+---
+分類: 基準
+---
+
 - ISMS  
     Information Security Management Systemの略。情報セキュリティマネジメントシステムの整備・管理・運用に関する仕組みでJIS Q 27001 (ISO/IEC 27001)の基となっています。
     

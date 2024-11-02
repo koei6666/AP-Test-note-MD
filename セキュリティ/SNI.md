@@ -1,3 +1,7 @@
+---
+分類: 認証方法
+---
+
 Server Name Indication (SNI) is a crucial extension of the Transport Layer Security (TLS) protocol that allows a client, such as a web browser, to specify the hostname it is trying to connect to during the initial handshake process. This capability is essential for enabling multiple secure websites to be served from a single IP address without requiring all sites to share the same SSL certificate.
 
 ## How SNI Works

@@ -1,0 +1,4 @@
+---
+CVSS Score: 
+Vulnerability Type:
+---

@@ -1,3 +1,7 @@
+---
+分類: 攻撃手段
+---
+
 ### 1. Cloud based DDoS prevention service
 Cloudサービスプロバイダーのデータセンターの処理キャパシティや、分散の特性を利用して、大量なトラフィックをまず分析センター(Scrubbing center)に分散し、それぞれを分析することで、DDoS攻撃に対策する。
 Cloudサービスプロバイダーのデータを活用し、攻撃のパターンやURL reputationを活用し、DDoSのトラフィックを判別することができる。

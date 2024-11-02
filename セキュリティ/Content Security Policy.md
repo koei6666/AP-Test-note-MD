@@ -1,3 +1,7 @@
+---
+分類: プロトコル
+---
+
 ```CSP
 Content-Security-Policy: 
   default-src 'self';

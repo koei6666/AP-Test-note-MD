@@ -74,7 +74,7 @@ Authorization FiledのBearerは、トークンベースの承認スキームを�
 Bearerの他に、下記の通りいくつか他のスキーマもある。
 - Basic
 - Digest
-- OAuth
+- [[OAuth]]
 - JWT
 - API Key
 - Hawk

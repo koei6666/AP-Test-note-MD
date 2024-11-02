@@ -1,3 +1,7 @@
+---
+分類: プロトコル
+---
+
 Extensible Authentication Protocol
 
 ```mermaid

@@ -1,3 +1,7 @@
+---
+分類: システム
+---
+
 Nmap (Network Mapper) is a powerful and versatile open-source tool used for network discovery and security auditing. Here's an overview of its key features and uses:
 
 1. Network scanning: Nmap can rapidly scan large networks or single hosts to determine which ports are open, what services are running, and various details about the operating system.

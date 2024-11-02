@@ -1,3 +1,7 @@
+---
+分類: システム
+---
+
 Metasploit is a powerful and widely-used penetration testing framework. Here's an overview of its key features and uses:
 
 1. Purpose: It's primarily used for developing, testing, and executing exploit code against remote target machines.

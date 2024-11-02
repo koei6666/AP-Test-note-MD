@@ -1,3 +1,7 @@
+---
+分類: システム
+---
+
 Ghidra is a powerful software reverse engineering (SRE) framework developed by the National Security Agency (NSA) of the United States. It was publicly released as open-source software in 2019. Here are some key points about Ghidra:
 
 1. Purpose: Ghidra is primarily used for analyzing compiled code to understand its functionality, often when source code is not available.

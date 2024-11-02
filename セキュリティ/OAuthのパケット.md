@@ -1,3 +1,7 @@
+---
+分類: 認証方法
+---
+
 # 1. 認可要求 (Authorization Request)
 ```
 GET /authorize HTTP/1.1

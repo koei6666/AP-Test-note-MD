@@ -1,3 +1,7 @@
+---
+分類: 認証方法
+---
+
 Security Assertion Markup Language
 IdP(Identity Provider)とSP(Service Provider)の間に、異なるドメイン間の承認と認可データを交換するためのXMLベースのopen基準。
 標準化団体 OASISによって策定される

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/CVSS Case Study/POODLE CVE-2014-3566.md",
+                "file": "セキュリティ/PKCE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POODLE CVE-2014-3566"
+              "title": "PKCE"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "POOD",
+                "query": "PKCE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,39 +191,40 @@
   },
   "active": "ca3646595598c00a",
   "lastOpenFiles": [
-    "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
-    "セキュリティ/CVSS Case Study/POODLE CVE-2014-3566.md",
+    "セキュリティ/OAuthのパケット.md",
+    "セキュリティ/PKCE.md",
+    "セキュリティ/PCI DSS.md",
+    "セキュリティ/OSコマンドインジェクション.md",
+    "Templates/Regular Template.md",
+    "セキュリティ/OAuth　コードフロー.md",
+    "セキュリティ/OAuth.md",
+    "セキュリティ/Nmap.md",
+    "セキュリティ/NIST.md",
+    "セキュリティ/Metasploit.md",
+    "セキュリティ/ISO27001(ISMS).md",
+    "セキュリティ/ISMS PDCA.md",
+    "セキュリティ/IEEE 802.1X.md",
+    "セキュリティ/Ghidra.md",
+    "セキュリティ/EDR(Endpoint Detection and Response).md",
+    "セキュリティ/EAP.md",
     "セキュリティ/DoS攻撃.md",
-    "SC/午後問題/令和5春/1-2-2 DASTとXSS検出.md",
+    "セキュリティ/DOM Based XSS.md",
+    "セキュリティ/DDoSに対策する外部サービス.md",
+    "セキュリティ/CVSS.md",
+    "セキュリティ/CVE(共通脆弱性識別子).md",
+    "セキュリティ/CSRF.md",
+    "セキュリティ/CORS Cross Origin Resource Sharing.md",
+    "セキュリティ/Cookie属性.md",
+    "セキュリティ/Content Security Policy.md",
+    "セキュリティ/CASB.md",
+    "Templates",
     "Misc./attachments/Pasted image 20241102004514.png",
     "Misc./attachments/Pasted image 20241102004455.png",
     "Misc./attachments/Pasted image 20241102003015.png",
     "Misc./attachments/Pasted image 20241102002948.png",
     "Misc./attachments/Pasted image 20241102002915.png",
-    "セキュリティ/SQLインジェクション.md",
     "SC/午後問題/令和5春",
-    "セキュリティ/セキュリティ関連用語.md",
-    "セキュリティ/CASB.md",
-    "セキュリティ/IEEE 802.1Xプロトコル.md",
-    "セキュリティ/公開鍵基盤/WebAuthn.md",
     "Misc./attachments/Pasted image 20241030225530.png",
-    "セキュリティ/EAP.md",
-    "セキュリティ/攻撃手段リスト.md",
-    "セキュリティ/認証.md",
-    "Linux/Proc.md",
-    "セキュリティ/SAML.md",
-    "ネットワーク/SNMP.md",
-    "ネットワーク/FTP.md",
-    "セキュリティ/SNMPv2c コミュニティ名の脆弱性.md",
-    "アルゴリズムとプログラミング/Javaのリソース解放.md",
-    "アルゴリズムとプログラミング/Javaの特徴.md",
-    "セキュリティ/EDR(Endpoint Detection and Response).md",
-    "セキュリティ/TLS Handshake.md",
-    "セキュリティ/ドメインフロティング攻撃.md",
-    "セキュリティ/SNI.md",
-    "セキュリティ/公開鍵基盤/PKI.md",
-    "セキュリティ/公開鍵基盤/HPKP HTTP Public Key Pinning.md",
-    "セキュリティ/公開鍵基盤/Certificate Transparency.md",
     "Linux",
     "セキュリティ/CVSS Case Study",
     "Misc./attachments/Pasted image 20240923142219.png",
@@ -235,7 +237,6 @@
     "Misc./attachments/Pasted image 20240714132854.png",
     "セキュリティ/SC午後問題",
     "セキュリティ/公開鍵基盤",
-    "SC",
     "Untitled.canvas",
     "ストラテジ/事業分析フレームワーク.canvas",
     "ソフトウエア/ソフトウェア.canvas",
