@@ -23,6 +23,17 @@ Accept-Language: ja, en-US;q=0.8, en;q=0.6
 Cookie: _utma=82185798.227027948.1358520982.1458747825.1458856749.1162;
 ```
 
+##### Registry Server Header
+```HTTP
+HTTP/1.1 200 OK
+Docker-Distribution-API-Version: registry/2.0
+X-Content-Type-Options: nosniff
+Content-Length: 87
+Content-Type: application/json; charset=utf-8
+Docker-Content-Digest: sha256:a3ed95caeb02ffe68cdd9fd84406680ae93d633cb16422d00e8a7c22955b46d4
+Date: Wed, 6 Nov 2024 10:00:00 GMT
+```
+
 #### User-Agent
 HTTPヘッダーに格納する、ユーザの使用するOS、ブラウザなどの情報を記録するパラメータ
 #### GETとPOSTメソッド
