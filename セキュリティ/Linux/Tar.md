@@ -66,7 +66,7 @@ tarの任意コマンドを実行するオプションは `--to-command` また�
 
 1. 基本構文:
    ```
-   tar [operation] --checkpoint=ЧИСЛА --checkpoint-action=ACTION archive.tar files
+   tar [operation] --checkpoint=1 --checkpoint-action=ACTION archive.tar files
    ```
 
 2. 関連オプション:
