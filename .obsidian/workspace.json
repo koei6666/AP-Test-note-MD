@@ -13,29 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/SSRF.md",
+                "file": "セキュリティ/CSRF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSRF"
+              "title": "CSRF"
             }
           },
           {
-            "id": "ce72577c6c4f0733",
+            "id": "cb3536e2d2729786",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/Reflected XSS.md",
+                "file": "セキュリティ/SAML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reflected XSS"
+              "title": "SAML"
+            }
+          },
+          {
+            "id": "c609b0cf28ebcc96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "セキュリティ/NONCE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NONCE"
+            }
+          },
+          {
+            "id": "9d23e92a84acc1dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "セキュリティ/OIDC Hybrid Authentication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OIDC Hybrid Authentication"
+            }
+          },
+          {
+            "id": "cbb0ce9e99ae5bbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "セキュリティ/DDoSに対策する外部サービス.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DDoSに対策する外部サービス"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,11 +130,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 292.50390243530273
+    "width": 292.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -202,34 +247,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87d08d4f4b36ee61",
+  "active": "9d23e92a84acc1dc",
   "lastOpenFiles": [
+    "セキュリティ/Implicit Flow.md",
+    "セキュリティ/OIDC Hybrid Authentication.md",
+    "セキュリティ/Authorization Code Flow.md",
+    "セキュリティ/SAML.md",
+    "セキュリティ/NONCE.md",
+    "セキュリティ/OAuth.md",
+    "ネットワーク/HTTP.md",
     "セキュリティ/CSRF.md",
+    "セキュリティ/DDoSに対策する外部サービス.md",
+    "セキュリティ/ドメインフロティング攻撃.md",
+    "セキュリティ/TLS Handshake.md",
+    "セキュリティ/SNI.md",
+    "システムの構成要素/Webシステムの三層構造.md",
+    "セキュリティ/Reflected XSS.md",
     "セキュリティ/SSRF.md",
     "セキュリティ/攻撃手段リスト.md",
     "セキュリティ/Stored XSS.md",
-    "セキュリティ/Reflected XSS.md",
     "Templates/Regular Template.md",
     "セキュリティ/クロスサイトスクリプティング(XSS).md",
     "セキュリティ/DOM Based XSS.md",
-    "ネットワーク/HTTP.md",
     "セキュリティ/SC午後問題/SC/午後問題/令和5春/1-2-2 DASTとXSS検出.md",
     "ネットワーク/ACL.md",
     "Web/HTML.md",
     "セキュリティ/SPF.md",
     "セキュリティ/OSコマンドインジェクション.md",
     "セキュリティ/Linux/Tar.md",
-    "ネットワーク/Common Gateway Interface.md",
-    "セキュリティ/パストラバーサル.md",
-    "セキュリティ/Cookie属性.md",
-    "ネットワーク/Cookie.md",
-    "セキュリティ/メールヘッダーインジェクション.md",
-    "セキュリティ/DMARC.md",
-    "セキュリティ/DKIM.md",
-    "セキュリティ/ストレッチング.md",
-    "セキュリティ/ネットワークセキュリティ.md",
-    "セキュリティ/Fast Flux.md",
-    "ハードウェア/関連用語.md",
     "Misc./attachments/Pasted image 20241103114650.png",
     "Misc./attachments/Pasted image 20241103114605.png",
     "Misc./attachments/Pasted image 20241103114547.png",

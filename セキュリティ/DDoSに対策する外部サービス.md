@@ -42,6 +42,7 @@ Cloudサービスプロバイダーのデータを活用し、攻撃のパター
 
 ### 2.Content Delivery Networks (CDNs)
 CDNの分散ネットワークでトラフィックを分散することで、DDoSを希釈する。
+[[Webシステムの三層構造#CDN]]
 
 ### そのほかの外部DDoS対策サービス
 - Anycast network diffusion:
