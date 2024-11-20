@@ -32,3 +32,17 @@ XSS攻撃のリスクを軽減、承認されていないのリソースの読�
 - `connect-src`: 
   `Fetch`,`WebSocket`,`EventSource`,`XMLHttpRequest`などAPIが接続できるURLを制限する
   `connect-src 'self' https://api.example.com;`:現在オリジンのURLまたは、`https://api.example.com`への接続を許可する。
+
+## 実行できるスクリプトについて
+script-src 'self'の説明では、”URLと同じオリジンのスクリプトが実行可能”とあるが、それはHTMLに直接記載されているinline scriptではなく、URLと同じオリジンの.jsファイルなどの実行を許可するという意味。
+
+例えば、下記のhtml、中に記載されているスクリプトは確かにHTMLにあり、URLと同じオリジンだが、CSPではデフォルトでinline scriptの実行を禁止している（インジェクションを防止するため）ので、CSP有効なページでは実行されない。
+```html
+<script>
+	alert('xss')
+</script>
+```
+かわりに、スクリプトを実行したい場合は、HTMLに記載されたスクリプトをファイルに保存し、HTMLから呼び出すのがBest practice
+```HTML
+<script src="/js/main.js"></script>
+```

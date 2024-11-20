@@ -104,3 +104,11 @@ You can combine multiple directives in a single meta tag. For example, to preven
 ```
 
 These directives provide granular control over how your content is treated by search engines, allowing you to manage visibility and indexing according to your needs.
+
+## URL Parameters
+HTMLのURLを扱うパラメータ(RefURL, ReturnURL, next, hrefなど)には、[[クロスサイトスクリプティング(XSS)]]を引き起こす脆弱性がある。
+URLを扱うパラメーターでは、任意のJavascriptを実行できるプロトコールハンドラー`Javascript:`を解釈する(`http:` `https:`と同じく)ので、これらのパラメータに任意のスクリプトを埋め込む場合、適切に入力内容がエスケープされず、または検証してない場合は、任意をコードを実行してしまう。
+### 例
+```html
+<a href="Javascript:alert('xss')">Javascript:alert('xss')</a>
+```
