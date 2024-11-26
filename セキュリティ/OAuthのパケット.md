@@ -22,9 +22,9 @@ response_type=code
 - パラメータ:
     - response_type: [[セキュリティ/OAuth　コードフロー|コードフロー]]を示す"code"
     - client_id: クライアントアプリケーションの識別子
-    - redirect_uri: 認可コードを受け取るコールバックURL
+    - redirect_uri: 認可コードを受け取るコールバック(Callback)URL
     - scope: 要求する権限の範囲
-    - state: CSRF対策のための任意の文字列
+    - [[OAuth State Parameter|state]]: CSRF対策のための任意の文字列
 
 # 認可要求に対するレスポンス
 ```
