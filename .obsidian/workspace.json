@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/OAuth State Parameter.md",
+                "file": "ネットワーク/アドレス管理および名前解決技術.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OAuth State Parameter"
+              "title": "アドレス管理および名前解決技術"
             }
           },
           {
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oauth",
+                "query": "ゾーン",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -87,12 +87,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 292.50390243530273,
-    "collapsed": true
+    "width": 292.50390243530273
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -205,9 +205,14 @@
   },
   "active": "cbb0ce9e99ae5bbd",
   "lastOpenFiles": [
+    "セキュリティ/DNS amp attack.md",
+    "セキュリティ/SC午後問題/パケット分析.md",
+    "セキュリティ/DoS攻撃.md",
+    "ネットワーク/レジストラ.md",
+    "セキュリティ/攻撃手段リスト.md",
+    "セキュリティ/OAuth State Parameter.md",
     "セキュリティ/OAuth.md",
     "セキュリティ/OAuthのパケット.md",
-    "セキュリティ/OAuth State Parameter.md",
     "セキュリティ/OAuth　コードフロー.md",
     "Misc./attachments/Pasted image 20241126214842.png",
     "Misc./attachments/Pasted image 20241126214305.png",
@@ -228,11 +233,6 @@
     "セキュリティ/TLS Handshake.md",
     "セキュリティ/SNI.md",
     "システムの構成要素/Webシステムの三層構造.md",
-    "セキュリティ/Reflected XSS.md",
-    "セキュリティ/SSRF.md",
-    "セキュリティ/攻撃手段リスト.md",
-    "Templates/Regular Template.md",
-    "セキュリティ/DOM Based XSS.md",
     "Misc./attachments/Pasted image 20241103114650.png",
     "Misc./attachments/Pasted image 20241103114605.png",
     "Misc./attachments/Pasted image 20241103114547.png",
