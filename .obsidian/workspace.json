@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ネットワーク/アドレス管理および名前解決技術.md",
+                "file": "ネットワーク/データリンク層の主なプロトコル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "アドレス管理および名前解決技術"
+              "title": "データリンク層の主なプロトコル"
             }
           },
           {
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ゾーン",
+                "query": "ARP",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -205,6 +205,8 @@
   },
   "active": "cbb0ce9e99ae5bbd",
   "lastOpenFiles": [
+    "ネットワーク/Wake on Lan(WoL).md",
+    "ネットワーク/アドレス管理および名前解決技術.md",
     "セキュリティ/DNS amp attack.md",
     "セキュリティ/SC午後問題/パケット分析.md",
     "セキュリティ/DoS攻撃.md",
@@ -231,8 +233,6 @@
     "ネットワーク/HTTP.md",
     "セキュリティ/ドメインフロティング攻撃.md",
     "セキュリティ/TLS Handshake.md",
-    "セキュリティ/SNI.md",
-    "システムの構成要素/Webシステムの三層構造.md",
     "Misc./attachments/Pasted image 20241103114650.png",
     "Misc./attachments/Pasted image 20241103114605.png",
     "Misc./attachments/Pasted image 20241103114547.png",
