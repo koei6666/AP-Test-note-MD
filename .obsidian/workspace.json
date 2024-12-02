@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ネットワーク/データリンク層の主なプロトコル.md",
+                "file": "セキュリティ/NIST SP800-61 インシデント対応手順.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "データリンク層の主なプロトコル"
+              "title": "NIST SP800-61 インシデント対応手順"
+            }
+          },
+          {
+            "id": "32c8731eaaebd7fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "セキュリティ/etc-shadow file.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "etc-shadow file"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "OAuth"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ARP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -87,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,8 +217,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbb0ce9e99ae5bbd",
+  "active": "32c8731eaaebd7fd",
   "lastOpenFiles": [
+    "セキュリティ/NIST SP800-61 インシデント対応手順.md",
+    "セキュリティ/etc-shadow file.md",
+    "Misc./attachments/Pasted image 20241202220857.png",
+    "セキュリティ/パスワードの不正取得と対策.md",
+    "ネットワーク/データリンク層の主なプロトコル.md",
     "ネットワーク/Wake on Lan(WoL).md",
     "ネットワーク/アドレス管理および名前解決技術.md",
     "セキュリティ/DNS amp attack.md",
@@ -229,10 +248,6 @@
     "セキュリティ/NONCE.md",
     "セキュリティ/OIDC Hybrid Authentication.md",
     "セキュリティ/Implicit Flow.md",
-    "セキュリティ/Authorization Code Flow.md",
-    "ネットワーク/HTTP.md",
-    "セキュリティ/ドメインフロティング攻撃.md",
-    "セキュリティ/TLS Handshake.md",
     "Misc./attachments/Pasted image 20241103114650.png",
     "Misc./attachments/Pasted image 20241103114605.png",
     "Misc./attachments/Pasted image 20241103114547.png",
@@ -243,7 +258,6 @@
     "Misc./attachments/Pasted image 20241102004455.png",
     "Misc./attachments/Pasted image 20241102003015.png",
     "Misc./attachments/Pasted image 20241102002948.png",
-    "Misc./attachments/Pasted image 20241102002915.png",
     "セキュリティ/SC午後問題/SC/午後問題/令和5春",
     "Linux",
     "セキュリティ/CVSS Case Study",
