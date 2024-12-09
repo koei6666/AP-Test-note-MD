@@ -6,6 +6,8 @@ LDAPはIPを経由して、ディレクトリインフォメーションサー�
 LDAPは中央集権的な、ユーザー名（ID)とパスワードダイジェストを補完する場所を提供し、ユーザ認証のサービスを提供する。
 そのほかに、木構造で、組織情報を管理し、例えば組織メンバー情報などを応答する機能を提供する。
 
+TCP:389
+
 ## 主要な機能
 - User authentication
 - Storing contact information for employees in an organization

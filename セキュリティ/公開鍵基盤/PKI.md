@@ -42,8 +42,8 @@ CPS(Certificate Practice Statement):CA認証業務に関する規定(PCAによ�
 失効になったデジタル証明書の情報(==シリアル番号と失効日時==)をCRL(Certificate Revocation List)に登録する。
 
 デジタル証明書の有効性チェックは以下2つのモデルがある：
-- CRLモデル：CAがCRLを定期的に公開し、利用者がCRLを参照し、デジタル証明書の有効性を確認する
-- OCSPモデル：Online Certificate Status Protocol,利用者（OCSPクライアント)デジタル証明書のシリアルなどを、失効情報を保持しているOCSPサーバに問い合わせして、その応答でリアルタイムにデジタル証明書の有効性を確認する。
+- CRLモデル(リアルタイムではない）：CAがCRLを定期的に公開し、利用者がCRLを参照し、デジタル証明書の有効性を確認する ^2601b6
+- OCSPモデル（リアルタイム）：Online Certificate Status Protocol,利用者（OCSPクライアント)デジタル証明書のシリアルなどを、失効情報を保持しているOCSPサーバに問い合わせして、その応答でリアルタイムにデジタル証明書の有効性を確認する。 ^e6620a
 
 ### ディジタル証明書
 
