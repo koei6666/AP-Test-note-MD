@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ネットワーク/MTA Mail transfer agent.md",
+                "file": "ネットワーク/インターネット上の電話サービス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MTA Mail transfer agent"
+              "title": "インターネット上の電話サービス"
             }
           }
         ],
@@ -79,7 +79,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Firewa",
+            "query": "Voip",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -193,10 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cf40703e7f8250e",
+  "active": "315730db8cbd1869",
   "lastOpenFiles": [
-    "ネットワーク/メールヘッダーインジェクション.md",
     "ネットワーク/MTA Mail transfer agent.md",
+    "ネットワーク/メールヘッダーインジェクション.md",
     "セキュリティ/公開鍵基盤/TLS Handshake.md",
     "セキュリティ/公開鍵基盤/X.509 Certificate Structure.md",
     "セキュリティ/公開鍵基盤/TLS Certificate Validation.md",
