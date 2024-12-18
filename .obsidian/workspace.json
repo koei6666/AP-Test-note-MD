@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "3e320083d6b2b3eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "セキュリティ/CIS Benchmarks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CIS Benchmarks"
+            }
+          },
+          {
+            "id": "6afd4f288f56b861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Curl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curl"
+            }
+          },
+          {
             "id": "dda30ff760f7778f",
             "type": "leaf",
             "state": {
@@ -35,7 +63,8 @@
               "title": "Golden Ticket Attack"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "user agent",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -92,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.50390243530273,
-    "collapsed": true
+    "width": 292.50390243530273
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -204,10 +232,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d46e4436a028745",
+  "active": "772bbd8c7686653f",
   "lastOpenFiles": [
-    "セキュリティ/Golden Ticket Attack.md",
+    "ネットワーク/HTTP.md",
+    "Linux/Curl.md",
+    "セキュリティ/OWASP ASVS.md",
+    "セキュリティ/CIS Benchmarks.md",
     "セキュリティ/Kerberos認証.md",
+    "セキュリティ/Golden Ticket Attack.md",
     "Misc./attachments/Pasted image 20241215125745.png",
     "Misc./attachments/Pasted image 20241215125726.png",
     "セキュリティ/認証.md",
@@ -237,10 +269,6 @@
     "S",
     "セキュリティ/公開鍵基盤/Chain Validation.md",
     "セキュリティ/公開鍵基盤/証明書の完全性の検証.md",
-    "セキュリティ/デジタル署名とPKI.md",
-    "セキュリティ/Authorization Code Flow.md",
-    "セキュリティ/公開鍵基盤/Certificate Transparency.md",
-    "セキュリティ/公開鍵基盤/CPS Certification Practice Statement.md",
     "Misc./attachments/Pasted image 20241202220857.png",
     "Misc./attachments/Pasted image 20241126214842.png",
     "Misc./attachments/Pasted image 20241126214305.png",
