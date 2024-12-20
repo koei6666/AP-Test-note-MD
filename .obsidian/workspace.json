@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-1.md",
+                "file": "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-春-1"
+              "title": "2024-春-2"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "restful",
+                "query": "ボットネット",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,30 +232,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6afd4f288f56b861",
+  "active": "772bbd8c7686653f",
   "lastOpenFiles": [
-    "Misc./attachments/Pasted image 20241219230030.png",
-    "Misc./attachments/Pasted image 20241219224624.png",
-    "Misc./attachments/Pasted image 20241219223548.png",
-    "Misc./attachments/Pasted image 20241219222854.png",
-    "Misc./attachments/Pasted image 20241219222113.png",
-    "Misc./attachments/Pasted image 20241219221846.png",
-    "Misc./attachments/Pasted image 20241219221537.png",
-    "Misc./attachments/Pasted image 20241219221235.png",
+    "Misc./attachments/Pasted image 20241220225407.png",
+    "Misc./attachments/Pasted image 20241220225346.png",
+    "Misc./attachments/Pasted image 20241220225217.png",
+    "Misc./attachments/Pasted image 20241220225148.png",
+    "Misc./attachments/Pasted image 20241220224818.png",
+    "Misc./attachments/Pasted image 20241220224236.png",
+    "Misc./attachments/Pasted image 20241220223922.png",
+    "Misc./attachments/Pasted image 20241220223508.png",
+    "Misc./attachments/Pasted image 20241220223438.png",
+    "Misc./attachments/Pasted image 20241220222907.png",
+    "Misc./attachments/Pasted image 20241220222832.png",
+    "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-1.md",
+    "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-2.md",
     "Linux/Curl.md",
     "セキュリティ/SC午後問題/SC/午後問題/令和6年春/問1.md",
-    "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-1.md",
     "セキュリティ/SC午後問題/SC/午後問題/令和6年春",
     "ネットワーク/HTTP.md",
     "セキュリティ/OWASP ASVS.md",
     "セキュリティ/CIS Benchmarks.md",
     "セキュリティ/Kerberos認証.md",
     "セキュリティ/Golden Ticket Attack.md",
-    "Misc./attachments/Pasted image 20241215125745.png",
-    "Misc./attachments/Pasted image 20241215125726.png",
     "セキュリティ/認証.md",
     "セキュリティ/BASIC 認証.md",
-    "Misc./attachments/Pasted image 20241215124828.png",
     "セキュリティ/DKIM.md",
     "ネットワーク/SMTP Commands.md",
     "ネットワーク/アプリケーション層のプロトコル.md",
@@ -269,7 +271,6 @@
     "ネットワーク/DNSサーバ.md",
     "ネットワーク/アドレス管理および名前解決技術.md",
     "セキュリティ/OTP One time password.md",
-    "セキュリティ/SC午後問題/SC/午後問題/令和2秋/1-3-1-3 診断PCの接続箇所.md",
     "セキュリティ/SC午後問題/SC/午後問題/令和2秋",
     "S",
     "セキュリティ/SC午後問題/SC/午後問題/令和4秋",
