@@ -112,3 +112,5 @@ URLを扱うパラメーターでは、任意のJavascriptを実行できるプ�
 ```html
 <a href="Javascript:alert('xss')">Javascript:alert('xss')</a>
 ```
+
+[[X-Content-Type-Options]]

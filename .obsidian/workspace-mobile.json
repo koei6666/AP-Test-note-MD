@@ -8,51 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe74841a934f609e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ネットワーク/通信プロトコルの標準化.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "通信プロトコルの標準化"
-            }
-          },
-          {
-            "id": "fedcb85969708999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ネットワーク/メールヘッダーインジェクション.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "メールヘッダーインジェクション"
-            }
-          },
-          {
             "id": "315730db8cbd1869",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ネットワーク/インターネット上の電話サービス.md",
+                "file": "Web/X-Content-Type-Options.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "インターネット上の電話サービス"
+              "title": "X-Content-Type-Options"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +48,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Voip",
+            "query": "X content option",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -140,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Linux/Access Permission.md",
+            "file": "Web/X-Content-Type-Options.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,6 +164,9 @@
   },
   "active": "315730db8cbd1869",
   "lastOpenFiles": [
+    "Web/HTML.md",
+    "Web/X-Content-Type-Options.md",
+    "ネットワーク/インターネット上の電話サービス.md",
     "ネットワーク/MTA Mail transfer agent.md",
     "ネットワーク/メールヘッダーインジェクション.md",
     "セキュリティ/公開鍵基盤/TLS Handshake.md",
@@ -219,9 +191,6 @@
     "セキュリティ/セキュリティ.md",
     "ネットワーク/DRM.md",
     "ネットワーク/アプリケーション層のプロトコル.md",
-    "セキュリティ/Metasploit.md",
-    "セキュリティ/Nmap.md",
-    "セキュリティ/Ghidra.md",
     "Misc./attachments/IMG_4043.jpeg",
     "SC/公開鍵基盤",
     "SC",
