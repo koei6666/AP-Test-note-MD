@@ -36,6 +36,19 @@
             }
           },
           {
+            "id": "edc24c4581ed8622",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
             "id": "d0b79600a0547044",
             "type": "leaf",
             "state": {
@@ -50,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,14 +210,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "165a957771070d0c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 230.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,8 +240,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed5aa206336b0d3c",
+  "active": "edc24c4581ed8622",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-4.md",
     "Misc./attachments/Pasted image 20250106232915.png",
     "Misc./attachments/Pasted image 20250106232852.png",
     "Misc./attachments/Pasted image 20250106232818.png",
@@ -230,9 +254,7 @@
     "Misc./attachments/Pasted image 20250106232227.png",
     "Misc./attachments/Pasted image 20250106232158.png",
     "Misc./attachments/Pasted image 20250106232140.png",
-    "Misc./attachments/Pasted image 20250106232106.png",
     "Linux/Access Permission.md",
-    "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-4.md",
     "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-3.md",
     "セキュリティ/クロスサイトスクリプティング(XSS).md",
     "セキュリティ/トップレベルナビゲーション.md",
