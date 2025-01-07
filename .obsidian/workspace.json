@@ -8,44 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dda30ff760f7778f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-春-3"
-            }
-          },
-          {
-            "id": "ed5aa206336b0d3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-春-4"
-            }
-          },
-          {
             "id": "edc24c4581ed8622",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "セキュリティ/SC午後問題/午後問題/2023/2023-秋-1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "2023-秋-1"
             }
           },
           {
@@ -54,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Access Permission.md",
+                "file": "セキュリティ/Stored XSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Access Permission"
+              "title": "Stored XSS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,11 +87,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 292.50390243530273
+    "width": 292.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -242,20 +216,24 @@
   },
   "active": "edc24c4581ed8622",
   "lastOpenFiles": [
+    "Misc./attachments/Pasted image 20250107225039.png",
+    "Misc./attachments/Pasted image 20250107222402.png",
+    "Misc./attachments/Pasted image 20250107222304.png",
+    "Misc./attachments/Pasted image 20250107220223.png",
+    "Misc./attachments/Pasted image 20250107215313.png",
+    "セキュリティ/Stored XSS.md",
+    "Linux/Access Permission.md",
+    "セキュリティ/SC午後問題/午後問題/2023/2023-秋-1.md",
+    "Misc./attachments/Pasted image 20250107214435.png",
+    "Misc./attachments/Pasted image 20250107214411.png",
+    "Misc./attachments/Pasted image 20250107213839.png",
+    "セキュリティ/SC午後問題/午後問題/2024/2024-春-4.md",
+    "セキュリティ/SC午後問題/午後問題/2023",
     "conflict-files-obsidian-git.md",
-    "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-4.md",
     "Misc./attachments/Pasted image 20250106232915.png",
     "Misc./attachments/Pasted image 20250106232852.png",
     "Misc./attachments/Pasted image 20250106232818.png",
-    "Misc./attachments/Pasted image 20250106232725.png",
-    "Misc./attachments/Pasted image 20250106232652.png",
-    "Misc./attachments/Pasted image 20250106232352.png",
-    "Misc./attachments/Pasted image 20250106232319.png",
-    "Misc./attachments/Pasted image 20250106232227.png",
-    "Misc./attachments/Pasted image 20250106232158.png",
-    "Misc./attachments/Pasted image 20250106232140.png",
-    "Linux/Access Permission.md",
-    "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-3.md",
+    "セキュリティ/SC午後問題/午後問題/2024/2024-春-3.md",
     "セキュリティ/クロスサイトスクリプティング(XSS).md",
     "セキュリティ/トップレベルナビゲーション.md",
     "セキュリティ/SSRF.md",
@@ -263,8 +241,8 @@
     "セキュリティ/Golden Ticket Attack.md",
     "ネットワーク/Cookie.md",
     "セキュリティ/CIS Benchmarks.md",
-    "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-2.md",
-    "セキュリティ/SC午後問題/SC/午後問題/2024/2024-春-1.md",
+    "セキュリティ/SC午後問題/午後問題/2024/2024-春-2.md",
+    "セキュリティ/SC午後問題/午後問題/2024/2024-春-1.md",
     "Linux/Curl.md",
     "セキュリティ/SC午後問題/SC/午後問題/令和6年春/問1.md",
     "セキュリティ/SC午後問題/SC/午後問題/令和6年春",
@@ -276,19 +254,15 @@
     "セキュリティ/DKIM.md",
     "ネットワーク/SMTP Commands.md",
     "ネットワーク/アプリケーション層のプロトコル.md",
-    "ネットワーク/DNS Records.md",
-    "セキュリティ/公開鍵基盤/PKI.md",
-    "セキュリティ/公開鍵基盤/証明書認証の流れ.md",
-    "セキュリティ/SC午後問題/SC/午後問題/令和2秋",
+    "セキュリティ/SC午後問題/午後問題/令和2秋",
     "S",
-    "セキュリティ/SC午後問題/SC/午後問題/令和4秋",
+    "セキュリティ/SC午後問題/午後問題/令和4秋",
     "Untitled.canvas",
     "Templates",
-    "セキュリティ/SC午後問題/SC/午後問題/令和5春",
+    "セキュリティ/SC午後問題/午後問題/令和5春",
     "Linux",
     "セキュリティ/CVSS Case Study",
     "セキュリティ/Linux",
-    "セキュリティ/SC午後問題/SC/午後問題/2024",
     "ストラテジ/事業分析フレームワーク.canvas",
     "ソフトウエア/ソフトウェア.canvas",
     "Untitled 1.canvas"
