@@ -1,21 +1,27 @@
-```http
-# Example Security Headers (related to SOP)
 
-# Strict-Transport-Security: Force HTTPS
-Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Webブラウザに設定される仕組みで、Cookieをはじめとする以下の要素には、同一オリジン（Same Origin)のスクリプトからしかアクセスできないように制限している。
+>[!Note]　アクセス制限の要素
+> - Cookie, LocalStorage, IndexedDB
+> - DOM要素
+> - Ajax(XMLHttpRequest, Fetch)リクエスト
 
-# Content-Security-Policy: Control resource loading
-Content-Security-Policy: default-src 'self'; \
-                       script-src 'self' https://trusted-scripts.com; \
-                       img-src 'self' https://trusted-images.com; \
-                       style-src 'self' https://trusted-styles.com;
+同一オリジンかどうかは以下の3要素から判断する
+1. プロトコール
+2. ドメイン名
+3. ポート番号
 
-# Cookie settings
-Set-Cookie: sessionId=abc123; \
-           Secure; \           # Only send over HTTPS
-           HttpOnly; \         # Prevent JavaScript access
-           SameSite=Strict; \ # Only send in same-site requests
-           Domain=example.com; \
-           Path=/
-```
+例えば、
+`https://example.com`の`Cookie`には、
+
+`https://example.com/page1`からはアクセスできるが、プロトコールの異なる`http://example.com`からはアクセス禁止となり、
+ドメインの異なる`https://other.com`からは勿論、サブドメイン`https://sub.example.com`からや、ポート番号が異なる`https://example.com:8080`からのアクセスも禁止されている
+
+### CSPとの違い
+SOPはブラウザに設定され、ドメインを検証してリソースのアクセスを制御しているが、CSPは各種のリソースに対して細かくアクセスの許可を設定することができる
+SOPはブラウザに設定されるのに対して、CSPはサーバ側でHTMLヘッダーに設定される
+CSPを設定することで、SOPを一部緩和したり、またはより精密に制御することができる
 [[Content Security Policy]]
+
+##  CORS
+WEBサイトのデザイン上、異なるサイトの資源にアクセスさせる必要がある場合がある、その場合は、特定のドメインからのアクセスを許可するよう、 CORSをヘッダーに設定することができる
+[[CORS Cross Origin Resource Sharing]]
