@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ネットワーク/SOP Same Origin Policy.md",
+                "file": "セキュリティ/SC午後問題/午後問題/2023/2023-秋-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOP Same Origin Policy"
+              "title": "2023-秋-2"
             }
           },
           {
-            "id": "542d7dbd98528ef2",
+            "id": "e49fb645b83151ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/CORS Cross Origin Resource Sharing.md",
+                "file": "ストラテジ/IoT関連.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CORS Cross Origin Resource Sharing"
+              "title": "IoT関連"
             }
           }
         ]
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CORS",
+                "query": "TPM",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -215,23 +215,31 @@
   },
   "active": "edc24c4581ed8622",
   "lastOpenFiles": [
+    "Misc./attachments/Pasted image 20250112120934.png",
+    "Misc./attachments/Pasted image 20250112120919.png",
+    "Misc./attachments/Pasted image 20250112120856.png",
+    "Misc./attachments/Pasted image 20250112120802.png",
+    "Misc./attachments/Pasted image 20250112120419.png",
+    "Misc./attachments/Pasted image 20250112120335.png",
+    "Misc./attachments/Pasted image 20250112115842.png",
+    "Misc./attachments/Pasted image 20250112115824.png",
+    "Misc./attachments/Pasted image 20250112115806.png",
+    "Misc./attachments/Pasted image 20250112115312.png",
+    "Misc./attachments/Pasted image 20250112115000.png",
+    "ストラテジ/IoT関連.md",
+    "ストラテジ/TPM.md",
+    "セキュリティ/SC午後問題/午後問題/2023/2023-秋-2.md",
+    "セキュリティ/IEEE 802.1X.md",
+    "セキュリティ/EAP.md",
+    "セキュリティ/公開鍵基盤/TLS Handshake.md",
+    "セキュリティ/SNI.md",
+    "セキュリティ/SC午後問題/午後問題/2023/2023-秋-1.md",
+    "ネットワーク/SOP Same Origin Policy.md",
     "セキュリティ/CORS Cross Origin Resource Sharing.md",
     "セキュリティ/Content Security Policy.md",
-    "ネットワーク/SOP Same Origin Policy.md",
-    "セキュリティ/SC午後問題/午後問題/2023/2023-秋-1.md",
     "セキュリティ/クロスサイトスクリプティング(XSS).md",
     "セキュリティ/Stored XSS.md",
     "セキュリティ/Cookie属性.md",
-    "Misc./attachments/Pasted image 20250111153951.png",
-    "Misc./attachments/Pasted image 20250111152132.png",
-    "Misc./attachments/Pasted image 20250111151908.png",
-    "Misc./attachments/Pasted image 20250111151255.png",
-    "Misc./attachments/Pasted image 20250111151035.png",
-    "Misc./attachments/Pasted image 20250107225039.png",
-    "Misc./attachments/Pasted image 20250107222402.png",
-    "Misc./attachments/Pasted image 20250107222304.png",
-    "Misc./attachments/Pasted image 20250107220223.png",
-    "Misc./attachments/Pasted image 20250107215313.png",
     "Linux/Access Permission.md",
     "セキュリティ/SC午後問題/午後問題/2024/2024-春-4.md",
     "セキュリティ/SC午後問題/午後問題/2023",
@@ -244,15 +252,7 @@
     "セキュリティ/CIS Benchmarks.md",
     "セキュリティ/SC午後問題/午後問題/2024/2024-春-2.md",
     "セキュリティ/SC午後問題/午後問題/2024/2024-春-1.md",
-    "Linux/Curl.md",
-    "セキュリティ/SC午後問題/SC/午後問題/令和6年春/問1.md",
     "セキュリティ/SC午後問題/SC/午後問題/令和6年春",
-    "ネットワーク/HTTP.md",
-    "セキュリティ/OWASP ASVS.md",
-    "セキュリティ/Kerberos認証.md",
-    "セキュリティ/認証.md",
-    "セキュリティ/BASIC 認証.md",
-    "セキュリティ/DKIM.md",
     "セキュリティ/SC午後問題/午後問題/令和2秋",
     "S",
     "セキュリティ/SC午後問題/午後問題/令和4秋",
