@@ -106,7 +106,7 @@ example.com.    IN    MX    30    backup2-mail.example.com.
   - `iodef`: 発行ポリシー違反発生時の報告先メールアドレス（例：`example.com.    IN    CAA    0    iodef    "mailto:security@example.com"`)[[PKI#発行ポリシー]]
   
   値: CAのドメインを示す値（ドメインネーム)
-
+ ^ec373f
 - DKIM(Domain Keys Identified Mail)
   ![[DKIM]]
 - DMARC(Domain-based Message Authentication)
