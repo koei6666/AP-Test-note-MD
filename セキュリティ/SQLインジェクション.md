@@ -9,7 +9,7 @@ $pdo = new PDO($dbh, $user, $password);
 $stmt = $pdo->prepare($sql);  
 $stmt->execute([$uid]); _//?に値を割り当てて実行_
 ```
-　Javaでは、通常の（文字列組立）SQL文を、`Statement`と呼ばれ、プレースホールダーを使用するSQL文を`PreparedStatement`と、変数を定義する時もそれぞれ違うタイプの変数が使われる。
+　Javaでは、通常の（文字列組立）SQL文を、`Statement`[[Javaの特徴#JavaのSQL]]と呼ばれ、プレースホールダーを使用するSQL文を`PreparedStatement`と、変数を定義する時もそれぞれ違うタイプの変数が使われる。
 　セキュリティリスクが存在する点と、処理効率の点から、原則的には`Statement`を使用せず、`PreparedStatement`を使用することが推奨されるが、以下のようば場合では`Statement`しか使用できない:
 　1. 動的なテーブル名やコラム名が使用される場合
 　2. DDL（Data Defination Language)文の実行（CREATE TABLEなど）
