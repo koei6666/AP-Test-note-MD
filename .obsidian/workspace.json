@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1184313b6f481156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "セキュリティ/SC午後問題/午後問題/2023/令和5春/1-2-2 DASTとXSS検出.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-2-2 DASTとXSS検出"
-            }
-          },
-          {
             "id": "ff477d9efc24d6fd",
             "type": "leaf",
             "state": {
@@ -34,37 +20,8 @@
               "icon": "lucide-file",
               "title": "2023-春-5"
             }
-          },
-          {
-            "id": "fc55f16d2767307f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "セキュリティ/SQLインジェクション.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQLインジェクション"
-            }
-          },
-          {
-            "id": "0e8a2af40e02054c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "セキュリティ/公開鍵基盤/TLS Handshake.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TLS Handshake"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -244,23 +200,25 @@
   },
   "active": "ff477d9efc24d6fd",
   "lastOpenFiles": [
-    "Misc./attachments/Pasted image 20250119133636.png",
-    "Misc./attachments/Pasted image 20250119133615.png",
-    "Misc./attachments/Pasted image 20250119133538.png",
-    "Misc./attachments/Pasted image 20250119133519.png",
-    "Misc./attachments/Pasted image 20250119133208.png",
-    "Misc./attachments/Pasted image 20250119133034.png",
-    "Misc./attachments/Pasted image 20250119133013.png",
-    "セキュリティ/SC午後問題/午後問題/2023/令和5春/1-2-2 DASTとXSS検出.md",
-    "セキュリティ/SC午後問題/午後問題/2023/2023-春-5.md",
-    "Misc./attachments/Pasted image 20250119131916.png",
-    "セキュリティ/SC午後問題/午後問題/2023/2023-春-2.md",
-    "Misc./attachments/Pasted image 20250119131222.png",
-    "Misc./attachments/Pasted image 20250119131154.png",
+    "Misc./attachments/Pasted image 20250120222928.png",
+    "Misc./attachments/Pasted image 20250120222401.png",
+    "Misc./attachments/Pasted image 20250120222146.png",
+    "Misc./attachments/Pasted image 20250120221919.png",
+    "Misc./attachments/Pasted image 20250120221814.png",
+    "Misc./attachments/Pasted image 20250120221618.png",
+    "Misc./attachments/Pasted image 20250120221606.png",
+    "Misc./attachments/Pasted image 20250120221543.png",
+    "Misc./attachments/Pasted image 20250120221517.png",
     "セキュリティ/SQLインジェクション.md",
-    "Misc./attachments/Pasted image 20250119130601.png",
-    "セキュリティ/SC午後問題/午後問題/2023/2023-春-4.md",
     "セキュリティ/公開鍵基盤/TLS Handshake.md",
+    "セキュリティ/SC午後問題/午後問題/2023/2023-春-5.md",
+    "セキュリティ/Form Injection Attack.md",
+    "セキュリティ/攻撃手段リスト.md",
+    "セキュリティ/SC午後問題/午後問題/2023/令和5春/1-2-2 DASTとXSS検出.md",
+    "Misc./attachments/Pasted image 20250120193329.png",
+    "Misc./attachments/Pasted image 20250120193313.png",
+    "セキュリティ/SC午後問題/午後問題/2023/2023-春-2.md",
+    "セキュリティ/SC午後問題/午後問題/2023/2023-春-4.md",
     "セキュリティ/SSL TLS.md",
     "セキュリティ/SAML.md",
     "セキュリティ/SC午後問題/午後問題/2023/2023-春-1.md",
@@ -278,8 +236,6 @@
     "セキュリティ/公開鍵基盤/WebAuthn.md",
     "システムの構成要素/サーバ仮想化.md",
     "セキュリティ/コンテナエスケープ.md",
-    "ストラテジ/IoT関連.md",
-    "ストラテジ/TPM.md",
     "セキュリティ/SC午後問題/午後問題/2023",
     "セキュリティ/SC午後問題/SC/午後問題/令和6年春",
     "セキュリティ/SC午後問題/午後問題/令和2秋",
