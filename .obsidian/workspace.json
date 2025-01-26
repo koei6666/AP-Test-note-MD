@@ -49,8 +49,7 @@
               "title": "Log4Shell CVE-2021-44228"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -228,25 +228,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2809b34715550ef",
+  "active": "328081d421079872",
   "lastOpenFiles": [
+    "Misc./attachments/Pasted image 20250126211424.png",
+    "Misc./attachments/Pasted image 20250126211038.png",
+    "Misc./attachments/Pasted image 20250126211024.png",
+    "Misc./attachments/Pasted image 20250126210514.png",
+    "Misc./attachments/Pasted image 20250126210451.png",
+    "Misc./attachments/Pasted image 20250126210242.png",
+    "Misc./attachments/Pasted image 20250126210217.png",
+    "Misc./attachments/Pasted image 20250126205846.png",
+    "Misc./attachments/Pasted image 20250126170826.png",
+    "Misc./attachments/Pasted image 20250126170612.png",
+    "ネットワーク/URL.md",
+    "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
     "ネットワーク/JNDI Lookup.md",
     "ネットワーク/DNS.md",
-    "ネットワーク/URL.md",
     "ネットワーク/レジストラ.md",
     "Web/HTML.md",
     "Linux/Curl.md",
     "セキュリティ/SC午後問題/午後問題/2022/2022-秋-3.md",
     "Misc./attachments/Pasted image 20250126144952.png",
-    "Misc./attachments/Pasted image 20250126144917.png",
-    "Misc./attachments/Pasted image 20250126144833.png",
-    "Misc./attachments/Pasted image 20250126144241.png",
-    "Misc./attachments/Pasted image 20250126144222.png",
-    "Misc./attachments/Pasted image 20250126142245.png",
-    "Misc./attachments/Pasted image 20250126142146.png",
-    "Misc./attachments/Pasted image 20250126142127.png",
-    "Misc./attachments/Pasted image 20250126141948.png",
-    "Misc./attachments/Pasted image 20250126141927.png",
     "セキュリティ/SC午後問題/午後問題/2022/2022-秋-2.md",
     "ネットワーク/レジストリーサーバの固有ヘッダー.md",
     "セキュリティ/マルウェア対策.md",
@@ -265,8 +267,6 @@
     "セキュリティ/SC午後問題/午後問題/2023/2023-春-4.md",
     "セキュリティ/SSL TLS.md",
     "セキュリティ/SAML.md",
-    "セキュリティ/SC午後問題/午後問題/2023/2023-春-1.md",
-    "ネットワーク/SNMP.md",
     "セキュリティ/SC午後問題/午後問題/2023",
     "セキュリティ/SC午後問題/SC/午後問題/令和6年春",
     "セキュリティ/SC午後問題/午後問題/令和2秋",
