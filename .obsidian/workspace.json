@@ -34,20 +34,6 @@
               "icon": "lucide-file",
               "title": "2022-春-4"
             }
-          },
-          {
-            "id": "d1f63ca9d61c2623",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML"
-            }
           }
         ],
         "currentTab": 1
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "robot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -103,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,21 +218,22 @@
   },
   "active": "fbd7175bb5ff6347",
   "lastOpenFiles": [
-    "Misc./attachments/Pasted image 20250205231444.png",
-    "Misc./attachments/Pasted image 20250205231255.png",
-    "Misc./attachments/Pasted image 20250205231118.png",
-    "セキュリティ/SC午後問題/午後問題/2022/2022-春-3.md",
+    "Misc./attachments/Pasted image 20250209134552.png",
+    "Misc./attachments/Pasted image 20250209133041.png",
+    "Misc./attachments/Pasted image 20250209133018.png",
+    "セキュリティ/攻撃手段リスト.md",
     "セキュリティ/SC午後問題/午後問題/2022/2022-春-4.md",
-    "Misc./attachments/Pasted image 20250201194642.png",
-    "Misc./attachments/Pasted image 20250201194431.png",
-    "Misc./attachments/Pasted image 20250201194359.png",
-    "Misc./attachments/Pasted image 20250201193846.png",
-    "Misc./attachments/Pasted image 20250201193829.png",
-    "Misc./attachments/Pasted image 20250201193708.png",
-    "Misc./attachments/Pasted image 20250201193130.png",
-    "Misc./attachments/Pasted image 20250201193108.png",
-    "セキュリティ/SC午後問題/午後問題/2022/2022-春-2.md",
+    "Misc./attachments/Pasted image 20250209132319.png",
+    "Misc./attachments/Pasted image 20250209132032.png",
+    "Misc./attachments/Pasted image 20250209132008.png",
+    "Misc./attachments/Pasted image 20250209131940.png",
+    "Misc./attachments/Pasted image 20250209131923.png",
+    "Misc./attachments/Pasted image 20250209131239.png",
+    "Misc./attachments/Pasted image 20250209131147.png",
+    "Misc./attachments/Pasted image 20250209131105.png",
     "Web/HTML.md",
+    "セキュリティ/SC午後問題/午後問題/2022/2022-春-3.md",
+    "セキュリティ/SC午後問題/午後問題/2022/2022-春-2.md",
     "セキュリティ/Linux/Linuxの任意コード実行できるコマンドへの対策.md",
     "ネットワーク/HTTP.md",
     "ネットワーク/URL.md",
@@ -264,7 +252,6 @@
     "ネットワーク/レジストリーサーバの固有ヘッダー.md",
     "セキュリティ/マルウェア対策.md",
     "セキュリティ/SC午後問題/午後問題/2022/2022-秋-1.md",
-    "セキュリティ/攻撃手段リスト.md",
     "ネットワーク/Dynamic DNS Update.md",
     "セキュリティ/SC午後問題/午後問題/2023/2023-春-6.md",
     "セキュリティ/SC午後問題/午後問題/2022",
