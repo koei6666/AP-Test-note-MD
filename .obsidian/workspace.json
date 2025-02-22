@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "fe5b2d80191997d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "セキュリティ/ISO 27018.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ISO 27018"
+            }
+          },
+          {
             "id": "d5dd9751ccec4ab4",
             "type": "leaf",
             "state": {
@@ -95,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ISO27001",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -120,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -244,21 +257,25 @@
   },
   "active": "fbd7175bb5ff6347",
   "lastOpenFiles": [
-    "Misc./attachments/Pasted image 20250222115852.png",
-    "Misc./attachments/Pasted image 20250222115826.png",
-    "Misc./attachments/Pasted image 20250222115749.png",
-    "Misc./attachments/Pasted image 20250222115726.png",
-    "ネットワーク/HTML entity encoding.md",
+    "セキュリティ/ISO 27018.md",
+    "セキュリティ/ISO27001(ISMS).md",
+    "セキュリティ/ISO 27017.md",
     "セキュリティ/SC午後問題/午後問題/2021/2021-秋-4.md",
+    "セキュリティ/Content Security Policy.md",
+    "Misc./attachments/Pasted image 20250222133918.png",
+    "Misc./attachments/Pasted image 20250222133854.png",
+    "Misc./attachments/Pasted image 20250222132526.png",
+    "Misc./attachments/Pasted image 20250222132452.png",
+    "セキュリティ/SC午後問題/午後問題/2022/2022-春-4.md",
+    "Misc./attachments/Pasted image 20250222123939.png",
+    "Misc./attachments/Pasted image 20250222123915.png",
+    "Misc./attachments/Pasted image 20250222122433.png",
+    "Misc./attachments/Pasted image 20250222122409.png",
+    "Misc./attachments/Pasted image 20250222122331.png",
+    "Misc./attachments/Pasted image 20250222122307.png",
+    "ネットワーク/HTML entity encoding.md",
     "セキュリティ/セキュリティ関連用語.md",
-    "Misc./attachments/Pasted image 20250222114651.png",
-    "Misc./attachments/Pasted image 20250222114453.png",
-    "Misc./attachments/Pasted image 20250222114427.png",
     "セキュリティ/SC午後問題/午後問題/2021/2021-秋-3.md",
-    "Misc./attachments/Pasted image 20250222105815.png",
-    "Misc./attachments/Pasted image 20250222105755.png",
-    "Misc./attachments/Pasted image 20250222105219.png",
-    "Misc./attachments/Pasted image 20250222105204.png",
     "セキュリティ/SC午後問題/午後問題/2023/2023-秋-3.md",
     "セキュリティ/SC午後問題/午後問題/2023/2023-秋-4 ‼️.md",
     "セキュリティ/SC午後問題/午後問題/2021/2021-秋-2.md",
@@ -277,10 +294,6 @@
     "セキュリティ/公開鍵基盤/TLS Handshake.md",
     "セキュリティ/ドメインフロティング攻撃.md",
     "セキュリティ/SC午後問題/午後問題/2022/ドメインフロティング.md",
-    "ネットワーク/Common Gateway Interface.md",
-    "システムの構成要素/Webシステムの三層構造.md",
-    "セキュリティ/SC午後問題/午後問題/2022/2022-春-4.md",
-    "セキュリティ/攻撃手段リスト.md",
     "セキュリティ/SC午後問題/午後問題/2022",
     "セキュリティ/SC午後問題/午後問題/2023",
     "セキュリティ/SC午後問題/SC/午後問題/令和6年春",
