@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/SC午後問題/午後問題/2021/2021-春-1.md",
+                "file": "セキュリティ/SC午後問題/午後問題/2021/2021-春-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2021-春-1"
+              "title": "2021-春-2"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ネットワーク/ローカルブレークアウト.md",
+                "file": "ネットワーク/DNSサーバ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ローカルブレークアウト"
+              "title": "DNSサーバ"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ゾーン転送",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -130,7 +130,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,29 +259,35 @@
   },
   "active": "c5d4518db8a77be9",
   "lastOpenFiles": [
-    "Misc./attachments/Pasted image 20250227225810.png",
-    "Misc./attachments/Pasted image 20250227225333.png",
-    "Misc./attachments/Pasted image 20250227225305.png",
-    "Misc./attachments/Pasted image 20250227224713.png",
-    "Misc./attachments/Pasted image 20250227224517.png",
-    "Misc./attachments/Pasted image 20250227224458.png",
-    "Misc./attachments/Pasted image 20250227224104.png",
-    "Misc./attachments/Pasted image 20250227224037.png",
-    "Misc./attachments/Pasted image 20250227223949.png",
-    "Misc./attachments/Pasted image 20250227223931.png",
-    "セキュリティ/OAuth State Parameter.md",
+    "Misc./attachments/Pasted image 20250301112411.png",
+    "Misc./attachments/Pasted image 20250301112150.png",
+    "Misc./attachments/Pasted image 20250301111340.png",
+    "Misc./attachments/Pasted image 20250301111307.png",
+    "Misc./attachments/Pasted image 20250301111255.png",
+    "Misc./attachments/Pasted image 20250301111237.png",
+    "ネットワーク/DNSサーバ.md",
+    "ネットワーク/DNS Records.md",
+    "セキュリティ/SC午後問題/午後問題/2021/2021-春-2.md",
+    "Misc./attachments/Pasted image 20250301105632.png",
+    "Misc./attachments/Pasted image 20250301105620.png",
+    "Misc./attachments/Pasted image 20250301105602.png",
+    "ネットワーク/DNS.md",
+    "Misc./attachments/Pasted image 20250301104650.png",
+    "Misc./attachments/Pasted image 20250301104631.png",
+    "ネットワーク/スタブリゾルバ.md",
+    "ネットワーク/アドレス管理および名前解決技術.md",
+    "セキュリティ/ISO27001(ISMS).md",
+    "ネットワーク/ローカルブレークアウト.md",
     "セキュリティ/SC午後問題/午後問題/2021/2021-春-1.md",
+    "セキュリティ/OAuth State Parameter.md",
     "セキュリティ/SC午後問題/午後問題/2022/2022-春-5.md",
     "セキュリティ/セキュリティ評価の標準化.md",
-    "Misc./attachments/Pasted image 20250227222732.png",
     "セキュリティ/SC午後問題/午後問題/2022/2022-秋-2.md",
     "セキュリティ/SC午後問題/午後問題/2022/2022-秋-1.md",
     "セキュリティ/SC午後問題/午後問題/2021/2021-秋-5.md",
-    "ネットワーク/ローカルブレークアウト.md",
     "ネットワーク/HTML entity encoding.md",
     "セキュリティ/ISO 27018.md",
     "セキュリティ/SC午後問題/午後問題/2021/2021-秋-4.md",
-    "セキュリティ/ISO27001(ISMS).md",
     "セキュリティ/セキュリティ要件.md",
     "セキュリティ/セキュリティ関連用語.md",
     "セキュリティ/ISO 27017.md",
@@ -288,12 +295,6 @@
     "セキュリティ/SC午後問題/午後問題/2022/2022-春-4.md",
     "セキュリティ/SC午後問題/午後問題/2021/2021-秋-3.md",
     "セキュリティ/SC午後問題/午後問題/2023/2023-秋-3.md",
-    "セキュリティ/SC午後問題/午後問題/2023/2023-秋-4 ‼️.md",
-    "セキュリティ/SC午後問題/午後問題/2021/2021-秋-2.md",
-    "セキュリティ/SC午後問題/午後問題/2021/2021-秋-1.md",
-    "ネットワーク/SSH.md",
-    "ネットワーク/アプリケーション層のプロトコル.md",
-    "セキュリティ/NONCE.md",
     "セキュリティ/SC午後問題/午後問題/2021",
     "セキュリティ/SC午後問題/午後問題/2022",
     "セキュリティ/SC午後問題/午後問題/2023",

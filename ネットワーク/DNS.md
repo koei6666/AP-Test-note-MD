@@ -38,7 +38,7 @@ Address:    93.184.216.34
 
 ### **DNSのセキュリティ**
 
-- **DNSSEC（Domain Name System Security Extensions）**: DNS情報の改ざんを防ぐためのセキュリティ拡張。
+- **DNSSEC（Domain Name System Security Extensions）**: DNS情報の改ざんを防ぐためのセキュリティ拡張。 ^1dac9e
 
 
 ![[DNSサーバ]]
@@ -47,3 +47,5 @@ Address:    93.184.216.34
 ![[DNS Records]]
 
 [[Dynamic DNS Update]]
+
+![[スタブリゾルバ]]
