@@ -27,3 +27,4 @@ RADIUSサーバなどの、認証情報を管理するデータベースと、Au
 3. ユーザがAuthenticatorに対して証明書を提出、Authenticatorが受領後、Authentication Serverに転送し、認証を依頼する
 4. \*必要に応じて、Auth Serverから追加の証明提出を要請し、Authenticatorがそれらをユーザに中継する
 5. Auth Serverがアクセスの許可と拒否を判断した後、判断をAuthenticatorに返信し、Authenticatorがユーザに認証成功または失敗の連絡をする。
+6. 承認が完了された後初めて、サプリカントに対してIPアドレスが配布される
