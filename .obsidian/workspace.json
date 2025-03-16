@@ -13,68 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/SC午後問題/午後問題/2020/2020-秋-3.md",
+                "file": "セキュリティ/SC午後問題/午後問題/2020/2020-秋-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2020-秋-3"
-            }
-          },
-          {
-            "id": "fa16dba9bd4d6db7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ネットワーク/SMIME.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SMIME"
-            }
-          },
-          {
-            "id": "5d696197286e469e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "セキュリティ/公開鍵基盤/PKI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PKI"
-            }
-          },
-          {
-            "id": "4411f538cd30a528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "セキュリティ/セキュリティ要件.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "セキュリティ要件"
-            }
-          },
-          {
-            "id": "d5446f688a9eec6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ネットワーク/SSH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSH"
+              "title": "2020-秋-4"
             }
           }
         ]
@@ -258,25 +202,26 @@
   },
   "active": "d2d8e74cd880a668",
   "lastOpenFiles": [
-    "Misc./attachments/Pasted image 20250315120753.png",
-    "Misc./attachments/Pasted image 20250315120654.png",
-    "Misc./attachments/Pasted image 20250315120640.png",
-    "セキュリティ/公開鍵基盤/PKI.md",
-    "ネットワーク/SMIME.md",
+    "Misc./attachments/Pasted image 20250316105007.png",
+    "Misc./attachments/Pasted image 20250316104433.png",
+    "Misc./attachments/Pasted image 20250316104408.png",
+    "Misc./attachments/Pasted image 20250316104234.png",
+    "Misc./attachments/Pasted image 20250316104219.png",
+    "Misc./attachments/Pasted image 20250316103941.png",
+    "Misc./attachments/Pasted image 20250316103839.png",
+    "Misc./attachments/Pasted image 20250316103031.png",
+    "Misc./attachments/Pasted image 20250316102953.png",
+    "Misc./attachments/Pasted image 20250316102738.png",
+    "Misc./attachments/Pasted image 20250316102712.png",
     "セキュリティ/SC午後問題/午後問題/2020/2020-秋-3.md",
-    "Misc./attachments/Pasted image 20250315120203.png",
-    "Misc./attachments/Pasted image 20250315120050.png",
-    "Misc./attachments/Pasted image 20250315115957.png",
-    "Misc./attachments/Pasted image 20250315115942.png",
-    "Misc./attachments/Pasted image 20250315115331.png",
-    "Misc./attachments/Pasted image 20250315115234.png",
-    "Misc./attachments/Pasted image 20250315115216.png",
-    "Misc./attachments/Pasted image 20250315115146.png",
+    "セキュリティ/SC午後問題/午後問題/2020/2020-秋-4.md",
+    "ネットワーク/SMIME.md",
+    "セキュリティ/セキュリティ要件.md",
+    "セキュリティ/公開鍵基盤/PKI.md",
     "セキュリティ/SC午後問題/午後問題/2020/2020-秋-2.md",
     "セキュリティ/公開鍵基盤/TLS Certificate Validation.md",
     "ネットワーク/LDAP.md",
     "セキュリティ/SC午後問題/午後問題/2020/2020-秋-1.md",
-    "セキュリティ/セキュリティ要件.md",
     "セキュリティ/公開鍵基盤/X.509 Certificate Structure.md",
     "セキュリティ/IEEE 802.1X.md",
     "セキュリティ/SC午後問題/午後問題/2021/2021-春-5.md",
@@ -294,7 +239,6 @@
     "ネットワーク/DNSサーバ.md",
     "セキュリティ/SC午後問題/午後問題/2021/2021-春-2.md",
     "ネットワーク/DNS Records.md",
-    "ネットワーク/DNS.md",
     "セキュリティ/SC午後問題/午後問題/2021",
     "セキュリティ/SC午後問題/午後問題/2022",
     "セキュリティ/SC午後問題/午後問題/2023",
