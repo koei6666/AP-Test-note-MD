@@ -52,3 +52,31 @@ HELP: Requests help information from the server
 - 3xx indicates additional information needed
 - 4xx indicates temporary failure
 - 5xx indicates permanent failure
+
+## SMTP Transaction
+```
+CLIENT: EHLO client.example.com
+SERVER: 250-mail.example.com Hello client.example.com
+SERVER: 250-SIZE 14680064
+SERVER: 250 HELP
+
+CLIENT: MAIL FROM:<sender@example.com>
+SERVER: 250 OK
+
+CLIENT: RCPT TO:<recipient@example.com>
+SERVER: 250 OK
+
+CLIENT: DATA
+SERVER: 354 Start mail input; end with <CRLF>.<CRLF>
+
+CLIENT: From: "Sender Name" <sender@example.com>
+CLIENT: To: "Recipient Name" <recipient@example.com>
+CLIENT: Subject: Test Email
+CLIENT: 
+CLIENT: This is a test email.
+CLIENT: .
+SERVER: 250 OK: queued as 12345
+
+CLIENT: QUIT
+SERVER: 221 Bye
+```
