@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/SC午後問題/午後問題/2019/2019-秋-1.md",
+                "file": "セキュリティ/SC午後問題/午後問題/2019/2019-秋-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2019-秋-1"
+              "title": "2019-秋-4"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/DMARC.md",
+                "file": "セキュリティ/Kerberos認証.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DMARC"
+              "title": "Kerberos認証"
             }
           }
         ]
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dmar",
+                "query": "ゴールデン",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,20 +216,24 @@
   },
   "active": "d2d8e74cd880a668",
   "lastOpenFiles": [
-    "Misc./attachments/Pasted image 20250318231314.png",
+    "Misc./attachments/Pasted image 20250324233948.png",
+    "Misc./attachments/Pasted image 20250324233909.png",
+    "Misc./attachments/Pasted image 20250324233838.png",
+    "セキュリティ/SC午後問題/午後問題/2019/2019-秋-3.md",
+    "セキュリティ/SC午後問題/午後問題/2019/2019-秋-4.md",
+    "Misc./attachments/Pasted image 20250324230647.png",
+    "Misc./attachments/Pasted image 20250324230616.png",
+    "Misc./attachments/Pasted image 20250324230326.png",
+    "Misc./attachments/Pasted image 20250324230302.png",
+    "Misc./attachments/Pasted image 20250324230247.png",
+    "Misc./attachments/Pasted image 20250324225613.png",
+    "Misc./attachments/Pasted image 20250324225556.png",
+    "Misc./attachments/Pasted image 20250324225055.png",
+    "セキュリティ/SC午後問題/午後問題/2019/2019-秋-2.md",
+    "セキュリティ/Kerberos認証.md",
     "セキュリティ/DMARC.md",
-    "セキュリティ/SPF.md",
     "セキュリティ/SC午後問題/午後問題/2019/2019-秋-1.md",
-    "Misc./attachments/Pasted image 20250318230508.png",
-    "Misc./attachments/Pasted image 20250318230441.png",
-    "Misc./attachments/Pasted image 20250318225657.png",
-    "Misc./attachments/Pasted image 20250318225621.png",
-    "Misc./attachments/Pasted image 20250318225549.png",
-    "Misc./attachments/Pasted image 20250318225422.png",
-    "Misc./attachments/Pasted image 20250318225404.png",
-    "Misc./attachments/Pasted image 20250318224424.png",
-    "Misc./attachments/Pasted image 20250318224357.png",
-    "Misc./attachments/Pasted image 20250318224318.png",
+    "セキュリティ/SPF.md",
     "ネットワーク/SMTP Commands.md",
     "セキュリティ/TPMによるディスク暗号化.md",
     "セキュリティ/SC午後問題/午後問題/2020/2020-秋-5.md",
@@ -251,10 +254,6 @@
     "セキュリティ/IEEE 802.1X.md",
     "セキュリティ/SC午後問題/午後問題/2021/2021-春-5.md",
     "セキュリティ/SC午後問題/午後問題/2020",
-    "ネットワーク/リンクローカルIPアドレス.md",
-    "セキュリティ/EAP.md",
-    "セキュリティ/etc-shadow file.md",
-    "セキュリティ/SC午後問題/午後問題/2021/2021-春-4.md",
     "セキュリティ/SC午後問題/午後問題/2021",
     "セキュリティ/SC午後問題/午後問題/2022",
     "セキュリティ/SC午後問題/午後問題/2023",
