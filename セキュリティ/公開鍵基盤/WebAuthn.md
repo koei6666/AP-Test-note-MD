@@ -49,3 +49,52 @@ This origin validation:
 - Is enforced by the browser and authenticator, not trust-based
 
 This is a key advantage over passwords, where users might accidentally enter their credentials on a phishing site that looks legitimate.
+
+
+## **Multi-Device Authentication in WebAuthn:**
+
+When you register a service on your laptop but later need to log in from your cellphone, you have two main scenarios:
+
+**Scenario 1: First-time login on a new device**
+
+1. Your cellphone doesn't have the required private key (it's only on your laptop)
+2. The service must provide an alternative authentication method:
+    - Password + another factor
+    - Recovery codes
+    - Email verification
+    - QR code cross-device flow
+
+**Scenario 2: Multi-device registration**
+
+1. After first authenticating via alternative means, you register your cellphone as an additional authenticator
+2. A new, distinct keypair is generated on your cellphone
+3. The service now stores multiple public keys associated with your account:
+    - Public key A ↔ Your laptop
+    - Public key B ↔ Your cellphone
+
+**Technical Implementation:**
+
+```
+// Server-side credential storage (conceptual)
+user = {
+  id: "user123",
+  credentials: [
+    {
+      credentialId: "a1b2c3...", // Identifier for laptop credential
+      publicKey: "04ab32...",    // Public key from laptop
+      deviceType: "platform",    // Information about authenticator type
+      lastUsed: "2025-04-01T..."
+    },
+    {
+      credentialId: "x7y8z9...", // Identifier for phone credential
+      publicKey: "04fe21...",    // Different public key from phone
+      deviceType: "platform",
+      lastUsed: "2025-04-05T..."
+    }
+  ]
+}
+```
+
+This model maintains WebAuthn's security properties while enabling practical multi-device usage. Each device has its own unique credential that can't be transferred between devices, preserving the security model.
+
+Some platforms (like Apple's Passkeys) provide ecosystem-specific synchronization of credentials across devices, but this is implemented at the platform level with its own security controls.
