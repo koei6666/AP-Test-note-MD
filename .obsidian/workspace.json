@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/SC午後問題/午後問題/2023/2023-春-4.md",
+                "file": "セキュリティ/SC午後問題/午後問題/2023/2023-春-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-春-4"
+              "title": "2023-春-5"
             }
           },
           {
@@ -258,6 +258,7 @@
   },
   "active": "d2d8e74cd880a668",
   "lastOpenFiles": [
+    "セキュリティ/SC午後問題/午後問題/2023/2023-春-4.md",
     "セキュリティ/SC午後問題/午後問題/2023/2023-春-2.md",
     "ネットワーク/FTP.md",
     "セキュリティ/SC午後問題/午後問題/2023/2023-春-1.md",
@@ -286,7 +287,6 @@
     "ネットワーク/HTTP.md",
     "セキュリティ/SC午後問題/午後問題/2024/2024-春-3.md",
     "セキュリティ/SSRF.md",
-    "セキュリティ/Cookie属性.md",
     "Misc./attachments/Pasted image 20250331202247.png",
     "Misc./attachments/Pasted image 20250327230424.png",
     "Misc./attachments/Pasted image 20250327225739.png",
