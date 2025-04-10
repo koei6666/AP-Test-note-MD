@@ -10,7 +10,7 @@ PKCEフロー（Proof Key for Code Exchange）について解説いたします�
 
 PKCEは、OAuth 2.0の拡張機能で、主にパブリッククライアント（ブラウザベースのアプリケーションやモバイルアプリ）のセキュリティを向上させるために設計されました。
 
-PKCEフローの主な手順は以下の通りです：
+#Tricky PKCEフローの主な手順は以下の通りです：
 ```mermaid
 flowchart TD
 	A[Client] -.->|Authentication Request| B(Code Verifier=Random String) -.->|Hash and encode with base64url| C(Code Challenge) -->|Hash Algo & Code Challange| Authenticator -->|Code challenge stored at Authenticator, return code to client| A
@@ -31,6 +31,9 @@ flowchart TD
 ```
 
 7. 認可サーバーは受け取った code verifier をハッシュ化し、保存していた code challenge と比較して検証します。
+
+#Tricky PKCEの認証フローをまとめると：クライアントがチャレンジコードのハッシュ値とハッシュアルゴリズムを認可リクエストとともにAuthenticatorに送付し、Authenticatorがハッシュ値とアルゴリズムをサーバに保存し、クライアントに認可コードを返却。
+#Tricky クライアントがアクセスコードを要求する際に、元のチャンレンジコードをAuthenticatorに送付し、Authenticatorが受領したチャンレンジコードを当初保存したアルゴリズムでハッシュし、保存したハッシュ値と比較する、一致すれば、クライアントにアクセスコードを返送する。
 
 この方法により、以下のセキュリティ上の利点があります：
 
