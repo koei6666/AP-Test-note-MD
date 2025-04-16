@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/X-Content-Type-Options.md",
+                "file": "セキュリティ/公開鍵基盤/WebAuthn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "X-Content-Type-Options"
+              "title": "WebAuthn"
             }
           }
         ]
@@ -48,7 +48,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "X content option",
+            "query": "Web authn",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -165,8 +165,8 @@
   },
   "active": "315730db8cbd1869",
   "lastOpenFiles": [
-    "Web/HTML.md",
     "Web/X-Content-Type-Options.md",
+    "Web/HTML.md",
     "ネットワーク/インターネット上の電話サービス.md",
     "ネットワーク/MTA Mail transfer agent.md",
     "ネットワーク/メールヘッダーインジェクション.md",
