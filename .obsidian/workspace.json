@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/公開鍵基盤/Type of Singnatures.md",
+                "file": "セキュリティ/MSP Supply Chain Attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type of Singnatures"
+              "title": "MSP Supply Chain Attack"
             }
           },
           {
@@ -103,12 +103,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -231,8 +231,10 @@
   },
   "active": "f126399b7a7b32f6",
   "lastOpenFiles": [
-    "セキュリティ/公開鍵基盤/PKI.md",
+    "セキュリティ/MSP Managed Service Provider.md",
+    "セキュリティ/MSP Supply Chain Attack.md",
     "セキュリティ/公開鍵基盤/Type of Singnatures.md",
+    "セキュリティ/公開鍵基盤/PKI.md",
     "セキュリティ/公開鍵基盤/TLS Certificate Validation.md",
     "セキュリティ/SC午後問題/午後問題/2021/2021-秋-3.md",
     "セキュリティ/SC午後問題/午後問題/2021/2021-秋-2.md",
@@ -264,8 +266,6 @@
     "Misc./attachments/Pasted image 20250413115259.png",
     "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
     "Misc./attachments/Pasted image 20250413112338.png",
-    "セキュリティ/SC午後問題/午後問題/2023/2023-秋-2.md",
-    "セキュリティ/SC午後問題/午後問題/2022/2022-秋-1.md",
     "Misc./attachments/Pasted image 20250405154016.png",
     "セキュリティ/SC午後問題/午後問題/2019",
     "セキュリティ/SC午後問題/午後問題/2020",
