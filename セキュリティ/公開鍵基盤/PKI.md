@@ -83,3 +83,5 @@ SSL/TLS通信の対象URLが "\https://www.a.co.jp/member" の場合、このURL
 現在共通して使用されるX.509証明書の構造では、優先して複数のドメインや、メールアドレス、IPアドレスが格納される`Sub Alternative Name`を検証する。レガシーシステムなどで、`SubAltName`が存在しない場合では、後退して`CN`を検証する。
 
 [[Certificate Transparency]]
+
+[[Type of Singnatures]]

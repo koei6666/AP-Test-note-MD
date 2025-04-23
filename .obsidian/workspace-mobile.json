@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/公開鍵基盤/WebAuthn.md",
+                "file": "セキュリティ/Cookie属性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebAuthn"
+              "title": "Cookie属性"
             }
           }
         ]
@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -48,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Web authn",
+            "query": "Index",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -109,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Web/X-Content-Type-Options.md",
+            "file": "セキュリティ/EAP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,35 +164,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "315730db8cbd1869",
+  "active": "2cf40703e7f8250e",
   "lastOpenFiles": [
-    "Web/X-Content-Type-Options.md",
-    "Web/HTML.md",
-    "ネットワーク/インターネット上の電話サービス.md",
-    "ネットワーク/MTA Mail transfer agent.md",
-    "ネットワーク/メールヘッダーインジェクション.md",
-    "セキュリティ/公開鍵基盤/TLS Handshake.md",
-    "セキュリティ/公開鍵基盤/X.509 Certificate Structure.md",
-    "セキュリティ/公開鍵基盤/TLS Certificate Validation.md",
-    "セキュリティ/メールヘッダーインジェクション.md",
-    "セキュリティ/OAuth.md",
-    "セキュリティ/CVSS Case Study/POODLE CVE-2014-3566.md",
-    "セキュリティ/CVSS Case Study/Log4Shell CVE-2021-44228.md",
-    "セキュリティ/IEEE 802.1Xプロトコル.md",
-    "セキュリティ/DoS攻撃.md",
-    "セキュリティ/SAML.md",
-    "セキュリティ/公開鍵基盤/PKI.md",
-    "Linux/Access Permission.md",
+    "セキュリティ/SC午後問題/ポイント.md",
+    "セキュリティ/Cookie属性.md",
+    "セキュリティ/SC午後問題/午後問題/2022/2022-春-4.md",
+    "セキュリティ/EAP.md",
+    "セキュリティ/CORS Cross Origin Resource Sharing.md",
+    "セキュリティ/CIS Benchmarks.md",
+    "セキュリティ/OIDC Hybrid Authentication.md",
+    "セキュリティ/NIST SP800-61 インシデント対応手順.md",
+    "セキュリティ/Metasploit.md",
+    "セキュリティ/ISO 27018.md",
+    "セキュリティ/ISO 27017.md",
+    "セキュリティ/Implicit Flow.md",
+    "セキュリティ/etc-shadow file.md",
+    "セキュリティ/DNS amp attack.md",
+    "セキュリティ/DMARC.md",
+    "セキュリティ/DDoSに対策する外部サービス.md",
+    "セキュリティ/CSRF.md",
+    "セキュリティ/Kerberos認証.md",
+    "セキュリティ/Golden Ticket Attack.md",
+    "セキュリティ/Ghidra.md",
+    "セキュリティ/fedRAMP.md",
+    "セキュリティ/Content Security Policy.md",
+    "ネットワーク/Preflight Request.md",
+    "セキュリティ/DOM Based XSS.md",
+    "セキュリティ/クロスサイトスクリプティング(XSS).md",
+    "セキュリティ/OWASP ZAP.md",
     "Misc./attachments/IMG_4093.jpeg",
-    "Linux/File type.md",
-    "ネットワーク/AH Authentication Header.md",
-    "ネットワーク/IPSec.md",
-    "ストラテジ/IaaS,PaaS,Saas.md",
-    "セキュリティ/ストレッチング.md",
-    "セキュリティ/暗号化.md",
-    "セキュリティ/セキュリティ.md",
-    "ネットワーク/DRM.md",
-    "ネットワーク/アプリケーション層のプロトコル.md",
     "Misc./attachments/IMG_4043.jpeg",
     "SC/公開鍵基盤",
     "SC",
