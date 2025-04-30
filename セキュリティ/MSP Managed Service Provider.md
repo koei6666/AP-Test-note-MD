@@ -91,6 +91,9 @@ Vertical specialization for:
 Recent incidents like the SolarWinds and Kaseya breaches highlight MSPs as high-value targets for threat actors seeking to compromise multiple organizations through a single attack vector.
 [[MSP Supply Chain Attack]]
 
+#### Mitigation
+[[ISMAP]]
+
 ### Access Management Complexities
 
 MSPs require privileged access to client environments, creating potential security risks requiring implementation of:
