@@ -116,13 +116,13 @@ The SolarWinds incident represents one of the most sophisticated supply chain co
 
 1. **Software Supply Chain Security**:
     
-    - Implement Software Bill of Materials (SBOM) validation
-    - Deploy code signing with attestation
+    - Implement Software Bill of Materials ([[SBOM]]) validation
+    - Deploy code signing with [[Attestation]]
     - Verify hash integrity across the distribution chain
     - Implement integrity monitoring of critical system files
 2. **Authentication Hardening**:
     
-    - Enforce FIDO2/WebAuthn for administrative access
+    - Enforce FIDO2/[[WebAuthn]] for administrative access
     - Implement certificate-based authentication for agent communication
     - Deploy Privileged Access Management (PAM) with session recording
     - Implement break-glass procedures with time-limited access

@@ -79,3 +79,13 @@ SQLでは条件を''で囲むので、条件文にその他の条件を埋め込
    組立結果:
    WHERE user = 'user1' --' and pswd = '$pswd'
 ```
+
+3. スペースフィルタリング対策
+**Code Obfuscation** From a security perspective, `/**/` can be used in SQL injection attacks to bypass security filters. Attackers might insert these comments to:
+
+- Break up SQL keywords that might be detected by security filters
+- Hide malicious code
+- Bypass WAF (Web Application Firewall) rules
+```sql
+SELECT/**/*/**/FROM/**/users/**/WHERE/**/username/**/='admin'
+```

@@ -19,7 +19,7 @@ stmt = connection.createStatemt()
 ResultSet rs = stmt.executeQuery("SELECT * FROM" + table_name)
 ```
 
-SQLインジェクション対策のため、SQL文条件をプレースホールダーする場合では、`PreparedStatemt`というタイプのオブジェクトを使用し、Javaからでは`.prepareStatement`メソッドが使用される
+SQLインジェクション対策のため、SQL文条件をプレースホールダーする場合では、S`PreparedStatemt`というタイプのオブジェクトを使用し、Javaからでは`.prepareStatement`メソッドが使用される
 ```java
 preparedStatement stmt = connection.prepareStatement(SQL query)
 ```
