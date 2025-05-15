@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/NLA Network Level Authentication.md",
+                "file": "セキュリティ/ASM Attack Surface Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLA Network Level Authentication"
+              "title": "ASM Attack Surface Manager"
             }
           },
           {
@@ -272,8 +272,9 @@
   },
   "active": "ba217db2d5822d5a",
   "lastOpenFiles": [
-    "セキュリティ/ZTNA-SDP.md",
     "セキュリティ/NLA Network Level Authentication.md",
+    "セキュリティ/ASM Attack Surface Manager.md",
+    "セキュリティ/ZTNA-SDP.md",
     "セキュリティ/パストラバーサル.md",
     "セキュリティ/SC午後問題/午後問題/2022/2022-春-2.md",
     "セキュリティ/シンクライアント　Thin Client.md",
@@ -298,7 +299,6 @@
     "セキュリティ/SC午後問題/午後問題/2021/2021-秋-1.md",
     "セキュリティ/SC午後問題/午後問題/2022/2022-春-5.md",
     "Misc./attachments/Pasted image 20250419143610.png",
-    "セキュリティ/CSRF.md",
     "Misc./attachments/Pasted image 20250417234550.png",
     "Misc./attachments/Pasted image 20250417234332.png",
     "Misc./attachments/Pasted image 20250417231840.png",
