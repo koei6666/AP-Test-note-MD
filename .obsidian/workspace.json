@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/ASM Attack Surface Manager.md",
+                "file": "ネットワーク/JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASM Attack Surface Manager"
+              "title": "JWT"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ztna",
+                "query": "JWT",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -145,11 +145,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -272,8 +274,8 @@
   },
   "active": "ba217db2d5822d5a",
   "lastOpenFiles": [
+    "セキュリティ/ASM Attack Surface Management.md",
     "セキュリティ/NLA Network Level Authentication.md",
-    "セキュリティ/ASM Attack Surface Manager.md",
     "セキュリティ/ZTNA-SDP.md",
     "セキュリティ/パストラバーサル.md",
     "セキュリティ/SC午後問題/午後問題/2022/2022-春-2.md",
