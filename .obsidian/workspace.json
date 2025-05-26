@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セキュリティ/SC午後問題/午後問題/2022/2022-春-2.md",
+                "file": "セキュリティ/SPF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2022-春-2"
+              "title": "SPF"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JWT",
+                "query": "file:JW",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fa4ce6650fe894ff",
@@ -274,13 +273,17 @@
   },
   "active": "ba217db2d5822d5a",
   "lastOpenFiles": [
+    "セキュリティ/DLP.md",
+    "セキュリティ/BEC Business Email Compromise.md",
+    "セキュリティ/SPF.md",
+    "セキュリティ/SC午後問題/午後問題/2022/2022-春-2.md",
+    "セキュリティ/DMARC.md",
+    "ネットワーク/JWT.md",
     "セキュリティ/ASM Attack Surface Management.md",
     "セキュリティ/NLA Network Level Authentication.md",
     "セキュリティ/ZTNA-SDP.md",
     "セキュリティ/パストラバーサル.md",
-    "セキュリティ/SC午後問題/午後問題/2022/2022-春-2.md",
     "セキュリティ/シンクライアント　Thin Client.md",
-    "セキュリティ/DLP.md",
     "セキュリティ/公開鍵基盤/PKI.md",
     "セキュリティ/MSP Managed Service Provider.md",
     "セキュリティ/PCI-DSS.md",
@@ -296,10 +299,6 @@
     "セキュリティ/Security Rating Service(SRS).md",
     "セキュリティ/公開鍵基盤/Type of Singnatures.md",
     "セキュリティ/公開鍵基盤/TLS Certificate Validation.md",
-    "セキュリティ/SC午後問題/午後問題/2021/2021-秋-3.md",
-    "セキュリティ/SC午後問題/午後問題/2021/2021-秋-2.md",
-    "セキュリティ/SC午後問題/午後問題/2021/2021-秋-1.md",
-    "セキュリティ/SC午後問題/午後問題/2022/2022-春-5.md",
     "Misc./attachments/Pasted image 20250419143610.png",
     "Misc./attachments/Pasted image 20250417234550.png",
     "Misc./attachments/Pasted image 20250417234332.png",
